@@ -35,9 +35,9 @@ jobs:
       - name: Check Git Status and Commit
       # if any changes are made, we will commit and push them
         run: |
-          git status
           git add .
-          if git diff --exit-code --quiet; then
+          git status
+          if git diff --staged --exit-code --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Sync Token Lists at $(date)"
