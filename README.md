@@ -1,5 +1,7 @@
 # Token List - A list of Fungible Tokens(FTs) on Flow Blockchain
 
+[![sync-token-lists](https://github.com/fixes-world/token-list-jsons/actions/workflows/sync-lists.yml/badge.svg)](https://github.com/fixes-world/token-list-jsons/actions/workflows/sync-lists.yml)
+
 This repo contains JSON files automatically updated based on <https://github.com/fixes-world/token-list>
 
 ## 🌐 Websites
