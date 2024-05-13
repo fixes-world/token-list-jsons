@@ -1,9 +1,17 @@
 name: sync-token-lists
 run-name: Daily Sync Token Lists
 on:
+  # Schedule the workflow to run every 24 hours
   schedule:
-    # Run every 24 hours, 00:00 UTC
     - cron: '0 0 * * *'
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Reason for sync'
+        required: true
+        default: 'Manual sync'
+        type: string
 jobs:
   daily-sync:
     runs-on: ubuntu-latest
