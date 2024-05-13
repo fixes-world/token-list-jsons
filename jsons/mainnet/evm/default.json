@@ -1,0 +1,56 @@
+{
+  "name": "Flow EVM Token List",
+  "network": "mainnet",
+  "chainId": 747,
+  "tokens": [],
+  "totalAmount": 0,
+  "filterType": "ALL",
+  "timestamp": "2024-05-13T05:55:05.604Z",
+  "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+  "keywords": [
+    "Flow",
+    "Cadence",
+    "EVM",
+    "DeFi",
+    "NFT",
+    "FT",
+    "Dapp",
+    "Blockchain",
+    "Crypto"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "wrapped-celer": {
+      "name": "wrapped-celer",
+      "description": "Asset wrapped using celer bridge"
+    },
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
+    },
+    "governance-token": {
+      "name": "governance-token",
+      "description": "Tokens that are designed to be use in community governance and maintenance"
+    },
+    "memecoin": {
+      "name": "memecoin",
+      "description": "Tokens that are created for fun and meme"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
