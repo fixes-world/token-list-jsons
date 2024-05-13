@@ -5,6 +5,27 @@
   "tokens": [
     {
       "chainId": 545,
+      "address": "0x6e0797ac987005f5",
+      "contractName": "BloctoToken",
+      "path": {
+        "vault": "/storage/bloctoTokenVault",
+        "receiver": "/public/bloctoTokenReceiver",
+        "balance": "/public/bloctoTokenBalance"
+      },
+      "symbol": "BLT",
+      "name": "Blocto Token",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.0f9df91c9121c460.BloctoToken/logo.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://blocto.app",
+        "displaySource": "0x3961b905868aeb28",
+        "pathSource": "0x3961b905868aeb28"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0xa983fecbed621163",
       "contractName": "FiatToken",
       "path": {
@@ -77,9 +98,9 @@
       }
     }
   ],
-  "totalAmount": 3,
+  "totalAmount": 4,
   "filterType": "ALL",
-  "timestamp": "2024-05-13T06:34:36.510Z",
+  "timestamp": "2024-05-13T11:49:03.603Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -124,7 +145,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
