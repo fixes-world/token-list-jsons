@@ -10,6 +10,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'pnpm'
       - name: Configure Git
         run: |
           git config --local user.name "GitHub Actions [Bot]"
@@ -17,3 +22,14 @@ jobs:
       - name: Sync Token Lists
         run: |
           "echo 'Syncing Token Lists'"
+      - name: Check Git Status and Commit
+      # if any changes are made, we will commit and push them
+        run: |
+          git status
+          git add .
+          if git diff --exit-code --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync Token Lists at $(date)"
+            git push
+          fi
