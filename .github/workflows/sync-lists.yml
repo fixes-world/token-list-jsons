@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -41,5 +43,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Sync Token Lists at $(date)"
-            git push
+            git push https://${{ secrets.GITHUB_TOKEN }}@github.com/fixes-world/token-list-jsons.git
           fi
