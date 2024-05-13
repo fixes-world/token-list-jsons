@@ -21,7 +21,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
       - name: Sync Token Lists
         run: |
-          "echo 'Syncing Token Lists'"
+          "node ./scripts/sync-token-lists.mjs"
       - name: Check Git Status and Commit
       # if any changes are made, we will commit and push them
         run: |
