@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'pnpm'
+          cache: 'npm'
       - name: Configure Git
         run: |
           git config --local user.name "GitHub Actions [Bot]"
