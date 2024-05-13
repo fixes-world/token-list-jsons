@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The token list JSONs synced from https://token-list.fixes.world/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sync": "node ./scripts/sync-token-lists.mjs"
   },
   "keywords": [
     "TokenList",

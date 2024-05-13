@@ -28,8 +28,10 @@ jobs:
           git config --local user.name "GitHub Actions [Bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
       - name: Sync Token Lists
+        # Use node to run './scripts/sync-token-lists.mjs'
         run: |
-          "node ./scripts/sync-token-lists.mjs"
+          npm install
+          npm run sync
       - name: Check Git Status and Commit
       # if any changes are made, we will commit and push them
         run: |
