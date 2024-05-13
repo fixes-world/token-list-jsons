@@ -49,14 +49,6 @@ const queryTokenList = async (network, executionEnv, reviewer = undefined) => {
   }
 };
 
-function difference(setA, setB) {
-  let _difference = new Set(setA);
-  for (let elem of setB) {
-    _difference.delete(elem);
-  }
-  return _difference;
-}
-
 const writeJSONFile = async (
   data,
   network,
@@ -90,17 +82,17 @@ const writeJSONFile = async (
   });
   const newTokensSet = new Set(newTokens);
 
-  const newTokenAdded = difference(newTokensSet, origTokensSet).size > 0;
-  const oldTokenDeleted = difference(origTokensSet, newTokensSet).size > 0;
+  const newTokenAdded = newTokensSet.size > origTokensSet.size;
+  const oldTokenDeleted = origTokensSet.size > newTokensSet.size;
   if (oldTokenDeleted) {
-    newList.version.major = originList.version.major + 1;
-    newList.version.minor = 0;
-    newList.version.patch = 0;
+    data.version.major = originList.version.major + 1;
+    data.version.minor = 0;
+    data.version.patch = 0;
   } else if (newTokenAdded) {
-    newList.version.minor = originList.version.minor + 1;
-    newList.version.patch = 0;
+    data.version.minor = originList.version.minor + 1;
+    data.version.patch = 0;
   } else {
-    newList.version.patch = originList.version.patch + 1;
+    data.version.patch = originList.version.patch + 1;
   }
 
   fs.writeFileSync(filename, JSON.stringify(data, null, 2));
