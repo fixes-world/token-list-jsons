@@ -20,13 +20,13 @@ The project repository will regularly retrieve the latest Token list JSON files 
 
 - **Mainnet - Default** <https://raw.githubusercontent.com/fixes-world/token-list-jsons/main/jsons/mainnet/flow/default.json>
 - **Testnet - Default** <https://raw.githubusercontent.com/fixes-world/token-list-jsons/main/jsons/testnet/flow/default.json>
-- **Previewnet - Default** <https://raw.githubusercontent.com/fixes-world/token-list-jsons/main/jsons/previewnet/flow/default.json>
+<!-- - **Previewnet - Default** <https://raw.githubusercontent.com/fixes-world/token-list-jsons/main/jsons/previewnet/flow/default.json> -->
 
 > CDN
 
-- **Mainnet - Default** <https://cdn.jsdelivr.net/gh/fixes-world/token-list-jsons/@main/jsons/mainnet/flow/default.json>
-- **Testnet - Default** <https://cdn.jsdelivr.net/gh/fixes-world/token-list-jsons/@main/jsons/testnet/flow/default.json>
-- **Previewnet - Default** <https://cdn.jsdelivr.net/gh/fixes-world/token-list-jsons/@main/jsons/previewnet/flow/default.json>
+- **Mainnet - Default** <https://cdn.jsdelivr.net/gh/fixes-world/token-list-jsons@main/jsons/mainnet/flow/default.json>
+- **Testnet - Default** <https://cdn.jsdelivr.net/gh/fixes-world/token-list-jsons@main/jsons/testnet/flow/default.json>
+<!-- - **Previewnet - Default** <https://cdn.jsdelivr.net/gh/fixes-world/token-list-jsons@main/jsons/previewnet/flow/default.json> -->
 
-The Default JSON files are the main token list files that contain all the tokens on the Flow blockchain.  
+The Default JSON files are the main token list files that contain all the fungible tokens.  
 For reviewers, the JSON files filtered by reviewers are also available in the `/jsons/${network}/flow/reviewers/` directory.
