@@ -33,8 +33,16 @@ const queryVerifiedReviwers = async (network) => {
   }
 };
 
-const queryTokenList = async (network, executionEnv, reviewer = undefined) => {
-  const url = `${endpoints[network]}/token-list/${reviewer ? reviewer : ""}`;
+const queryTokenList = async (
+  network,
+  executionEnv,
+  reviewer = undefined,
+  filter = 0
+) => {
+  let url = `${endpoints[network]}/token-list/${reviewer ? reviewer : ""}`;
+  if (filter !== 0) {
+    url += `?filter=${filter}`;
+  }
   try {
     const response = await fetch(url);
     const data = await response.json();
@@ -53,8 +61,10 @@ const writeJSONFile = async (
   data,
   network,
   executionEnv,
-  reviewer = undefined
+  reviewer = undefined,
+  filter = 0
 ) => {
+  const filterKeys = ["", "-reviewed", "-managed", "-verified", "-featured"];
   const filename = join(
     process.cwd(),
     "jsons",
@@ -62,37 +72,49 @@ const writeJSONFile = async (
     executionEnv,
     ...(reviewer === undefined
       ? ["default.json"]
-      : ["reviewers", `${reviewer}.json`])
+      : ["reviewers", `${reviewer}${filterKeys[filter]}.json`])
   );
-  const originList = JSON.parse(fs.readFileSync(filename, "utf8"));
+  let originList;
+  try {
+    originList = JSON.parse(fs.readFileSync(filename, "utf8"));
+  } catch (e) {
+    console.log(`Failed to read ${filename}`);
+  }
 
   // check diff
-  if (JSON.stringify(data.tokens) === JSON.stringify(originList.tokens)) {
+  if (
+    originList &&
+    JSON.stringify(data.tokens) === JSON.stringify(originList.tokens)
+  ) {
     console.log(`No change for ${filename}`);
     return;
   }
 
   // update version
-  const origTokens = originList.tokens.map((token) => {
-    return `${token.address}-${token.contractName}`;
-  });
-  const origTokensSet = new Set(origTokens);
-  const newTokens = data.tokens.filter((token) => {
-    return `${token.address}-${token.contractName}`;
-  });
-  const newTokensSet = new Set(newTokens);
+  let newTokenAdded = true;
+  let oldTokenDeleted = false;
+  if (!!originList) {
+    const origTokens = originList.tokens.map((token) => {
+      return `${token.address}-${token.contractName}`;
+    });
+    const origTokensSet = new Set(origTokens);
+    const newTokens = data.tokens.filter((token) => {
+      return `${token.address}-${token.contractName}`;
+    });
+    const newTokensSet = new Set(newTokens);
+    newTokenAdded = newTokensSet.size > origTokensSet.size;
+    oldTokenDeleted = origTokensSet.size > newTokensSet.size;
+  }
 
-  const newTokenAdded = newTokensSet.size > origTokensSet.size;
-  const oldTokenDeleted = origTokensSet.size > newTokensSet.size;
   if (oldTokenDeleted) {
-    data.version.major = originList.version.major + 1;
+    data.version.major = (originList ?? data).version.major + 1;
     data.version.minor = 0;
     data.version.patch = 0;
   } else if (newTokenAdded) {
-    data.version.minor = originList.version.minor + 1;
+    data.version.minor = (originList ?? data).version.minor + 1;
     data.version.patch = 0;
   } else {
-    data.version.patch = originList.version.patch + 1;
+    data.version.patch = (originList ?? data).version.patch + 1;
   }
 
   fs.writeFileSync(filename, JSON.stringify(data, null, 2));
@@ -115,25 +137,28 @@ async function main() {
 
       // Step 2. Query Reviewers' JSON
       const reviewers = await queryVerifiedReviwers(network);
-
       for (const reviewer of reviewers) {
-        const tokenList = await queryTokenList(
-          network,
-          executionEnv,
-          reviewer.address
-        );
-        if (!tokenList) {
-          console.error(
-            `Failed to query token list for reviewer ${reviewer.address}`
-          );
-          continue;
-        } else {
-          await writeJSONFile(
-            tokenList,
+        for (const filterType of [0, 1, 2, 3, 4]) {
+          const tokenList = await queryTokenList(
             network,
             executionEnv,
-            reviewer.address
+            reviewer.address,
+            filterType
           );
+          if (!tokenList) {
+            console.error(
+              `Failed to query token list for reviewer ${reviewer.address}, filter=${filterType} for ${network}(${executionEnv})`
+            );
+            continue;
+          } else {
+            await writeJSONFile(
+              tokenList,
+              network,
+              executionEnv,
+              reviewer.address,
+              filterType
+            );
+          }
         }
       }
     }
