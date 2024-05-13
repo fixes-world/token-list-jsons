@@ -11,5 +11,7 @@
     "JSON"
   ],
   "license": "Apache-2.0",
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
