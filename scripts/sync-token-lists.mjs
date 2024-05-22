@@ -90,6 +90,11 @@ const writeJSONFile = async (
     return;
   }
 
+  if (data.tokens.length === 0) {
+    console.log("Failed to query token list");
+    return;
+  }
+
   // update version
   let newTokenAdded = true;
   let oldTokenDeleted = false;
