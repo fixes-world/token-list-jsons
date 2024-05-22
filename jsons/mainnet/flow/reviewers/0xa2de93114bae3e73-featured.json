@@ -16,7 +16,7 @@
       "name": "USD Coin",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -24,8 +24,8 @@
       ],
       "extensions": {
         "coingeckoId": "usd-coin",
-        "twitter": "https://twitter.com/circle",
         "documentation": "https://developers.circle.com/stablecoins/docs",
+        "twitter": "https://twitter.com/circle",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -44,18 +44,18 @@
       "name": "Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
         "utility-token"
       ],
       "extensions": {
-        "discord": "http://discord.gg/flow",
-        "twitter": "https://twitter.com/flow_blockchain",
-        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "http://discord.gg/flow",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -74,7 +74,7 @@
       "name": "Liquid Staked Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -91,7 +91,7 @@
   ],
   "totalAmount": 3,
   "filterType": "FEATURED",
-  "timestamp": "2024-05-13T12:14:35.535Z",
+  "timestamp": "2024-05-22T10:28:05.061Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -136,7 +136,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

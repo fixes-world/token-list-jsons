@@ -16,16 +16,16 @@
       "name": "USD Coin",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
         "stablecoin"
       ],
       "extensions": {
+        "documentation": "https://developers.circle.com/stablecoins/docs",
         "coingeckoId": "usd-coin",
         "twitter": "https://twitter.com/circle",
-        "documentation": "https://developers.circle.com/stablecoins/docs",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -44,17 +44,17 @@
       "name": "Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "discord": "http://discord.gg/flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -74,7 +74,7 @@
       "name": "Liquid Staked Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -253,8 +253,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "coingeckoId": "avalanche-2",
+        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -279,8 +279,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "coingeckoId": "binancecoin",
+        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -434,8 +434,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -556,8 +556,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "q2maASKC",
         "twitter": "freely",
+        "discord": "q2maASKC",
         "website": "freely.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -746,8 +746,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.gg/RHH5aH44k9",
         "twitter": "https://twitter.com/publishednft",
+        "discord": "https://discord.gg/RHH5aH44k9",
         "website": "https://publishednft.io",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -843,9 +843,9 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/SloppyStakesDAO",
-        "telegram": "https://t.co/E8FzKLuMnH",
         "discord": "https://discord.com/invite/GYV8JRR",
+        "telegram": "https://t.co/E8FzKLuMnH",
+        "twitter": "https://twitter.com/SloppyStakesDAO",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -991,8 +991,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "thewolfofflow",
+        "discord": "",
         "website": ""
       }
     },
@@ -1086,15 +1086,15 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     }
   ],
   "totalAmount": 44,
   "filterType": "VERIFIED",
-  "timestamp": "2024-05-13T12:14:34.996Z",
+  "timestamp": "2024-05-22T10:28:04.734Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1139,7 +1139,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

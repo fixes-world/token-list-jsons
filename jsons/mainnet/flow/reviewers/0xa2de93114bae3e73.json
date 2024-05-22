@@ -16,7 +16,7 @@
       "name": "USD Coin",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -44,18 +44,18 @@
       "name": "Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "discord": "http://discord.gg/flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
+        "coingeckoId": "flow",
+        "discord": "http://discord.gg/flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -74,7 +74,7 @@
       "name": "Liquid Staked Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -227,8 +227,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -305,8 +305,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binance-usd",
         "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "coingeckoId": "binance-usd",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -434,8 +434,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
         "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "coingeckoId": "wrapped-bitcoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -606,8 +606,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -629,8 +629,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -843,8 +843,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/SloppyStakesDAO",
         "telegram": "https://t.co/E8FzKLuMnH",
+        "twitter": "https://twitter.com/SloppyStakesDAO",
         "discord": "https://discord.com/invite/GYV8JRR",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -893,8 +893,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/Z49V8ky2Jb",
         "twitter": "https://twitter.com/StudentsoftGame",
+        "discord": "https://discord.com/invite/Z49V8ky2Jb",
         "website": "https://toucans.ecdao.org/p/StudentsofTheGame",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1160,7 +1160,7 @@
   ],
   "totalAmount": 47,
   "filterType": "ALL",
-  "timestamp": "2024-05-13T06:30:27.718Z",
+  "timestamp": "2024-05-22T10:28:02.538Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1206,6 +1206,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
