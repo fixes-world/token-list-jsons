@@ -40,12 +40,34 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
       "tags": [],
       "extensions": {
-        "coingeckoId": "usd-coin",
-        "documentation": "https://developers.circle.com/stablecoins/docs",
         "twitter": "https://twitter.com/circle",
+        "documentation": "https://developers.circle.com/stablecoins/docs",
+        "coingeckoId": "usd-coin",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0x625f49193dcdccfc",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x625f49193dcdccfcTBH_Vault",
+        "receiver": "/public/FixsStandardFT_0x625f49193dcdccfcTBH_Receiver",
+        "balance": "/public/FixsStandardFT_0x625f49193dcdccfcTBH_Balance"
+      },
+      "symbol": "TBH",
+      "name": "Bohao Token",
+      "description": "Hello World",
+      "decimals": 8,
+      "logoURI": "http://static.fixes.world/12SEVBRC5qcG1719414852854",
+      "tags": [],
+      "extensions": {
+        "github": "https://github.com/btspoony",
+        "telegram": "https://t.me/bt_wood",
+        "twitter": "https://x.com/btspoony",
+        "website": "https://btang.cn/"
       }
     },
     {
@@ -87,10 +109,10 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
-        "coingeckoId": "flow",
-        "discord": "http://discord.gg/flow",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "http://discord.gg/flow",
+        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
@@ -98,9 +120,9 @@
       }
     }
   ],
-  "totalAmount": 4,
+  "totalAmount": 5,
   "filterType": "ALL",
-  "timestamp": "2024-05-22T01:02:26.463Z",
+  "timestamp": "2024-06-28T01:05:11.490Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -145,7 +167,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

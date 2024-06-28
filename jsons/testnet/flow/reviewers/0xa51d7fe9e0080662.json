@@ -23,10 +23,10 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
         "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "coingeckoId": "flow",
         "discord": "http://discord.gg/flow",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
@@ -59,6 +59,28 @@
     },
     {
       "chainId": 545,
+      "address": "0x625f49193dcdccfc",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x625f49193dcdccfcTBH_Vault",
+        "receiver": "/public/FixsStandardFT_0x625f49193dcdccfcTBH_Receiver",
+        "balance": "/public/FixsStandardFT_0x625f49193dcdccfcTBH_Balance"
+      },
+      "symbol": "TBH",
+      "name": "Bohao Token",
+      "description": "Hello World",
+      "decimals": 8,
+      "logoURI": "http://static.fixes.world/12SEVBRC5qcG1719414852854",
+      "tags": [],
+      "extensions": {
+        "github": "https://github.com/btspoony",
+        "telegram": "https://t.me/bt_wood",
+        "twitter": "https://x.com/btspoony",
+        "website": "https://btang.cn/"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0x9392a4a7c3f49a0b",
       "contractName": "FlovatarDustToken",
       "path": {
@@ -79,9 +101,9 @@
       }
     }
   ],
-  "totalAmount": 3,
+  "totalAmount": 4,
   "filterType": "ALL",
-  "timestamp": "2024-05-13T06:51:16.758Z",
+  "timestamp": "2024-06-28T01:05:12.332Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -126,7 +148,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
