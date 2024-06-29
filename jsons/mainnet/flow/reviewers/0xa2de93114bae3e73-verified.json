@@ -55,7 +55,7 @@
         "coingeckoId": "flow",
         "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
-        "discord": "http://discord.gg/flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1094,7 +1094,7 @@
   ],
   "totalAmount": 44,
   "filterType": "VERIFIED",
-  "timestamp": "2024-05-22T10:28:04.734Z",
+  "timestamp": "2024-06-29T01:04:02.317Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1140,6 +1140,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
