@@ -1063,8 +1063,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -1180,6 +1180,27 @@
     },
     {
       "chainId": 747,
+      "address": "0xe39082fc08c1cd13",
+      "contractName": "THEBEARDAO",
+      "path": {
+        "vault": "/storage/THEBEARDAOVault",
+        "receiver": "/public/THEBEARDAOReceiver",
+        "balance": "/public/THEBEARDAOMetadata"
+      },
+      "symbol": "BEAR",
+      "name": "THE BEAR DAO",
+      "description": "DAO for people that are still here. If you're bearish on flow then we're bearish on you.",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeihkwwvhlb75wqloqqywqtzkio32drpck4v3fm3x53wo7bs335cqzm",
+      "tags": [],
+      "extensions": {
+        "twitter": "flow_bear_token",
+        "discord": "",
+        "website": ""
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x66b60643244a7738",
       "contractName": "TitToken",
       "path": {
@@ -1224,9 +1245,9 @@
       }
     }
   ],
-  "totalAmount": 50,
+  "totalAmount": 51,
   "filterType": "ALL",
-  "timestamp": "2024-07-02T00:45:22.159Z",
+  "timestamp": "2024-07-02T00:48:16.651Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1271,7 +1292,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
