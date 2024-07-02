@@ -51,11 +51,11 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -305,8 +305,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "coingeckoId": "binance-usd",
+        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -434,8 +434,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -564,6 +564,30 @@
     },
     {
       "chainId": 747,
+      "address": "0x3c5959b568896393",
+      "contractName": "FUSD",
+      "path": {
+        "vault": "/storage/fusdVault",
+        "receiver": "/public/fusdReceiver",
+        "balance": "/public/fusdBalance"
+      },
+      "symbol": "FUSD",
+      "name": "FUSD(Deprecated)",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
+      "tags": [
+        "Verified",
+        "Deprecated"
+      ],
+      "extensions": {
+        "website": "http://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x078a8129525775dd",
       "contractName": "GreenBitcoin",
       "path": {
@@ -580,8 +604,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/_GreenBitcoin",
         "discord": "https://discord.gg/vY8pK9x8",
+        "twitter": "https://twitter.com/_GreenBitcoin",
         "website": "https://toucans.ecdao.org/p/GreenBitcoin",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -629,8 +653,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -1039,8 +1063,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1086,8 +1110,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1128,8 +1152,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreibdmuhaiq7dvnzb47avycpzite2i4etsaumzntldtg56wdorsdrp4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "frugcoin",
+        "discord": "",
         "website": ""
       }
     },
@@ -1200,9 +1224,9 @@
       }
     }
   ],
-  "totalAmount": 49,
+  "totalAmount": 50,
   "filterType": "ALL",
-  "timestamp": "2024-06-29T01:03:59.530Z",
+  "timestamp": "2024-07-02T00:45:22.159Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1247,7 +1271,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
