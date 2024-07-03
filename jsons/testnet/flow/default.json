@@ -40,9 +40,9 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/circle",
-        "documentation": "https://developers.circle.com/stablecoins/docs",
         "coingeckoId": "usd-coin",
+        "documentation": "https://developers.circle.com/stablecoins/docs",
+        "twitter": "https://twitter.com/circle",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -68,6 +68,25 @@
         "telegram": "https://t.me/bt_wood",
         "twitter": "https://x.com/btspoony",
         "website": "https://btang.cn/"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0x0b3677727d6e6240",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x0b3677727d6e6240TBH_Vault",
+        "receiver": "/public/FixsStandardFT_0x0b3677727d6e6240TBH_Receiver",
+        "balance": "/public/FixsStandardFT_0x0b3677727d6e6240TBH_Balance"
+      },
+      "symbol": "TBH",
+      "name": "Bohao Token",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12SEVBRC5qcG1719913990511",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
       }
     },
     {
@@ -109,20 +128,20 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "twitter": "https://twitter.com/flow_blockchain",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "coingeckoId": "flow",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
       }
     }
   ],
-  "totalAmount": 5,
+  "totalAmount": 6,
   "filterType": "ALL",
-  "timestamp": "2024-06-29T01:04:05.018Z",
+  "timestamp": "2024-07-03T01:05:15.297Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -167,7 +186,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
