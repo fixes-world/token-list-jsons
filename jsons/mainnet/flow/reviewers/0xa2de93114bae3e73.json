@@ -53,9 +53,9 @@
       "extensions": {
         "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "coingeckoId": "flow",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -227,8 +227,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flowbrasilchain",
         "discord": "https://discord.gg/hT8EpC5mUN",
+        "twitter": "https://twitter.com/flowbrasilchain",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -305,8 +305,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binance-usd",
         "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "coingeckoId": "binance-usd",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -604,8 +604,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.gg/vY8pK9x8",
         "twitter": "https://twitter.com/_GreenBitcoin",
+        "discord": "https://discord.gg/vY8pK9x8",
         "website": "https://toucans.ecdao.org/p/GreenBitcoin",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -723,8 +723,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -868,8 +868,8 @@
       ],
       "extensions": {
         "discord": "https://discord.com/invite/GYV8JRR",
-        "telegram": "https://t.co/E8FzKLuMnH",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1110,8 +1110,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -1131,8 +1131,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -1152,8 +1152,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreibdmuhaiq7dvnzb47avycpzite2i4etsaumzntldtg56wdorsdrp4",
       "tags": [],
       "extensions": {
-        "twitter": "frugcoin",
         "discord": "",
+        "twitter": "frugcoin",
         "website": ""
       }
     },
@@ -1194,8 +1194,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihkwwvhlb75wqloqqywqtzkio32drpck4v3fm3x53wo7bs335cqzm",
       "tags": [],
       "extensions": {
-        "twitter": "flow_bear_token",
         "discord": "",
+        "twitter": "flow_bear_token",
         "website": ""
       }
     },
@@ -1225,6 +1225,27 @@
     },
     {
       "chainId": 747,
+      "address": "0xee09029f1dbcd9d1",
+      "contractName": "TopShotBETA",
+      "path": {
+        "vault": "/storage/TopShotBETAVault",
+        "receiver": "/public/TopShotBETAReceiver",
+        "balance": "/public/TopShotBETAMetadata"
+      },
+      "symbol": "BETA",
+      "name": "Top Shot $BETA",
+      "description": "Top Shots Rookie Debut Meme Coin",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreifkjlkzfjml77ogwnxnbqbeixbxau6lyubwtrcfsi3uwaeep664mu",
+      "tags": [],
+      "extensions": {
+        "twitter": "TopShotBETA",
+        "discord": "",
+        "website": ""
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0xb055bef687cfca82",
       "contractName": "TrollDAO",
       "path": {
@@ -1239,15 +1260,15 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreiccnzo2zs7ntudbyeqaqyt2deic46wpq2n6hrxqe63feu4dcugmsa",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "trollonflow",
+        "discord": "",
         "website": ""
       }
     }
   ],
-  "totalAmount": 51,
+  "totalAmount": 52,
   "filterType": "ALL",
-  "timestamp": "2024-07-02T00:48:16.651Z",
+  "timestamp": "2024-07-04T01:05:14.898Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1292,7 +1313,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
