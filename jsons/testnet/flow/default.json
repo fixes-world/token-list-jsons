@@ -40,8 +40,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
       "tags": [],
       "extensions": {
-        "coingeckoId": "usd-coin",
         "documentation": "https://developers.circle.com/stablecoins/docs",
+        "coingeckoId": "usd-coin",
         "twitter": "https://twitter.com/circle",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa51d7fe9e0080662",
@@ -91,6 +91,25 @@
     },
     {
       "chainId": 545,
+      "address": "0x56d62b3bd3120e7a",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x56d62b3bd3120e7aTBH_Vault",
+        "receiver": "/public/FixsStandardFT_0x56d62b3bd3120e7aTBH_Receiver",
+        "balance": "/public/FixsStandardFT_0x56d62b3bd3120e7aTBH_Balance"
+      },
+      "symbol": "TBH",
+      "name": "Bohao Token",
+      "description": "Hey, buy me",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12SEVBRC5qcG1720240024642",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0x9392a4a7c3f49a0b",
       "contractName": "FlovatarDustToken",
       "path": {
@@ -128,9 +147,9 @@
         "utility-token"
       ],
       "extensions": {
+        "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "coingeckoId": "flow",
-        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "https://flow.com",
@@ -139,9 +158,9 @@
       }
     }
   ],
-  "totalAmount": 6,
+  "totalAmount": 7,
   "filterType": "ALL",
-  "timestamp": "2024-07-03T01:05:15.297Z",
+  "timestamp": "2024-07-07T01:11:10.529Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -186,7 +205,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
