@@ -110,6 +110,25 @@
     },
     {
       "chainId": 545,
+      "address": "0x7baabb822a8bcbcf",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x7baabb822a8bcbcfCOIN_Vault",
+        "receiver": "/public/FixsStandardFT_0x7baabb822a8bcbcfCOIN_Receiver",
+        "balance": "/public/FixsStandardFT_0x7baabb822a8bcbcfCOIN_Balance"
+      },
+      "symbol": "COIN",
+      "name": "Coin Name",
+      "description": "Desc",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/24bG9nby01MT1720541688358",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0x9392a4a7c3f49a0b",
       "contractName": "FlovatarDustToken",
       "path": {
@@ -158,9 +177,9 @@
       }
     }
   ],
-  "totalAmount": 7,
+  "totalAmount": 8,
   "filterType": "ALL",
-  "timestamp": "2024-07-07T01:11:10.529Z",
+  "timestamp": "2024-07-10T01:06:54.323Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -205,7 +224,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
