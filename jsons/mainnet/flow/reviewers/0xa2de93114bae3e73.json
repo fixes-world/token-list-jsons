@@ -24,8 +24,8 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/circle",
-        "coingeckoId": "usd-coin",
         "documentation": "https://developers.circle.com/stablecoins/docs",
+        "coingeckoId": "usd-coin",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -51,11 +51,11 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "coingeckoId": "flow",
+        "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -332,8 +332,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "dai",
         "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
+        "coingeckoId": "dai",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -434,8 +434,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
         "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "coingeckoId": "wrapped-bitcoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -533,8 +533,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -630,8 +630,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -723,8 +723,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -867,9 +867,9 @@
         "memecoin"
       ],
       "extensions": {
+        "telegram": "https://t.co/E8FzKLuMnH",
         "discord": "https://discord.com/invite/GYV8JRR",
         "twitter": "https://twitter.com/SloppyStakesDAO",
-        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -917,8 +917,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/StudentsoftGame",
         "discord": "https://discord.com/invite/Z49V8ky2Jb",
+        "twitter": "https://twitter.com/StudentsoftGame",
         "website": "https://toucans.ecdao.org/p/StudentsofTheGame",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1138,6 +1138,85 @@
     },
     {
       "chainId": 747,
+      "address": "0x2fc0d080618ee419",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x2fc0d080618ee419RUG_Vault",
+        "receiver": "/public/FixsStandardFT_0x2fc0d080618ee419RUG_Receiver",
+        "balance": "/public/FixsStandardFT_0x2fc0d080618ee419RUG_Balance"
+      },
+      "symbol": "RUG",
+      "name": "RUG",
+      "description": "This is a token for RUG projects on the Flow blockchain.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12UlVHLmpwZw1720687769219",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xb9cd93d3bb31b497",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xb9cd93d3bb31b497FIX_Vault",
+        "receiver": "/public/FixsStandardFT_0xb9cd93d3bb31b497FIX_Receiver",
+        "balance": "/public/FixsStandardFT_0xb9cd93d3bb31b497FIX_Balance"
+      },
+      "symbol": "FIX",
+      "name": "Fixes World",
+      "description": "Demo Coin launched by Fixes World.\nFixes World provides multiple fungible token issuance, trading, staking, and governance services.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
+      "tags": [],
+      "extensions": {
+        "telegram": "https://t.me/fixes_world",
+        "twitter": "https://x.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
+        "website": "https://linktr.ee/fixes.world"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x0169af3078d4efff",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x0169af3078d4efffRND_Vault",
+        "receiver": "/public/FixsStandardFT_0x0169af3078d4efffRND_Receiver",
+        "balance": "/public/FixsStandardFT_0x0169af3078d4efffRND_Balance"
+      },
+      "symbol": "RND",
+      "name": "Random Coin",
+      "description": "Worthless, just a random coin.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16cmFuZG9tLn1720670911873",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xce0ebd3df46ea037",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xce0ebd3df46ea037CAM_Vault",
+        "receiver": "/public/FixsStandardFT_0xce0ebd3df46ea037CAM_Receiver",
+        "balance": "/public/FixsStandardFT_0xce0ebd3df46ea037CAM_Balance"
+      },
+      "symbol": "CAM",
+      "name": "Scammy coin",
+      "description": "Not doing anything with this",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16UG9vXzI5Lm1720730336857",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x1a494f704432b4bf",
       "contractName": "FrugDAO",
       "path": {
@@ -1194,8 +1273,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihkwwvhlb75wqloqqywqtzkio32drpck4v3fm3x53wo7bs335cqzm",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "flow_bear_token",
+        "discord": "",
         "website": ""
       }
     },
@@ -1239,8 +1318,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreifkjlkzfjml77ogwnxnbqbeixbxau6lyubwtrcfsi3uwaeep664mu",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "",
+        "twitter": "TopShotBETA",
         "website": ""
       }
     },
@@ -1266,9 +1345,9 @@
       }
     }
   ],
-  "totalAmount": 52,
+  "totalAmount": 56,
   "filterType": "ALL",
-  "timestamp": "2024-07-04T01:05:14.898Z",
+  "timestamp": "2024-07-12T01:05:34.299Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1313,7 +1392,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }

@@ -23,11 +23,11 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
+        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -119,6 +119,25 @@
     },
     {
       "chainId": 545,
+      "address": "0xed152c0ce12404b9",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xed152c0ce12404b9RND_Vault",
+        "receiver": "/public/FixsStandardFT_0xed152c0ce12404b9RND_Receiver",
+        "balance": "/public/FixsStandardFT_0xed152c0ce12404b9RND_Balance"
+      },
+      "symbol": "RND",
+      "name": "Random Coin",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16cmFuZG9tLn1720676670626",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0x7baabb822a8bcbcf",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -158,9 +177,9 @@
       }
     }
   ],
-  "totalAmount": 7,
+  "totalAmount": 8,
   "filterType": "ALL",
-  "timestamp": "2024-07-10T01:06:55.284Z",
+  "timestamp": "2024-07-12T01:05:40.466Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -205,7 +224,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
