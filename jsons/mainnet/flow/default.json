@@ -178,8 +178,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binancecoin",
         "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "coingeckoId": "binancecoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -229,8 +229,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
+        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -374,8 +374,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -419,12 +419,31 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "usd-coin",
         "documentation": "https://developers.circle.com/stablecoins/docs",
         "twitter": "https://twitter.com/circle",
+        "coingeckoId": "usd-coin",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x30c7989ef730601d",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x30c7989ef730601dBIFF_Vault",
+        "receiver": "/public/FixsStandardFT_0x30c7989ef730601dBIFF_Receiver",
+        "balance": "/public/FixsStandardFT_0x30c7989ef730601dBIFF_Balance"
+      },
+      "symbol": "BIFF",
+      "name": "BIFF 2 THE FUTURE",
+      "description": "Since you're new here, I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12QklGRi5qcG1721060623168",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
       }
     },
     {
@@ -444,6 +463,25 @@
       "tags": [],
       "extensions": {
         "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x790b8e6b2fa3760b",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x790b8e6b2fa3760bBUCKSY_Vault",
+        "receiver": "/public/FixsStandardFT_0x790b8e6b2fa3760bBUCKSY_Receiver",
+        "balance": "/public/FixsStandardFT_0x790b8e6b2fa3760bBUCKSY_Balance"
+      },
+      "symbol": "BUCKSY",
+      "name": "cryptocat",
+      "description": "Give me flow fish and I'll give you back gold fish, meow🐱🐱🐱",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/40UG9saXNoXz1721047112447",
+      "tags": [],
+      "extensions": {
+        "website": "https://x.com/timon4room"
       }
     },
     {
@@ -483,9 +521,28 @@
       "tags": [],
       "extensions": {
         "telegram": "https://t.me/fixes_world",
-        "github": "https://github.com/fixes-world",
         "twitter": "https://x.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
         "website": "https://linktr.ee/fixes.world"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x84509c2a28c0de41",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x84509c2a28c0de41RDB_Vault",
+        "receiver": "/public/FixsStandardFT_0x84509c2a28c0de41RDB_Receiver",
+        "balance": "/public/FixsStandardFT_0x84509c2a28c0de41RDB_Balance"
+      },
+      "symbol": "RDB",
+      "name": "Ricky Dragoon on Bitcoin",
+      "description": "The first conceptual meme-coin on the Fixes token.Based on the $RDB token, the idea of ​​​​how the character of Ricky Spanish Dragoon on Bitcoin will carry out its implementation in the universe will be decided. A Tao will be created that will make decisions on the development of Ricky Spanich character, the Tao's votes will be distributed based on the principle of ownership of the $RDB token.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/20SU1HXzA1MD1721051954174",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
       }
     },
     {
@@ -521,6 +578,25 @@
       "description": "Not doing anything with this",
       "decimals": 8,
       "logoURI": "https://static.fixes.world/16UG9vXzI5Lm1720730336857",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x282cd67844f046cf",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x282cd67844f046cfVENUS_Vault",
+        "receiver": "/public/FixsStandardFT_0x282cd67844f046cfVENUS_Receiver",
+        "balance": "/public/FixsStandardFT_0x282cd67844f046cfVENUS_Balance"
+      },
+      "symbol": "VENUS",
+      "name": "Venus",
+      "description": "Lifes good here. Come join",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16cmVzdWx0Ln1721059951002",
       "tags": [],
       "extensions": {
         "website": "https://linktr.ee/fixes.world/"
@@ -564,8 +640,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -587,11 +663,11 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
-        "coingeckoId": "flow",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "coingeckoId": "flow",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -635,8 +711,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreibdmuhaiq7dvnzb47avycpzite2i4etsaumzntldtg56wdorsdrp4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "frugcoin",
+        "discord": "",
         "website": ""
       }
     },
@@ -679,8 +755,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.078a8129525775dd.GreenBitcoin/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/vY8pK9x8",
         "twitter": "https://twitter.com/_GreenBitcoin",
+        "discord": "https://discord.gg/vY8pK9x8",
         "website": "https://toucans.ecdao.org/p/GreenBitcoin",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -702,8 +778,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreiesj3rzq4wvflxi5u7effyrcwe6tqct2nxdc44hutgwz6kewqaccy",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -723,8 +799,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeiap65dolssr775a366jk4kl63exbxcpeehwo23jccacxndscxccne",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -744,8 +820,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -787,8 +863,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7120ab3fbf74ea9e.NCTRDAO/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1011,8 +1087,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1034,8 +1110,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.5207737ccdc76d11.StudentsofTheGame/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/Z49V8ky2Jb",
         "twitter": "https://twitter.com/StudentsoftGame",
+        "discord": "https://discord.com/invite/Z49V8ky2Jb",
         "website": "https://toucans.ecdao.org/p/StudentsofTheGame",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1125,8 +1201,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihkwwvhlb75wqloqqywqtzkio32drpck4v3fm3x53wo7bs335cqzm",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "flow_bear_token",
+        "discord": "",
         "website": ""
       }
     },
@@ -1295,15 +1371,15 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihppkuy3dhzuqz2ekfxs4jusxf5562vb6hpzrjzokm6rzoifvyymi",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     }
   ],
-  "totalAmount": 58,
+  "totalAmount": 62,
   "filterType": "ALL",
-  "timestamp": "2024-07-15T01:08:26.997Z",
+  "timestamp": "2024-07-16T01:07:52.253Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1348,7 +1424,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
