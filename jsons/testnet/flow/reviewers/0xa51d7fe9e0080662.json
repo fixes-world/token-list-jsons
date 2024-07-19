@@ -24,10 +24,10 @@
       ],
       "extensions": {
         "github": "https://github.com/onflow/flow-core-contracts",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
-        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -49,12 +49,31 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
       "tags": [],
       "extensions": {
+        "twitter": "https://twitter.com/circle",
         "documentation": "https://developers.circle.com/stablecoins/docs",
         "coingeckoId": "usd-coin",
-        "twitter": "https://twitter.com/circle",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0xdf150e8513135e4f",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xdf150e8513135e4fTBHD_Vault",
+        "receiver": "/public/FixsStandardFT_0xdf150e8513135e4fTBHD_Receiver",
+        "balance": "/public/FixsStandardFT_0xdf150e8513135e4fTBHD_Balance"
+      },
+      "symbol": "TBHD",
+      "name": "Bohao D",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12SEVBRC5qcG1721379209087",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
       }
     },
     {
@@ -73,10 +92,29 @@
       "logoURI": "http://static.fixes.world/12SEVBRC5qcG1719414852854",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/btspoony",
-        "telegram": "https://t.me/bt_wood",
         "twitter": "https://x.com/btspoony",
+        "telegram": "https://t.me/bt_wood",
+        "github": "https://github.com/btspoony",
         "website": "https://btang.cn/"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0xaa201615c0ecb331",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xaa201615c0ecb331TBHB_Vault",
+        "receiver": "/public/FixsStandardFT_0xaa201615c0ecb331TBHB_Receiver",
+        "balance": "/public/FixsStandardFT_0xaa201615c0ecb331TBHB_Balance"
+      },
+      "symbol": "TBHB",
+      "name": "Bohao B",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/20SGVhZENpcm1721370737997",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
       }
     },
     {
@@ -138,6 +176,25 @@
     },
     {
       "chainId": 545,
+      "address": "0x33f74f3484dedeb3",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x33f74f3484dedeb3TBHC_Vault",
+        "receiver": "/public/FixsStandardFT_0x33f74f3484dedeb3TBHC_Receiver",
+        "balance": "/public/FixsStandardFT_0x33f74f3484dedeb3TBHC_Balance"
+      },
+      "symbol": "TBHC",
+      "name": "Bohao C",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/20SGVhZENpcm1721373779639",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0x7baabb822a8bcbcf",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -150,6 +207,25 @@
       "description": "Desc",
       "decimals": 8,
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720541688358",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0xeefce1c07809779e",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xeefce1c07809779eTBHA_Vault",
+        "receiver": "/public/FixsStandardFT_0xeefce1c07809779eTBHA_Receiver",
+        "balance": "/public/FixsStandardFT_0xeefce1c07809779eTBHA_Balance"
+      },
+      "symbol": "TBHA",
+      "name": "TBH Token A",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12SEVBRC5qcG1721324284093",
       "tags": [],
       "extensions": {
         "website": "https://linktr.ee/fixes.world/"
@@ -177,9 +253,9 @@
       }
     }
   ],
-  "totalAmount": 8,
+  "totalAmount": 12,
   "filterType": "ALL",
-  "timestamp": "2024-07-12T01:05:40.466Z",
+  "timestamp": "2024-07-19T09:07:35.823Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -224,7 +300,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }

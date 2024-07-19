@@ -583,7 +583,7 @@
       "logoURI": "https://static.fixes.world/20SU1HXzA1MD1721051954174",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/rickyspanichone?s=21&t=geRvFCu9csQxIBUZHl2lNw",
+        "twitter": "https://x.com/rickyspanichone",
         "telegram": "https://t.me/Ricky_Spenish_Roger",
         "website": "https://linktr.ee/fixes.world/"
       }
@@ -1422,7 +1422,7 @@
   ],
   "totalAmount": 64,
   "filterType": "ALL",
-  "timestamp": "2024-07-18T01:05:38.819Z",
+  "timestamp": "2024-07-19T09:07:26.601Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1467,7 +1467,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 8,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
