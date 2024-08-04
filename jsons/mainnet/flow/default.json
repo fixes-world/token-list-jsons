@@ -596,7 +596,7 @@
       },
       "symbol": "FIX",
       "name": "Fixes World",
-      "description": "Demo Coin launched by Fixes World.\nFixes World provides multiple fungible token issuance, trading, staking, and governance services.",
+      "description": "A demo coin launched by Fixes World\nFixes World provides multiple fungible token issuance, trading, staking, and governance services.",
       "decimals": 8,
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
@@ -1546,7 +1546,7 @@
   ],
   "totalAmount": 70,
   "filterType": "ALL",
-  "timestamp": "2024-07-24T01:07:37.967Z",
+  "timestamp": "2024-08-04T01:12:27.472Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1591,7 +1591,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
