@@ -85,8 +85,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeid4icgfrn46k3ze2f6vbus53zk7mnkofjpqgs3oyrdiispr5hfe7e",
       "tags": [],
       "extensions": {
-        "twitter": "beavercoinflow",
         "discord": "",
+        "twitter": "beavercoinflow",
         "website": "beavercoin.io"
       }
     },
@@ -199,8 +199,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binancecoin",
         "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "coingeckoId": "binancecoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -224,8 +224,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "coingeckoId": "binance-usd",
+        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -348,8 +348,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -395,8 +395,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -528,6 +528,26 @@
     },
     {
       "chainId": 747,
+      "address": "0x1437d34056f6a49d",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x1437d34056f6a49dTIT_Vault",
+        "receiver": "/public/FixsStandardFT_0x1437d34056f6a49dTIT_Receiver",
+        "balance": "/public/FixsStandardFT_0x1437d34056f6a49dTIT_Balance"
+      },
+      "symbol": "TIT",
+      "name": "Tit Token",
+      "description": "The Tit Token powers the Tit Palace, enhancing your experience in this luxurious digital realm. It unlocks exclusive content, interactive events, and digital collectibles.\n\nLooking ahead, Tit Token will play a key role in the AI adult content ecosystem on Flow. This will enable the creation and sharing of personalized adult content with privacy, security, and innovation.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/8Mi5wbmc=1723120086130",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://x.com/vertico_defi",
+        "website": "https://titpalace.xyz/"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x790b8e6b2fa3760b",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -601,9 +621,9 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
+        "github": "https://github.com/fixes-world",
         "twitter": "https://x.com/fixesWorld",
         "telegram": "https://t.me/fixes_world",
-        "github": "https://github.com/fixes-world",
         "website": "https://linktr.ee/fixes.world"
       }
     },
@@ -746,10 +766,10 @@
         "utility-token"
       ],
       "extensions": {
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "coingeckoId": "flow",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -794,8 +814,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreibdmuhaiq7dvnzb47avycpzite2i4etsaumzntldtg56wdorsdrp4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "frugcoin",
+        "discord": "",
         "website": ""
       }
     },
@@ -861,8 +881,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreiesj3rzq4wvflxi5u7effyrcwe6tqct2nxdc44hutgwz6kewqaccy",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -903,8 +923,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmQWiE4Vu1GDd8EexqbJSbRCww8pA5x54XUjkZd5BLMnWh",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "wellnests.co.uk/blog/"
       }
     },
@@ -924,8 +944,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -967,8 +987,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7120ab3fbf74ea9e.NCTRDAO/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1010,8 +1030,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreif54ujjuwa2xewkgy5wje3qos7mk77rjxfdwl3a47qsj6sxv3kzi4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1162,8 +1182,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmQmkbJnmFxECeaSnbW4NwLCYGX9eRLapuTSxEuzhVRkVS",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "nursesarahbarker.com"
       }
     },
@@ -1254,8 +1274,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1299,9 +1319,30 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidv75hz6sabfmne6mxjptqzim4sl2jehknawmnp7rrjt4gbts4hqi",
       "tags": [],
       "extensions": {
-        "discord": "swimdao",
         "twitter": "swimdao",
+        "discord": "swimdao",
         "website": "swimdao.org"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x728ff3131b18cb34",
+      "contractName": "SwizzvanianRoyalTreasury",
+      "path": {
+        "vault": "/storage/SwizzvanianRoyalTreasuryVault",
+        "receiver": "/public/SwizzvanianRoyalTreasuryReceiver",
+        "balance": "/public/SwizzvanianRoyalTreasuryMetadata"
+      },
+      "symbol": "SRTC",
+      "name": "Swizzvanian Royal Treasury",
+      "description": "One nation, under Snard.",
+      "decimals": 8,
+      "logoURI": "https://ipfs.io/ipfs/QmSqyqEdkkJKbyB1rV6H5XUGvNGD6woyiuNEigsqj5Veis",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "",
+        "website": ""
       }
     },
     {
@@ -1389,8 +1430,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeig3vjkn2xxqxm4f24jmyrfuahzj35pxiticfaqlzbznjjggcnzwdi",
       "tags": [],
       "extensions": {
-        "twitter": "thewolfofflow",
         "discord": "",
+        "twitter": "thewolfofflow",
         "website": ""
       }
     },
@@ -1517,8 +1558,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYAYheyn8YbbNBdM1dnhXYxeZoxvToZR81itzD4ZCqWcG",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1559,15 +1600,15 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihppkuy3dhzuqz2ekfxs4jusxf5562vb6hpzrjzokm6rzoifvyymi",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     }
   ],
-  "totalAmount": 71,
+  "totalAmount": 73,
   "filterType": "ALL",
-  "timestamp": "2024-08-05T01:09:15.096Z",
+  "timestamp": "2024-08-10T01:08:38.257Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1612,7 +1653,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
