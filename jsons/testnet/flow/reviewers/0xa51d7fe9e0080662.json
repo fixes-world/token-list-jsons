@@ -266,6 +266,7 @@
       "logoURI": "https://static.fixes.world/20SGVhZENpcm1721968691021",
       "tags": [],
       "extensions": {
+        "twitter": "https://x.com/btspoony",
         "website": "https://linktr.ee/fixes.world/"
       }
     },
@@ -293,7 +294,7 @@
   ],
   "totalAmount": 14,
   "filterType": "ALL",
-  "timestamp": "2024-07-27T01:05:58.113Z",
+  "timestamp": "2024-08-12T01:10:19.727Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -338,7 +339,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 6,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
