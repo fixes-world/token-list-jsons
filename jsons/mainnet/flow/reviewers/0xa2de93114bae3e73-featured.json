@@ -5,34 +5,6 @@
   "tokens": [
     {
       "chainId": 747,
-      "address": "0xb19436aae4d94622",
-      "contractName": "FiatToken",
-      "path": {
-        "vault": "/storage/USDCVault",
-        "receiver": "/public/USDCVaultReceiver",
-        "balance": "/public/USDCVaultBalance"
-      },
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
-      "tags": [
-        "Verified",
-        "Featured",
-        "stablecoin"
-      ],
-      "extensions": {
-        "documentation": "https://developers.circle.com/stablecoins/docs",
-        "twitter": "https://twitter.com/circle",
-        "coingeckoId": "usd-coin",
-        "website": "https://www.circle.com/en/usdc-multichain/flow",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0x1654653399040a61",
       "contractName": "FlowToken",
       "path": {
@@ -87,11 +59,38 @@
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xf1ab99c82dee3526",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "symbol": "USDCf",
+      "name": "USDC (Flow)",
+      "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "stablecoin"
+      ],
+      "extensions": {
+        "twitter": "https://x.com/axelar",
+        "coingeckoId": "usd-coin",
+        "website": "https://docs.axelar.dev/learn/axlusdc",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
     }
   ],
   "totalAmount": 3,
   "filterType": "FEATURED",
-  "timestamp": "2024-07-02T00:45:25.433Z",
+  "timestamp": "2024-08-14T05:53:50.854Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -137,6 +136,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
