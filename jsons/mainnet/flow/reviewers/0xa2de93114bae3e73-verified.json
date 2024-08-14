@@ -73,7 +73,7 @@
       "name": "USDC (Flow)",
       "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
       "tags": [
         "Verified",
         "Featured",
@@ -1145,7 +1145,7 @@
   ],
   "totalAmount": 46,
   "filterType": "VERIFIED",
-  "timestamp": "2024-08-14T05:53:50.559Z",
+  "timestamp": "2024-08-14T07:05:23.066Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1190,7 +1190,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
