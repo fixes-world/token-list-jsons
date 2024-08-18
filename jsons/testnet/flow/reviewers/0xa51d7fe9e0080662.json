@@ -35,6 +35,30 @@
     },
     {
       "chainId": 545,
+      "address": "0x64adf39cbc354fcb",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "symbol": "USDCf",
+      "name": "USDC (Flow)",
+      "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.svg",
+      "tags": [
+        "Verified",
+        "Featured",
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://docs.axelar.dev/learn/axlusdc",
+        "displaySource": "0xa51d7fe9e0080662"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0xa983fecbed621163",
       "contractName": "FiatToken",
       "path": {
@@ -290,31 +314,11 @@
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
       }
-    },
-    {
-      "chainId": 545,
-      "address": "0x64adf39cbc354fcb",
-      "contractName": "USDCFlow",
-      "path": {
-        "vault": "/storage/usdcFlowVault",
-        "receiver": "/public/usdcFlowReceiver",
-        "balance": "/public/usdcFlowMetadata"
-      },
-      "symbol": "USDCf",
-      "name": "USDC (Flow)",
-      "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
-      "decimals": 8,
-      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg",
-      "tags": [],
-      "extensions": {
-        "website": "https://docs.axelar.dev/learn/axlusdc",
-        "displaySource": "0xa51d7fe9e0080662"
-      }
     }
   ],
   "totalAmount": 15,
   "filterType": "ALL",
-  "timestamp": "2024-08-17T01:06:06.736Z",
+  "timestamp": "2024-08-18T01:12:36.268Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -359,7 +363,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
