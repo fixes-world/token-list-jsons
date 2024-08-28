@@ -1,0 +1,82 @@
+{
+  "name": "Flow NFT List",
+  "network": "testnet",
+  "chainId": 545,
+  "tokens": [
+    {
+      "chainId": 545,
+      "address": "0xb7248baa24a95c3f",
+      "contractName": "FRC20SemiNFT",
+      "path": {
+        "storage": "/storage/FRC20SemiNFT_0xb7248baa24a95c3fcollection",
+        "public": "/public/FRC20SemiNFT_0xb7248baa24a95c3fcollection"
+      },
+      "name": "FIXeS 𝔉rc20 Semi-NFT",
+      "description": "This collection is used to wrap 𝔉rc20 token as semi-NFTs.",
+      "logoURI": "https://i.imgur.com/hs3U5CY.png",
+      "bannerURI": "https://i.imgur.com/4DOuqFf.jpeg",
+      "tags": [],
+      "extensions": {
+        "linktree": "https://linktr.ee/fixes.world",
+        "x": "https://twitter.com/fixesWorld",
+        "twitter": "https://twitter.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
+        "website": "https://fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0x04625c28593d9408",
+      "contractName": "nba_NFT",
+      "path": {
+        "storage": "/storage/nba_NFTCollection",
+        "public": "/public/nba_NFTCollection"
+      },
+      "name": "NBATopShot Team VIP AllStars",
+      "description": "Collection of NBATopShot AllStar VIP Team NFTs",
+      "logoURI": "https://media-local.gigantik.io/nba/square.png",
+      "bannerURI": "https://media-local.gigantik.io/nba/banner.png",
+      "tags": [],
+      "extensions": {
+        "instagram": "https://www.instagram.com/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
+        "discord": "https://discord.gg/nbatopshot",
+        "website": "https://nbatopshot.com/"
+      }
+    }
+  ],
+  "totalAmount": 2,
+  "filterType": "ALL",
+  "timestamp": "2024-08-28T12:24:36.610Z",
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "wrapped-celer": {
+      "name": "wrapped-celer",
+      "description": "Asset wrapped using celer bridge"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
+    },
+    "governance-token": {
+      "name": "governance-token",
+      "description": "Tokens that are designed to be use in community governance and maintenance"
+    },
+    "memecoin": {
+      "name": "memecoin",
+      "description": "Tokens that are created for fun and meme"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}

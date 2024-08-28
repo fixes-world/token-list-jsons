@@ -6,7 +6,7 @@ import fetch from "node-fetch";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const networks = ["mainnet", "testnet"];
+const networks = ["testnet"]; // Mainnet is not supported yet
 const executionEnvs = ["flow"]; // In the future, we may have ["flow", "evm"]
 const endpoints = {
   mainnet: "https://token-list.fixes.world/api",
@@ -15,7 +15,7 @@ const endpoints = {
 
 const queryVerifiedReviwers = async (network) => {
   try {
-    const response = await fetch(`${endpoints[network]}/reviewers`);
+    const response = await fetch(`${endpoints[network]}/reviewers-for-nftlist`);
     const data = await response.json();
     if (
       Array.isArray(data) &&
@@ -38,7 +38,7 @@ const queryTokenList = async (
   reviewer = undefined,
   filter = 0
 ) => {
-  let url = `${endpoints[network]}/token-list/${reviewer ? reviewer : ""}`;
+  let url = `${endpoints[network]}/nft-list/${reviewer ? reviewer : ""}`;
   if (filter !== 0) {
     url += `?filter=${filter}`;
   }
@@ -66,7 +66,7 @@ const writeJSONFile = async (
   const filterKeys = ["", "-reviewed", "-managed", "-verified", "-featured"];
   const filename = join(
     process.cwd(),
-    "jsons",
+    "nftlist-jsons",
     network,
     executionEnv,
     ...(reviewer === undefined
