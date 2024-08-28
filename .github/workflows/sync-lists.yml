@@ -33,7 +33,12 @@ jobs:
         # Use node to run './scripts/sync-token-lists.mjs'
         run: |
           npm install
-          npm run sync
+          npm run sync-fts
+      - name: Sync NFT Lists
+        # Use node to run './scripts/sync-nft-lists.mjs'
+        run: |
+          npm install
+          npm run sync-nfts
       - name: Check Git Status and Commit
       # if any changes are made, we will commit and push them
         run: |

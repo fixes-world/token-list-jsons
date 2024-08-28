@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "The token list JSONs synced from https://token-list.fixes.world/",
   "scripts": {
-    "sync": "node ./scripts/sync-token-lists.mjs"
+    "sync-fts": "node ./scripts/sync-token-lists.mjs",
+    "sync-nfts": "node ./scripts/sync-nft-lists.mjs"
   },
   "keywords": [
     "TokenList",
