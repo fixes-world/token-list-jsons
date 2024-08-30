@@ -18,9 +18,9 @@
       "tags": [],
       "extensions": {
         "linktree": "https://linktr.ee/fixes.world",
+        "github": "https://github.com/fixes-world",
         "x": "https://twitter.com/fixesWorld",
         "twitter": "https://twitter.com/fixesWorld",
-        "github": "https://github.com/fixes-world",
         "website": "https://fixes.world/"
       }
     },
@@ -39,15 +39,35 @@
       "tags": [],
       "extensions": {
         "instagram": "https://www.instagram.com/nbatopshot",
-        "twitter": "https://twitter.com/nbatopshot",
         "discord": "https://discord.gg/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com/"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0x2dcd833119c0570c",
+      "contractName": "toddnewstaging2_NFT",
+      "path": {
+        "storage": "/storage/toddnewstaging2_NFTCollection",
+        "public": "/public/toddnewstaging2_NFTCollection"
+      },
+      "name": "toddnewstaging2 shop",
+      "description": "This is a toddnewstaging2 testnet shop",
+      "logoURI": "https://media-local.gigantik.io/toddnewstaging2/square.png",
+      "bannerURI": "https://media-local.gigantik.io/toddnewstaging2/banner.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/UFCStrikeNFT",
+        "discord": "https://discord.gg/UFCStrike",
+        "instagram": "https://instagram.com/ufcstrike",
+        "website": "https://toddnewstaging2.shops-staging.gigantik.io/"
       }
     }
   ],
-  "totalAmount": 2,
+  "totalAmount": 3,
   "filterType": "ALL",
-  "timestamp": "2024-08-28T12:24:36.610Z",
+  "timestamp": "2024-08-30T01:11:22.630Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -76,7 +96,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

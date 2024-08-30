@@ -149,8 +149,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -348,8 +348,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
         "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "coingeckoId": "wrapped-bitcoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -395,8 +395,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -441,9 +441,9 @@
         "Deprecated"
       ],
       "extensions": {
-        "documentation": "https://developers.circle.com/stablecoins/docs",
         "twitter": "https://twitter.com/circle",
         "coingeckoId": "usd-coin",
+        "documentation": "https://developers.circle.com/stablecoins/docs",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -623,8 +623,8 @@
       "tags": [],
       "extensions": {
         "telegram": "https://t.me/fixes_world",
-        "github": "https://github.com/fixes-world",
         "twitter": "https://x.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
         "website": "https://linktr.ee/fixes.world"
       }
     },
@@ -768,9 +768,9 @@
       ],
       "extensions": {
         "github": "https://github.com/onflow/flow-core-contracts",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -815,8 +815,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreibdmuhaiq7dvnzb47avycpzite2i4etsaumzntldtg56wdorsdrp4",
       "tags": [],
       "extensions": {
-        "twitter": "frugcoin",
         "discord": "",
+        "twitter": "frugcoin",
         "website": ""
       }
     },
@@ -945,8 +945,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -988,8 +988,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7120ab3fbf74ea9e.NCTRDAO/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1031,8 +1031,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreif54ujjuwa2xewkgy5wje3qos7mk77rjxfdwl3a47qsj6sxv3kzi4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1117,8 +1117,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeic24hbznfwsmknsci7kqmt6n2xzu4veui7lzke2bueidthbs5vmb4",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/PuffPalz",
         "discord": "https://discord.gg/gB4fvMVDMW",
+        "twitter": "https://x.com/PuffPalz",
         "website": "puffpalz.io"
       }
     },
@@ -1227,9 +1227,9 @@
         "memecoin"
       ],
       "extensions": {
+        "telegram": "https://t.co/E8FzKLuMnH",
         "twitter": "https://twitter.com/SloppyStakesDAO",
         "discord": "https://discord.com/invite/GYV8JRR",
-        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1410,8 +1410,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihkwwvhlb75wqloqqywqtzkio32drpck4v3fm3x53wo7bs335cqzm",
       "tags": [],
       "extensions": {
-        "twitter": "flow_bear_token",
         "discord": "",
+        "twitter": "flow_bear_token",
         "website": ""
       }
     },
@@ -1474,8 +1474,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreifkjlkzfjml77ogwnxnbqbeixbxau6lyubwtrcfsi3uwaeep664mu",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "",
+        "twitter": "TopShotBETA",
         "website": ""
       }
     },
@@ -1518,8 +1518,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "usd-coin",
         "twitter": "https://x.com/axelar",
+        "coingeckoId": "usd-coin",
         "website": "https://docs.axelar.dev/learn/axlusdc",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1541,8 +1541,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "wGjBcsGjcG",
         "twitter": "UtahJazzLegends",
+        "discord": "wGjBcsGjcG",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1563,8 +1563,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1612,6 +1612,27 @@
     },
     {
       "chainId": 747,
+      "address": "0x4767b11059818832",
+      "contractName": "weareliga",
+      "path": {
+        "vault": "/storage/weareligaVault",
+        "receiver": "/public/weareligaReceiver",
+        "balance": "/public/weareligaMetadata"
+      },
+      "symbol": "LIGA",
+      "name": "weareliga",
+      "description": "LIGA is your next step in providing utility to the moments you collect. Adding value to each moment you own and want to own. ",
+      "decimals": 8,
+      "logoURI": "https://ipfs.io/ipfs/QmSkMKUyMfBj8gpMFyRPNPMWXbviiw3Z4Z95yBA5ka72cf",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "Liga_TopShot",
+        "website": ""
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0xd4d745fab74785c5",
       "contractName": "WERFWERF",
       "path": {
@@ -1653,9 +1674,9 @@
       }
     }
   ],
-  "totalAmount": 75,
+  "totalAmount": 76,
   "filterType": "ALL",
-  "timestamp": "2024-08-18T01:12:28.183Z",
+  "timestamp": "2024-08-30T01:11:12.512Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1700,7 +1721,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }
