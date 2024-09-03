@@ -1,4 +1,4 @@
-# Token List - A list of Fungible Tokens(FTs) on Flow Blockchain
+# Token List - A list of Fungible Tokens(FTs) and Non-Fungible Tokens(NFTs) on Flow Blockchain
 
 [![sync-token-lists](https://github.com/fixes-world/token-list-jsons/actions/workflows/sync-lists.yml/badge.svg)](https://github.com/fixes-world/token-list-jsons/actions/workflows/sync-lists.yml)
 
@@ -29,3 +29,7 @@ The project repository will regularly retrieve the latest Token list JSON files 
 
 The Default JSON files are the main token list files that contain all the fungible tokens.  
 For reviewers, the JSON files filtered by reviewers are also available in the `/jsons/${network}/flow/reviewers/` directory.
+
+## 📦 NFT List JSONs
+
+Located in the `nftlist-jsons` directory.
