@@ -8,7 +8,6 @@ This repo contains JSON files automatically updated based on <https://github.com
 
 - **Mainnet:** <https://token-list.fixes.world/>
 - **Testnet:** <https://testnet-token-list.fixes.world/>  
-- **Previewnet:** <https://previewnet-token-list.fixes.world/>
 
 ## 📄 Description
 
