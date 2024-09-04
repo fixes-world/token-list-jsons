@@ -23,65 +23,20 @@
         "utility-token"
       ],
       "extensions": {
+        "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
-        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "github": "https://github.com/onflow/flow-core-contracts",
-        "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "website": "https://flow.com",
-        "displaySource": "0xa51d7fe9e0080662",
-        "pathSource": "0xa51d7fe9e0080662"
-      }
-    },
-    {
-      "chainId": 545,
-      "address": "0xa983fecbed621163",
-      "contractName": "FiatToken",
-      "path": {
-        "vault": "/storage/USDCVault",
-        "receiver": "/public/USDCVaultReceiver",
-        "balance": "/public/USDCVaultBalance"
-      },
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
-      "tags": [],
-      "extensions": {
-        "documentation": "https://developers.circle.com/stablecoins/docs",
-        "coingeckoId": "usd-coin",
-        "twitter": "https://twitter.com/circle",
-        "website": "https://www.circle.com/en/usdc-multichain/flow",
-        "displaySource": "0xa51d7fe9e0080662",
-        "pathSource": "0xa51d7fe9e0080662"
-      }
-    },
-    {
-      "chainId": 545,
-      "address": "0x9392a4a7c3f49a0b",
-      "contractName": "FlovatarDustToken",
-      "path": {
-        "vault": "/storage/FlovatarDustTokenVault",
-        "receiver": "/public/FlovatarDustTokenReceiver",
-        "balance": "/public/FlovatarDustTokenBalance"
-      },
-      "symbol": "DUST",
-      "name": "Flovatar DUST",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "http://images.flovatar.com/logo-round.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://flovatar.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
       }
     }
   ],
-  "totalAmount": 3,
+  "totalAmount": 1,
   "filterType": "MANAGED",
-  "timestamp": "2024-08-16T01:08:00.284Z",
+  "timestamp": "2024-09-04T01:11:54.723Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -107,10 +62,6 @@
       "name": "wrapped-celer",
       "description": "Asset wrapped using celer bridge"
     },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
-    },
     "utility-token": {
       "name": "utility-token",
       "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
@@ -125,8 +76,8 @@
     }
   },
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   }
 }
