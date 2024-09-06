@@ -1,0 +1,87 @@
+{
+  "name": "Flow NFT List",
+  "network": "mainnet",
+  "chainId": 747,
+  "tokens": [
+    {
+      "chainId": 747,
+      "address": "0xe4cf4bdc1751c65d",
+      "contractName": "AllDay",
+      "path": {
+        "storage": "/storage/AllDayNFTCollection",
+        "public": "/public/AllDayNFTCollection"
+      },
+      "name": "NFL All Day",
+      "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
+      "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
+      "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/5K6qyTzj2k",
+        "instagram": "https://www.instagram.com/nflallday/",
+        "twitter": "https://twitter.com/NFLAllDay",
+        "website": "https://nflallday.com/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x0b2a3299cc857e29",
+      "contractName": "TopShot",
+      "path": {
+        "storage": "/storage/MomentCollection",
+        "public": "/public/MomentCollection"
+      },
+      "name": "NBA-Top-Shot",
+      "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
+      "logoURI": "https://nbatopshot.com/static/img/og/og.png",
+      "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nbatopshot",
+        "instagram": "https://www.instagram.com/nbatopshot",
+        "discord": "https://discord.com/invite/nbatopshot",
+        "website": "https://nbatopshot.com"
+      }
+    }
+  ],
+  "totalAmount": 2,
+  "filterType": "VERIFIED",
+  "timestamp": "2024-09-06T04:09:42.104Z",
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "wrapped-celer": {
+      "name": "wrapped-celer",
+      "description": "Asset wrapped using celer bridge"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
+    },
+    "governance-token": {
+      "name": "governance-token",
+      "description": "Tokens that are designed to be use in community governance and maintenance"
+    },
+    "memecoin": {
+      "name": "memecoin",
+      "description": "Tokens that are created for fun and meme"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
