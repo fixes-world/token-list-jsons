@@ -6,7 +6,7 @@ import fetch from "node-fetch";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const networks = ["testnet"]; // Mainnet is not supported yet
+const networks = ["mainnet", "testnet"];
 const executionEnvs = ["flow"]; // In the future, we may have ["flow", "evm"]
 const endpoints = {
   mainnet: "https://token-list.fixes.world/api",
