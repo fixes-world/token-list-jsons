@@ -20,39 +20,16 @@
         "Featured"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/5K6qyTzj2k",
-        "instagram": "https://www.instagram.com/nflallday/",
         "twitter": "https://twitter.com/NFLAllDay",
+        "instagram": "https://www.instagram.com/nflallday/",
+        "discord": "https://discord.com/invite/5K6qyTzj2k",
         "website": "https://nflallday.com/"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x0b2a3299cc857e29",
-      "contractName": "TopShot",
-      "path": {
-        "storage": "/storage/MomentCollection",
-        "public": "/public/MomentCollection"
-      },
-      "name": "NBA-Top-Shot",
-      "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
-      "logoURI": "https://nbatopshot.com/static/img/og/og.png",
-      "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
-      "tags": [
-        "Verified",
-        "Featured"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/nbatopshot",
-        "instagram": "https://www.instagram.com/nbatopshot",
-        "discord": "https://discord.com/invite/nbatopshot",
-        "website": "https://nbatopshot.com"
       }
     }
   ],
-  "totalAmount": 2,
+  "totalAmount": 1,
   "filterType": "FEATURED",
-  "timestamp": "2024-09-06T04:09:42.509Z",
+  "timestamp": "2024-09-07T01:10:37.870Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -80,8 +57,8 @@
     }
   },
   "version": {
-    "major": 1,
-    "minor": 1,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }

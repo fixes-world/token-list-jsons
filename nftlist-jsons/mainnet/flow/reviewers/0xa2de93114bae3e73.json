@@ -28,29 +28,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x0b2a3299cc857e29",
-      "contractName": "TopShot",
-      "path": {
-        "storage": "/storage/MomentCollection",
-        "public": "/public/MomentCollection"
-      },
-      "name": "NBA-Top-Shot",
-      "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
-      "logoURI": "https://nbatopshot.com/static/img/og/og.png",
-      "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
-      "tags": [
-        "Verified",
-        "Featured"
-      ],
-      "extensions": {
-        "discord": "https://discord.com/invite/nbatopshot",
-        "instagram": "https://www.instagram.com/nbatopshot",
-        "twitter": "https://twitter.com/nbatopshot",
-        "website": "https://nbatopshot.com"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0x30cf5dcf6ea8d379",
       "contractName": "AeraNFT",
       "path": {
@@ -1408,6 +1385,28 @@
     },
     {
       "chainId": 747,
+      "address": "0x0b2a3299cc857e29",
+      "contractName": "TopShot",
+      "path": {
+        "storage": "/storage/MomentCollection",
+        "public": "/public/MomentCollection"
+      },
+      "name": "NBA-Top-Shot",
+      "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
+      "logoURI": "https://nbatopshot.com/static/img/og/og.png",
+      "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
+      "tags": [
+        "Pending"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/nbatopshot",
+        "instagram": "https://www.instagram.com/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
+        "website": "https://nbatopshot.com"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x329feb3ab062d289",
       "contractName": "UFC_NFT",
       "path": {
@@ -1491,7 +1490,7 @@
   ],
   "totalAmount": 76,
   "filterType": "ALL",
-  "timestamp": "2024-09-06T04:09:41.202Z",
+  "timestamp": "2024-09-07T01:10:36.110Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1520,7 +1519,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

@@ -39,8 +39,7 @@
       "logoURI": "https://nbatopshot.com/static/img/og/og.png",
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
       "tags": [
-        "Verified",
-        "Featured"
+        "Pending"
       ],
       "extensions": {
         "twitter": "https://twitter.com/nbatopshot",
@@ -52,7 +51,7 @@
   ],
   "totalAmount": 2,
   "filterType": "REVIEWED",
-  "timestamp": "2024-09-06T04:09:41.527Z",
+  "timestamp": "2024-09-07T01:10:36.625Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -81,7 +80,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
