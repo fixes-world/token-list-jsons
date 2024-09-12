@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const networks = ["mainnet", "testnet"];
-const executionEnvs = ["flow"]; // In the future, we may have ["flow", "evm"]
+const executionEnvs = ["flow", "evm"];
 const endpoints = {
   mainnet: "https://token-list.fixes.world/api",
   testnet: "https://testnet-token-list.fixes.world/api",
@@ -39,8 +39,9 @@ const queryTokenList = async (
   filter = 0
 ) => {
   let url = `${endpoints[network]}/nft-list/${reviewer ? reviewer : ""}`;
+  url += `?${executionEnv === "evm" ? "evm=true" : "evm=false"}`;
   if (filter !== 0) {
-    url += `?filter=${filter}`;
+    url += `&filter=${filter}`;
   }
   try {
     const response = await fetch(url);
