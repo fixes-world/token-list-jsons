@@ -12,6 +12,7 @@
         "receiver": "/public/flowTokenReceiver",
         "balance": "/public/flowTokenBalance"
       },
+      "evmAddress": "0x0000000000000000000000010000000000000000",
       "symbol": "FLOW",
       "name": "Flow",
       "description": "",
@@ -23,11 +24,11 @@
         "utility-token"
       ],
       "extensions": {
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "twitter": "https://twitter.com/flow_blockchain",
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "coingeckoId": "flow",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -60,7 +61,7 @@
   ],
   "totalAmount": 2,
   "filterType": "VERIFIED",
-  "timestamp": "2024-08-18T01:12:37.357Z",
+  "timestamp": "2024-09-12T16:16:02.026Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -86,10 +87,6 @@
       "name": "wrapped-celer",
       "description": "Asset wrapped using celer bridge"
     },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
-    },
     "utility-token": {
       "name": "utility-token",
       "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
@@ -105,7 +102,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

@@ -92,7 +92,7 @@
   ],
   "totalAmount": 3,
   "filterType": "FEATURED",
-  "timestamp": "2024-09-12T16:15:57.635Z",
+  "timestamp": "2024-09-12T16:15:58.239Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -133,7 +133,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 7
+    "minor": 1,
+    "patch": 0
   }
 }

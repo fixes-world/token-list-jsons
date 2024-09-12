@@ -11,6 +11,7 @@
         "storage": "/storage/aeraNFTs",
         "public": "/public/aeraNFTs"
       },
+      "evmAddress": "0x5fd25838361b4ae8b705691b4fd19a36e8fc64a2",
       "name": "Aera",
       "description": "Aera by OneFootball",
       "logoURI": "https://miro.medium.com/fit/c/176/176/1*hzfP51MATg3et5vghYy1uQ.png",
@@ -18,8 +19,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/aera_football",
-        "instagram": "https://www.instagram.com/aera_football/",
         "discord": "https://discord.gg/aera",
+        "instagram": "https://www.instagram.com/aera_football/",
         "website": "http://aera.onefootbal.com"
       }
     },
@@ -31,15 +32,16 @@
         "storage": "/storage/aeraRewardsNFT",
         "public": "/public/aeraRewardsNFT"
       },
+      "evmAddress": "0xd134864fac0dfea2319063a79368e09fa661f0b4",
       "name": "Aera Rewards",
       "description": "Aera by OneFootball",
       "logoURI": "https://ipfs.io/ipfs/bafkreiameqwyluog75u7zg3dmf56b5mbed7cdgv6uslkph6nvmdf2aipmy",
       "bannerURI": "https://ipfs.io/ipfs/bafybeiayhvr2sm4lco3tbsa74blynlnzhhzrjouteyqaq43giuyiln4xb4",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/aera_football",
         "discord": "https://discord.gg/aera",
         "instagram": "https://www.instagram.com/aera_football/",
+        "twitter": "https://twitter.com/aera_football",
         "website": "http://aera.onefootbal.com"
       }
     },
@@ -51,6 +53,7 @@
         "storage": "/storage/aiSportsMinterCollection",
         "public": "/public/aiSportsMinterCollection"
       },
+      "evmAddress": "0x1899cb99846f7c9891ecdd785474a5d9c2889da6",
       "name": "The aiSports Collection",
       "description": "This collection is the home of the official aSports' NFTs.",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/fantasyball-6e433.appspot.com/o/upload_image.png?alt=media&token=947bf82d-b697-4cb2-b58f-17b237705ae5",
@@ -69,15 +72,16 @@
         "storage": "/storage/AllDayNFTCollection",
         "public": "/public/AllDayNFTCollection"
       },
+      "evmAddress": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0",
       "name": "NFL All Day",
       "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
       "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/NFLAllDay",
-        "discord": "https://discord.com/invite/5K6qyTzj2k",
         "instagram": "https://www.instagram.com/nflallday/",
+        "discord": "https://discord.com/invite/5K6qyTzj2k",
+        "twitter": "https://twitter.com/NFLAllDay",
         "website": "https://nflallday.com/"
       }
     },
@@ -89,6 +93,7 @@
         "storage": "/storage/versusArtCollection",
         "public": "/public/versusArtCollection"
       },
+      "evmAddress": "0xa3405bd059979e10f73a15b5efa21affcead8496",
       "name": "Versus",
       "description": "Curated auction house for fine art",
       "logoURI": "https://pbs.twimg.com/profile_images/1295757455679528963/ibkAIRww_400x400.jpg",
@@ -107,6 +112,7 @@
         "storage": "/storage/bl0xNFTs",
         "public": "/public/bl0xNFTs"
       },
+      "evmAddress": "0xeaed52be00f58219399bf3e32a870b509d6a80d2",
       "name": "bl0x",
       "description": "Minting a Bl0x triggers the catalyst moment of a big bang scenario. Generating a treasure that is designed to relate specifically to its holder.",
       "logoURI": "https://bl0x.xyz/assets/home/Bl0xlogo.webp",
@@ -132,8 +138,8 @@
       "bannerURI": "https://blovize.azureedge.net/blovizenft-onflow/banner-white.jpg",
       "tags": [],
       "extensions": {
-        "linkedin": "https://www.linkedin.com/company/blovize",
         "twitter": "https://twitter.com/blovizelabs",
+        "linkedin": "https://www.linkedin.com/company/blovize",
         "instagram": "https://www.instagram.com/blovizenftlabs",
         "website": "https://example-nft.onflow.org"
       }
@@ -152,9 +158,9 @@
       "bannerURI": "https://media-local.gigantik.io/bobblz/banner.png",
       "tags": [],
       "extensions": {
+        "instagram": "",
         "twitter": "https://x.com/gigantik_",
         "discord": "https://discord.gg/giglabs",
-        "instagram": "",
         "website": "https://Bobblz.shops.gigantik.io/"
       }
     },
@@ -172,8 +178,8 @@
       "bannerURI": "https://ipfs.io/ipfs/Qmcin3QW2W1PcqNE6wn5Fnjvj12riPeKtV8oL1TxRLbcTV",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/TheBoneyardNFT",
         "mastodon": "https://me.dm/@The_Boneyard",
+        "twitter": "https://twitter.com/TheBoneyardNFT",
         "website": "https://www.boneyard.cloud"
       }
     },
@@ -185,6 +191,7 @@
         "storage": "/storage/BreakingT_NFTCollection",
         "public": "/public/BreakingT_NFTCollection"
       },
+      "evmAddress": "0x478a94c2b821f4864700e39f22fa6b7584df42a1",
       "name": "BreakingT shop",
       "description": "This is a BreakingT shop",
       "logoURI": "https://media-local.gigantik.io/breakingt/square.png",
@@ -205,6 +212,7 @@
         "storage": "/storage/BWAYX_NFTCollection",
         "public": "/public/BWAYX_NFTCollection"
       },
+      "evmAddress": "0xc2ecf1de75291a37ff879234fc3053018868ffd5",
       "name": "BWAYX shop",
       "description": "This is a BWAYX shop",
       "logoURI": "https://media-local.gigantik.io/bwayx/square.png",
@@ -231,9 +239,9 @@
       "bannerURI": "https://media-local.gigantik.io/canes_vault/banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
         "instagram": "",
+        "discord": "https://discord.gg/giglabs",
         "website": "https://Canes_Vault.shops.gigantik.io/"
       }
     },
@@ -245,15 +253,16 @@
         "storage": "/storage/CarCollection",
         "public": "/public/CarCollection"
       },
+      "evmAddress": "0x2d03fccc951c98ce1824299437158f9bbdbbb1ed",
       "name": "Driverz Utility Cars",
       "description": "Driverz Car Collection",
       "logoURI": "https://driverz.world/DriverzNFT-logo.png",
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
+        "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
         "twitter": "https://twitter.com/DriverzWorld",
-        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       }
     },
@@ -265,14 +274,15 @@
         "storage": "/storage/CarClubCollection",
         "public": "/public/CarClubCollection"
       },
+      "evmAddress": "0x9b989cd4ee12bfd0d83f74bbfbc102d042c79dd0",
       "name": "Driverz Car Club",
       "description": "Driverz Car Club Collection",
       "logoURI": "https://driverz.world/DriverzNFT-logo.png",
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DriverzWorld",
         "discord": "https://discord.gg/driverz",
+        "twitter": "https://twitter.com/DriverzWorld",
         "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       }
@@ -285,14 +295,15 @@
         "storage": "/storage/findCharityCollection",
         "public": "/public/findCharityCollection"
       },
+      "evmAddress": "0x67f3e53dec8d8d16bd737dd25df43225b230a620",
       "name": "Neo Charity 2021",
       "description": "This collection is to show participation in the Neo Collectibles x Flowverse Charity Auction in 2021.",
       "logoURI": "https://pbs.twimg.com/profile_images/1467546091780550658/R1uc6dcq_400x400.jpg",
       "bannerURI": "https://pbs.twimg.com/profile_banners/1448245049666510848/1652452073/1500x500",
       "tags": [],
       "extensions": {
-        "Twitter": "https://twitter.com/findonflow",
         "Discord": "https://discord.gg/95P274mayM",
+        "Twitter": "https://twitter.com/findonflow",
         "website": "http://find.xyz/neoCharity"
       }
     },
@@ -304,14 +315,15 @@
         "storage": "/storage/Cimelio_NFTCollection",
         "public": "/public/Cimelio_NFTCollection"
       },
+      "evmAddress": "0xcb0fcde1736775aab08bbb443d1bca88ff1eecef",
       "name": "Cimelio shop",
       "description": "This is a Cimelio shop",
       "logoURI": "https://media-local.gigantik.io/cimelio/square.png",
       "bannerURI": "https://media-local.gigantik.io/cimelio/banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
+        "discord": "https://discord.gg/giglabs",
         "instagram": "",
         "website": "https://Cimelio.shops.gigantik.io/"
       }
@@ -324,6 +336,7 @@
         "storage": "/storage/CryptoPiggoCollection",
         "public": "/public/CryptoPiggoCollection"
       },
+      "evmAddress": "0x21008d0d4f3ebd34b336e95321228a65351b3eb9",
       "name": "The Crypto Piggo NFT Collection",
       "description": "",
       "logoURI": "https://ipfs.tenzingai.com/ipfs/QmUk3s7BoVSS56V2U4rxd1syVp8USUEygu7NmARppH183U",
@@ -341,6 +354,7 @@
         "storage": "/storage/CryptoPiggoPotionCollection",
         "public": "/public/CryptoPiggoPotionCollection"
       },
+      "evmAddress": "0x0d21723e8445dfa9c00f667b01c14eff1f51f266",
       "name": "The Crypto Piggo Potion NFT Collection",
       "description": "",
       "logoURI": "https://ipfs.tenzingai.com/ipfs/QmbkTGNXowKhrxQXu4A8FwEb1Nf5YbZTtfwPoqogKrqaH4",
@@ -358,6 +372,7 @@
         "storage": "/storage/CryptoPiggoV2Collection",
         "public": "/public/CryptoPiggoV2Collection"
       },
+      "evmAddress": "0x966d3499a46ac3fc15f5aee9cafd42db52a6716d",
       "name": "The Crypto Piggo V2 NFT Collection",
       "description": "",
       "logoURI": "https://ipfs.tenzingai.com/ipfs/QmbkTGNXowKhrxQXu4A8FwEb1Nf5YbZTtfwPoqogKrqaH4",
@@ -381,8 +396,8 @@
       "bannerURI": "https://media-local.gigantik.io/dgd/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/gigantik_",
         "instagram": "",
+        "twitter": "https://x.com/gigantik_",
         "discord": "https://discord.gg/giglabs",
         "website": "https://DGD.shops.gigantik.io/"
       }
@@ -395,14 +410,15 @@
         "storage": "/storage/dmxCollection",
         "public": "/public/dmxCollection"
       },
+      "evmAddress": "0x1fafb71a650e8e923bef6616036379310de629b3",
       "name": "Dimension X",
       "description": "Dimension X is a Free-to-Play, Play-to-Earn strategic role playing game on the Flow blockchain set in the Dimension X comic book universe, where a pan-dimensional explosion created super powered humans, aliens and monsters with radical and terrifying superpowers!",
       "logoURI": "https://metadata.flow.dimensionxnft.com/heroes/collection_image.png",
       "bannerURI": "https://metadata.flow.dimensionxnft.com/heroes/collection_banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DimensionX_NFT",
         "discord": "https://discord.gg/dimensionx",
+        "twitter": "https://twitter.com/DimensionX_NFT",
         "website": "https://dimensionxnft.com"
       }
     },
@@ -414,15 +430,16 @@
         "storage": "/storage/fnsDomainCollection",
         "public": "/public/fnsDomainCollection"
       },
+      "evmAddress": "0xb94378faa50722cc651ac19dfad3f1f01db0e31f",
       "name": "The Flowns domain Collection",
       "description": "This collection is managed by Flowns and present the ownership of domain.",
       "logoURI": "https://www.flowns.org/assets/flowns_logo_light.svg",
       "bannerURI": "https://www.flowns.org/assets/flowns_logo_light.svg",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/@Flowns",
-        "website": "https://flowns.org",
         "discord": "https://discord.gg/fXz4gBaYXd",
+        "website": "https://flowns.org",
+        "medium": "https://medium.com/@Flowns",
         "twitter": "https://twitter.com/flownsorg"
       }
     },
@@ -434,14 +451,15 @@
         "storage": "/storage/doodles",
         "public": "/public/doodles"
       },
+      "evmAddress": "0x422df8e241cabd526cdc08ee83bbf903ee83966c",
       "name": "Doodles",
       "description": "This Doodle is a uniquely personalized customizable character in a one-of-a-kind style.",
       "logoURI": "https://ipfs.io/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb",
       "bannerURI": "https://res.cloudinary.com/hxn7xk7oa/image/upload/v1675121458/doodles2_banner_ee7a035d05.jpg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Doodles",
         "discord": "https://discord.gg/doodles",
+        "twitter": "https://twitter.com/Doodles",
         "website": "https://doodles.app"
       }
     },
@@ -453,6 +471,7 @@
         "storage": "/storage/DriverzNFTCollection",
         "public": "/public/DriverzNFTCollection"
       },
+      "evmAddress": "0xdfaa0b31907181bd370599d817563f80a3585224",
       "name": "Driverz",
       "description": "An exclusive collection of energetic Driverz ready to vroom vroom on FLOW.",
       "logoURI": "https://ipfs.io/ipfs/QmV4FsnFiU7QY8ybwd5uuXwogVo9wcRExQLwedh7HU1mrU",
@@ -460,8 +479,8 @@
       "tags": [],
       "extensions": {
         "instagram": "https://www.instagram.com/driverzworld",
-        "twitter": "https://twitter.com/DriverzWorld/",
         "discord": "https://discord.gg/driverz",
+        "twitter": "https://twitter.com/DriverzWorld/",
         "website": "https://driverz.world"
       }
     },
@@ -491,6 +510,7 @@
         "storage": "/storage/FLOATCollectionStoragePath",
         "public": "/public/FLOATCollectionPublicPath"
       },
+      "evmAddress": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342",
       "name": "FLOAT",
       "description": "FLOAT is a proof of attendance platform on the Flow blockchain.",
       "logoURI": "https://i.imgur.com/v0Njnnk.png",
@@ -510,14 +530,15 @@
         "storage": "/storage/FlobotCollection",
         "public": "/public/FlobotCollection"
       },
+      "evmAddress": "0x37157785224b13140e6254178544a4e824867b01",
       "name": "Flovatar Flobot Collection",
       "description": "Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors.",
       "logoURI": "https://images.flovatar.com/logo.svg",
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/flovatar",
         "discord": "https://discord.gg/flovatar",
+        "twitter": "https://x.com/flovatar",
         "tiktok": "https://www.tiktok.com/@flovatar",
         "instagram": "https://instagram.com/flovatar_nft",
         "website": "https://flovatar.com"
@@ -531,15 +552,16 @@
         "storage": "/storage/FlovatarCollection",
         "public": "/public/FlovatarCollection"
       },
+      "evmAddress": "0x99cbb5b90b1e08164281b24ac9217eda4dc0ee62",
       "name": "Flovatar Collection",
       "description": "Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors.",
       "logoURI": "https://images.flovatar.com/logo.svg",
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flovatar",
         "instagram": "https://instagram.com/flovatar_nft",
         "tiktok": "https://www.tiktok.com/@flovatar",
+        "discord": "https://discord.gg/flovatar",
         "twitter": "https://x.com/flovatar",
         "website": "https://flovatar.com"
       }
@@ -552,16 +574,17 @@
         "storage": "/storage/FlovatarComponentCollection",
         "public": "/public/FlovatarComponentCollection"
       },
+      "evmAddress": "0x478b816cfcb33bf16396c8dae59ae1dd20b15786",
       "name": "Flovatar Component Collection",
       "description": "Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors.",
       "logoURI": "https://images.flovatar.com/logo.svg",
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "instagram": "https://instagram.com/flovatar_nft",
-        "discord": "https://discord.gg/flovatar",
         "twitter": "https://x.com/flovatar",
+        "discord": "https://discord.gg/flovatar",
         "tiktok": "https://www.tiktok.com/@flovatar",
+        "instagram": "https://instagram.com/flovatar_nft",
         "website": "https://flovatar.com"
       }
     },
@@ -573,16 +596,17 @@
         "storage": "/storage/FlovatarDustCollectibleCollection",
         "public": "/public/FlovatarDustCollectibleCollection"
       },
+      "evmAddress": "0x7d16c291bd1af000ea5a5fed70ed1204235199ed",
       "name": "Flovatar Dust Collectible Collection",
       "description": "Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors.",
       "logoURI": "https://images.flovatar.com/logo.svg",
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/flovatar",
-        "instagram": "https://instagram.com/flovatar_nft",
-        "tiktok": "https://www.tiktok.com/@flovatar",
         "discord": "https://discord.gg/flovatar",
+        "tiktok": "https://www.tiktok.com/@flovatar",
+        "instagram": "https://instagram.com/flovatar_nft",
+        "twitter": "https://x.com/flovatar",
         "website": "https://flovatar.com"
       }
     },
@@ -594,16 +618,17 @@
         "storage": "/storage/flowRewardsCollection",
         "public": "/public/flowRewardsCollectionPublic"
       },
+      "evmAddress": "0x45fd22727acd6e7dce5c8f5d5b929d0f82f567ee",
       "name": "Flow Rewards NFT",
       "description": "Lock & claim FLOW rewards and more",
       "logoURI": "https://ipfs.io/ipfs/QmYuLdXMbmDoUjGwKxfv3Jk3cgKV6mxYBAewNpxijkYYZn",
       "bannerURI": "https://ipfs.io/ipfs/QmTBnCqNwgE8AiHPs9YxuVb8HSKWA2RvY5Q4NYm1tvW6wq",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "https://discord.com/invite/flowblockchain",
         "instagram": "https://www.instagram.com/flowblockchain",
         "github": "https://github.com/onflow/crescendo-rewards-sc",
-        "discord": "https://discord.com/invite/flowblockchain",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://rewards.flow.com"
       }
     },
@@ -615,6 +640,7 @@
         "storage": "/storage/FlowtyWrapped_0x592eb32b47d8b85f",
         "public": "/public/FlowtyWrapped_0x592eb32b47d8b85f"
       },
+      "evmAddress": "0x2c2e2ef011a8ad5a89f1a2d59358c455e3336250",
       "name": "Flowty Wrapped",
       "description": "A celebration and statistical review of an exciting year on Flowty and across the Flow blockchain ecosystem.",
       "logoURI": "https://ipfs.io/ipfs/QmdCiwwJ7z2gQecDr6hn4pJj91miWYnFC178o9p6JKftmi",
@@ -639,9 +665,9 @@
       "bannerURI": "https://flowverse-mystery-pass.s3.filebase.com/mainnet/bannerImage.jpg",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/flowverseofficial",
         "discord": "https://discord.gg/flowverse",
         "twitter": "https://twitter.com/flowverse_",
+        "instagram": "https://www.instagram.com/flowverseofficial",
         "website": "https://nft.flowverse.co/flowverse-mystery-pass"
       }
     },
@@ -653,6 +679,7 @@
         "storage": "/storage/FlowverseShirtCollection",
         "public": "/public/FlowverseShirtCollection"
       },
+      "evmAddress": "0xeb073e026713a4c3b06c930f81f2057dfbdb513f",
       "name": "Flowverse Shirt",
       "description": "The Flowverse Shirt is the official shirt collection for the Flowverse community. Join a group of die-hard Flow enthusiasts and rep the Flowverse Shirt on the Flow Blockchain",
       "logoURI": "https://flowverse.myfilebase.com/ipfs/QmeFH4AXFLkCzKJ64nRmtRyqxXsVH8N98QDZcUNwJphXBz",
@@ -671,6 +698,7 @@
         "storage": "/storage/MatrixMarketFlowverseSocksCollection",
         "public": "/public/MatrixMarketFlowverseSocksCollection"
       },
+      "evmAddress": "0xf5e1953971497b86ddc2b7a5bc61182da3cb0e47",
       "name": "Flowverse Socks",
       "description": "Socks by Flowverse are versatile NFTs that enable you to claim 1 limited edition pair of physical Flowverse Socks, shipped globally. The total number of Socks by Flowverse is 111.",
       "logoURI": "https://media.nft.matrixmarket.xyz/media/dbbrUIkarYLXKKjiY5AYk_IMAGE.png",
@@ -695,9 +723,9 @@
       "bannerURI": "https://flowverse-treasures.s3.filebase.com/mainnet/collectionBannerImage.png",
       "tags": [],
       "extensions": {
+        "twitter": "https://twitter.com/flowverse_",
         "instagram": "https://www.instagram.com/flowverseofficial",
         "discord": "https://discord.gg/flowverse",
-        "twitter": "https://twitter.com/flowverse_",
         "website": "https://nft.flowverse.co/treasures"
       }
     },
@@ -709,6 +737,7 @@
         "storage": "/storage/FRC20SemiNFT_0xd2abb5dbf5e08666collection",
         "public": "/public/FRC20SemiNFT_0xd2abb5dbf5e08666collection"
       },
+      "evmAddress": "0xd5fa1aff2e92acf3f9875b54b171ee5c20fe9150",
       "name": "FIXeS 𝔉rc20 Semi-NFT",
       "description": "This collection is used to wrap 𝔉rc20 token as semi-NFTs.",
       "logoURI": "https://i.imgur.com/hs3U5CY.png",
@@ -717,8 +746,8 @@
       "extensions": {
         "github": "https://github.com/fixes-world",
         "linktree": "https://linktr.ee/fixes.world",
-        "twitter": "https://twitter.com/fixesWorld",
         "x": "https://twitter.com/fixesWorld",
+        "twitter": "https://twitter.com/fixesWorld",
         "website": "https://fixes.world/"
       }
     },
@@ -730,14 +759,15 @@
         "storage": "/storage/Fuchibola_NFTCollection",
         "public": "/public/Fuchibola_NFTCollection"
       },
+      "evmAddress": "0x6f7a202a1280264c0f3505c142c04e45e91c0bd3",
       "name": "Fuchibola shop",
       "description": "This is a Fuchibola shop",
       "logoURI": "https://media-local.gigantik.io/fuchibola/square.png",
       "bannerURI": "https://media-local.gigantik.io/fuchibola/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/gigantik_",
         "instagram": "",
+        "twitter": "https://x.com/gigantik_",
         "discord": "https://discord.gg/giglabs",
         "website": "https://Fuchibola.shops.gigantik.io/"
       }
@@ -750,6 +780,7 @@
         "storage": "/storage/GaiaCollection001",
         "public": "/public/GaiaCollection001"
       },
+      "evmAddress": "0x798b0effe43a1144acf1be107f2e04bc5688fab6",
       "name": "Ballerz",
       "description": "A basketball-inspired generative NFT living on the Flow blockchain",
       "logoURI": "https://ballerz.com/images/onchain/logo-stack.png",
@@ -768,6 +799,7 @@
         "storage": "/storage/GolazosNFTCollection",
         "public": "/public/GolazosNFTCollection"
       },
+      "evmAddress": "0xf68fafbe9d39fd7cfa69257c2ab1067281b64b87",
       "name": "Laliga Golazos",
       "description": "Collect LaLiga's biggest Moments and get closer to the game than ever before",
       "logoURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Primary_B.png",
@@ -775,8 +807,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/LaLigaGolazos",
-        "instagram": " https://instagram.com/laligaonflow",
         "discord": "https://discord.gg/LaLigaGolazos",
+        "instagram": " https://instagram.com/laligaonflow",
         "facebook": "https://www.facebook.com/LaLigaGolazos/",
         "website": "https://laligagolazos.com/"
       }
@@ -789,14 +821,15 @@
         "storage": "/storage/GooberzPartyFolksCollection",
         "public": "/public/GooberzPartyFolksCollectionPublic"
       },
+      "evmAddress": "0x653e0bdcd20f84ad401d2ffa38b007486a850d5f",
       "name": "Party Mansion Gooberz",
       "description": "The Party Gooberz is a fun and comical art collection of 3550 collectibles living on the Flow Blockchain. As one of the first PFP collectibles on Flow, we enjoy bringing the party and hanging with friends. So grab a drink, pump up the music, and get ready to party because The Party Goobz are ready to go within Party Mansion!",
       "logoURI": "https://ipfs.io/ipfs/QmeiwpEXCidsPae3ZPpSJTKVit1R2LHiF4cw5pvmMPRC4x",
       "bannerURI": "https://ipfs.io/ipfs/QmdU1j5nqeQBmVWZZDhz23z6mMPwMp5i2Ka2sBpMhYggPT",
       "tags": [],
       "extensions": {
-        "discord": "http://discord.gg/zJRNqKuDQH",
         "twitter": "https://mobile.twitter.com/the_goobz_nft",
+        "discord": "http://discord.gg/zJRNqKuDQH",
         "website": "https://partymansion.io/"
       }
     },
@@ -808,15 +841,16 @@
         "storage": "/storage/HelmetCollection",
         "public": "/public/HelmetCollection"
       },
+      "evmAddress": "0x2c20fc197ac025ee283464ce5e49c9510c1e27aa",
       "name": "Driverz Utility Helmet",
       "description": "Driverz Helmet Collection",
       "logoURI": "https://driverz.world/DriverzNFT-logo.png",
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DriverzWorld",
         "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
+        "twitter": "https://twitter.com/DriverzWorld",
         "website": "https://driverz.world/"
       }
     },
@@ -828,6 +862,7 @@
         "storage": "/storage/HeroesOfTheFlowCollection",
         "public": "/public/HeroesOfTheFlowCollection"
       },
+      "evmAddress": "0x43ece1a944d3a049c873bca564085d28efd111fd",
       "name": "Heroes of the Flow",
       "description": "Heroes of the Flow is a post-apocalyptic auto-battler set in the Rogues universe.",
       "logoURI": "https://flowverse.myfilebase.com/ipfs/QmU7a1eLvsmLda1VPe2ioikeWmhPwk5Xm7eV2iBUuirm55",
@@ -846,16 +881,17 @@
         "storage": "/storage/HWGarageCardCollection",
         "public": "/public/HWGarageCardCollection"
       },
+      "evmAddress": "0x7a7bd3afc37be2402b83d667d4fbf57d671bafab",
       "name": "Hot Wheels Garage Card",
       "description": "Digital Collectable from Hot Wheels Garage",
       "logoURI": "",
       "bannerURI": "",
       "tags": [],
       "extensions": {
-        "facebook": "https://www.facebook.com/hotwheels",
-        "discord": "https://discord.gg/mattel",
         "twitter": "https://twitter.com/Hot_Wheels",
+        "facebook": "https://www.facebook.com/hotwheels",
         "instagram": "https://www.instagram.com/hotwheelsofficial/",
+        "discord": "https://discord.gg/mattel",
         "website": ""
       }
     },
@@ -867,6 +903,7 @@
         "storage": "/storage/IconoGraphikaNFT",
         "public": "/public/IconoGraphikaNFT"
       },
+      "evmAddress": "0xf2222eee871acf5e67128b8dc998f95ec97d3939",
       "name": "PANTHEON COLLECTION",
       "description": "The Pantheon Collection is a showcase of iconic designs of the 20th century.",
       "logoURI": "https://ipfs.io/ipfs/QmVUqQW4KUgom5dHss5PrZ2JTyMoREuU77ecvFWodvg5zv",
@@ -884,6 +921,7 @@
         "storage": "/storage/JollyJokersCollection",
         "public": "/public/JollyJokersCollection"
       },
+      "evmAddress": "0xf71f5868299b48d542c40951d4d1e91f132a8002",
       "name": "Jolly Jokers",
       "description": "The Jolly Joker Sports Society is a collection of 5,000 Jolly Jokers living on the Flow blockchain. Owning a Jolly Joker gets you access to the Own the Moment ecosystem, including analytics tools for NBA Top Shot and NFL ALL DAY, token-gated fantasy sports and poker competitions, and so much more. If you are a fan of sports, leaderboards, and fun – then the Jolly Jokers is the perfect community for you!",
       "logoURI": "https://otmnft-jj.s3.amazonaws.com/Jolly_Jokers.png",
@@ -902,6 +940,7 @@
         "storage": "/storage/KaratNFTCollection",
         "public": "/public/KaratNFTCollection"
       },
+      "evmAddress": "0x12782c53bfb950010549f538b8542898d907bf6e",
       "name": "The 24Karat Collection",
       "description": "This collection is used for 24Karat market.",
       "logoURI": "https://static.wixstatic.com/media/568614_5676993b65c64da29cecf24d323fd664~mv2.png/v1/fill/w_140,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/568614_5676993b65c64da29cecf24d323fd664~mv2.png",
@@ -920,6 +959,7 @@
         "storage": "/storage/KeeprItemsCollectionV10",
         "public": "/public/KeeprItemsCollectionV10"
       },
+      "evmAddress": "0x24212c12535b3d0e39cf5aec81e87446d91e8dcc",
       "name": "The Keepr Collection",
       "description": "This collection is used as an example to help you develop your next Flow NFT.",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/keepr-86355.appspot.com/o/static%2Flogo-dark.svg?alt=media&token=9d66d7ea-9b3e-4fe0-8604-04df064af359",
@@ -938,6 +978,7 @@
         "storage": "/storage/MagnetiqTokensCollection",
         "public": "/public/MagnetiqTokensCollection"
       },
+      "evmAddress": "0x2a4ba366e2168d02a86d072aef7b55a39c1e7da6",
       "name": "MAGNETIQ",
       "description": "MAGNETIQ is making managing brand community engagement easy and efficient with a plug and play, blockchain powered platform.  MAGNETIQ NFTs represent your membership in brand communities.",
       "logoURI": "https://magnetiq-static.s3.amazonaws.com/media/public/MAGNETIQ_Square_Logo.png",
@@ -945,8 +986,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/magnetiq_xyz",
-        "discord": "https://discord.com/invite/Magnetiq",
         "instagram": "https://www.instagram.com/magnetiq_xyz",
+        "discord": "https://discord.com/invite/Magnetiq",
         "website": "https://www.magnetiq.xyz/"
       }
     },
@@ -958,6 +999,7 @@
         "storage": "/storage/MatrixWorldVoucherCollection",
         "public": "/public/MatrixWorldVoucherCollection"
       },
+      "evmAddress": "0x279443ba076c7370cd2808bdd617596f3ca28fde",
       "name": "WORLD3 Land Voucher",
       "description": "WORLD3 Land Voucher is a collection of NFTs that represent the ownership of a piece of land in the WORLD3 Metaverse. Each NFT is unique and can be used to claim the ownership of a specific piece of land in the WORLD3 Space.",
       "logoURI": "https://world3.ai/assets/WORLD3Logo_black.png",
@@ -976,6 +1018,7 @@
         "storage": "/storage/NftMetaverseMarketCollectionVersionTwo",
         "public": "/public/NftMetaverseMarketCollectionVersionTwo"
       },
+      "evmAddress": "0x63c936f8b6565b81b0b8d999b1a6d8fbbcde5444",
       "name": "Ozone Metaverse Marketplace",
       "description": "The first ever virtual world building creator NFT marketplace on Flow. Made by creators, for creators. Instantly create listings of all media file types including 3D models which can be immediately used in virtual world building studio. Build the new metaverse economy today by becoming a creator or simply start to build worlds today. Built on Flow. Powered by Ozone.",
       "logoURI": "https://d19wottuqbmkwr.cloudfront.net/nft/banners1.jpg",
@@ -995,16 +1038,17 @@
         "storage": "/storage/MFLClubCollection",
         "public": "/public/MFLClubCollection"
       },
+      "evmAddress": "0x1de931a87d389de298b150ff01d6dc3bd0b7d281",
       "name": "MFL Club Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
       "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/playmfl",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "twitter": "https://twitter.com/playMFL",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
+        "medium": "https://medium.com/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -1016,16 +1060,17 @@
         "storage": "/storage/MFLPackCollection",
         "public": "/public/MFLPackCollection"
       },
+      "evmAddress": "0xd77da66125bb2d9ace3bd703b17a231eee9f093b",
       "name": "MFL Pack Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
       "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "linkedin": "https://www.linkedin.com/company/playmfl",
+        "discord": "https://discord.gg/pEDTR4wSPr",
         "twitter": "https://twitter.com/playMFL",
         "medium": "https://medium.com/playmfl",
-        "discord": "https://discord.gg/pEDTR4wSPr",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -1037,6 +1082,7 @@
         "storage": "/storage/MFLPlayerCollection",
         "public": "/public/MFLPlayerCollection"
       },
+      "evmAddress": "0x117cc97619c11f17333bd8229c50f0ccc600bf8c",
       "name": "MFL Player Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
       "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
@@ -1045,8 +1091,8 @@
       "extensions": {
         "medium": "https://medium.com/playmfl",
         "twitter": "https://twitter.com/playMFL",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -1058,6 +1104,7 @@
         "storage": "/storage/MikoSeaCollection",
         "public": "/public/MikoSeaCollection"
       },
+      "evmAddress": "0x16d1a3e82d908651e96ba1d4338b10eb35860132",
       "name": "MikoSea",
       "description": "あらゆる事業者の思いを載せて神輿を担ぐ。NFT型クラウドファンディングマーケット「MikoSea」",
       "logoURI": "https://mikosea.io/mikosea_1.png",
@@ -1076,6 +1123,7 @@
         "storage": "/storage/nfgNFTCollection",
         "public": "/public/nfgNFTCollection"
       },
+      "evmAddress": "0x76da69879644c03e1cf338a9bcb57f562318c77b",
       "name": "NonFunGerbils",
       "description": "The NonFunGerbils are a collaboration between the NonFunGerbils Podcast, their audience and sometimes fabolous artists. Harnessing the power of MEMEs with creative writing and collaboration they create the most dankest, cutest gerbils in the NFT space.",
       "logoURI": "https://ipfs.io/ipfs/QmeG1rPaLWmn4uUSjQ2Wbs7QnjxdQDyeadCGWyGwvHTB7c",
@@ -1094,6 +1142,7 @@
         "storage": "/storage/TiblesOneShotsCollection",
         "public": "/public/TiblesOneShotsCollection"
       },
+      "evmAddress": "0xb266949a9d976d0e52cc746c2676c103757c8e11",
       "name": "OneShots Comic Book Trading Cards by Tibles",
       "description": "OneShots is a digital trading card collecting experience by Tibles, made just for comic book fans, backed by the FLOW blockchain.",
       "logoURI": "https://i.tibles.com/m/oneshots-flow-icon.png",
@@ -1112,15 +1161,16 @@
         "storage": "/storage/OrdinalCollection",
         "public": "/public/OrdinalCollection"
       },
+      "evmAddress": "0x83bdd800526cc870624c07bd22c09f82f0b3e76c",
       "name": "Ordinals",
       "description": "Ordinals on the Flow blockchain",
       "logoURI": "https://flowverse.myfilebase.com/ipfs/QmQ45TvzGVTmoMCfGqxgbiMmR4rdmSHAhz661bPyUfFrAT",
       "bannerURI": "https://flowverse.myfilebase.com/ipfs/QmaTj276rAUFoFiik84xCx1PYZnqZHcGp78vG6xqHLfoXo",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flowverse",
         "instagram": "https://www.instagram.com/flowverseofficial",
         "twitter": "https://twitter.com/flowverse_",
+        "discord": "https://discord.gg/flowverse",
         "website": "https://twitter.com/flowverse_"
       }
     },
@@ -1132,14 +1182,15 @@
         "storage": "/storage/PackNFTCollection",
         "public": "/public/PackNFTCollectionPub"
       },
+      "evmAddress": "0xae799bc4db1a77960a1dd236fb6d9931b301feb1",
       "name": "NFL All Day Packs",
       "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
       "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/5K6qyTzj2k",
         "instagram": "https://www.instagram.com/nflallday/",
+        "discord": "https://discord.com/invite/5K6qyTzj2k",
         "twitter": "https://twitter.com/NFLAllDay",
         "website": "https://nflallday.com/"
       }
@@ -1152,6 +1203,7 @@
         "storage": "/storage/PartyMansionDrinkCollection",
         "public": "/public/PartyMansionDrinkCollectionPublic"
       },
+      "evmAddress": "0x3e3aae8772379226665d04b736be2f7881d30ca4",
       "name": "Party Mansion Drinks",
       "description": "What is a Party without drinks!? The Party Beers are an fun art collection of whacky drinks that can only be found at the bar in Party Mansion. These collectibles were first airdropped to Party Gooberz and will be a staple in the Mansion, Drink up!",
       "logoURI": "https://ipfs.io/ipfs/QmSEJEwqdpotJ7RX42RKDy5sVgQzhNy3XiDmFsc81wgzNC",
@@ -1171,6 +1223,7 @@
         "storage": "/storage/Piece_Collection0xfdc436fd7db22e01",
         "public": "/public/Piece_Collection0xfdc436fd7db22e01"
       },
+      "evmAddress": "0x2cd1d5cd8ab5335c66aa52cfa1af4eb0d5857eb6",
       "name": "Piece",
       "description": "Sell Pieces of any Tweet in seconds.",
       "logoURI": "https://www.piece.gg/static/media/logo.48da6adac82863dd4955abe125b5c8dd.svg",
@@ -1190,6 +1243,7 @@
         "storage": "/storage/PuffPalzCollection",
         "public": "/public/PuffPalzCollection"
       },
+      "evmAddress": "0xeb7bc35d8bb7ef56bf4a3b620f65a317de915654",
       "name": "NBA-Top-Shot",
       "description": "Welcome to Puff Palz! An NFT collection of 42 animals that enjoy the devil's lettuce Are you a Smoker, Grower, Pusher, or the Top of the Food Chain?!",
       "logoURI": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
@@ -1209,14 +1263,15 @@
         "storage": "/storage/RaceDay_NFTCollection",
         "public": "/public/RaceDay_NFTCollection"
       },
+      "evmAddress": "0xc7aac70c7ca640060bb6146deb2e4549758496f6",
       "name": "RaceDay shop",
       "description": "This is the RaceDay NFT and rewards experience.",
       "logoURI": "https://media-local.gigantik.io/raceday/square.png",
       "bannerURI": "https://media-local.gigantik.io/raceday/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://instagram.com/racedaynft/",
         "discord": "https://discord.gg/jkmrMY5TGB",
+        "instagram": "https://instagram.com/racedaynft/",
         "twitter": "https://x.com/RaceDayNFT",
         "website": "https://racedaynft.com/"
       }
@@ -1229,14 +1284,15 @@
         "storage": "/storage/redeemables",
         "public": "/public/redeemables"
       },
+      "evmAddress": "0x2c9bd29bb1c00c0af63a3a25b64b5bfcd0e6f966",
       "name": "Redeemables",
       "description": "Doodles 2 lets anyone create a uniquely personalized and endlessly customizable character in a one-of-a-kind style. Wearables and other collectibles can easily be bought, traded, or sold. Doodles 2 will also incorporate collaborative releases with top brands in fashion, music, sports, gaming, and more. Redeemables are a part of the Doodles ecosystem that will allow you to turn in this NFT within a particular period of time to receive a physical collectible.",
       "logoURI": "https://ipfs.io/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb",
       "bannerURI": "https://ipfs.io/ipfs/QmVoTikzygffMaPcacyTjF8mQ71Eg3zsMF4p4fbsAtGQmQ",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/doodles",
         "twitter": "https://twitter.com/doodles",
+        "discord": "https://discord.gg/doodles",
         "instagram": "https://www.instagram.com/thedoodles",
         "website": "https://doodles.app"
       }
@@ -1249,6 +1305,7 @@
         "storage": "/storage/RogueBunnies_NFTCollection",
         "public": "/public/RogueBunnies_NFTCollection"
       },
+      "evmAddress": "0xec341ab104f217c5940788503176639ff2713d06",
       "name": "RogueBunnies shop",
       "description": "This is the RogueBunnies card collection.",
       "logoURI": "https://media-local.gigantik.io/roguebunnies/square.png",
@@ -1269,6 +1326,7 @@
         "storage": "/storage/TiblesSeussiblesCollection",
         "public": "/public/TiblesSeussiblesCollection"
       },
+      "evmAddress": "0x3f013cd02c8803217366ee9587fde1652ac5a57e",
       "name": "Seussibles! Dr. Seuss Collection by Tibles",
       "description": "An officially licensed Dr. Seuss digital collecting experience by Tibles. Available on iOS and web, Seussibles! is super accessible, engaging, and fun!",
       "logoURI": "https://i.tibles.com/m/seussibles-flow-icon.png",
@@ -1288,6 +1346,7 @@
         "storage": "/storage/TiblesSk8tiblesCollection",
         "public": "/public/TiblesSk8tiblesCollection"
       },
+      "evmAddress": "0x2aae88007dbdb7a06506cd4ffcf11e27cde5dcd5",
       "name": "Sk8tibles Collection",
       "description": "A digital trading card collecting experience by Tibles, made in partnership with the Skateboarding Hall of Fame and Museum.",
       "logoURI": "https://i.tibles.com/m/sk8tibles-flow-icon.png",
@@ -1307,6 +1366,7 @@
         "storage": "/storage/SportbitCollection",
         "public": "/public/SportbitCollection"
       },
+      "evmAddress": "0xa7b0ee5ada31ee79e83c04541eee14c6f9d92667",
       "name": "Sportvatar Accessories Collection",
       "description": "The Sportvatar Accessories allow you customize and make your beloved Sportvatar even more unique and exclusive.",
       "logoURI": "https://images.sportvatar.com/logo.svg",
@@ -1314,9 +1374,9 @@
       "tags": [],
       "extensions": {
         "discord": "https://discord.gg/sportvatar",
-        "tiktok": "https://www.tiktok.com/@sportvatar",
         "instagram": "https://instagram.com/sportvatar",
         "twitter": "https://x.com/sportvatar",
+        "tiktok": "https://www.tiktok.com/@sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -1328,16 +1388,17 @@
         "storage": "/storage/SportvatarCollection",
         "public": "/public/SportvatarCollection"
       },
+      "evmAddress": "0xfbf3d60b68f3b5b0e5ca5a6430fe3439d3dd50a1",
       "name": "Sportvatar Collection",
       "description": "Sportvatar is the next generation of composable and customizable Digital Collectibles",
       "logoURI": "https://images.sportvatar.com/logo.svg",
       "bannerURI": "https://images.sportvatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "tiktok": "https://www.tiktok.com/@sportvatar",
+        "instagram": "https://instagram.com/sportvatar",
         "discord": "https://discord.gg/sportvatar",
         "twitter": "https://x.com/sportvatar",
-        "instagram": "https://instagram.com/sportvatar",
+        "tiktok": "https://www.tiktok.com/@sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -1349,15 +1410,16 @@
         "storage": "/storage/starlyCardCollection",
         "public": "/public/starlyCardCollection"
       },
+      "evmAddress": "0xc4ddf229e021fc079c2f14d5624abfb99619e41c",
       "name": "Starly",
       "description": "Starly is a launchpad and marketplace for gamified NFT collections on Flow.",
       "logoURI": "https://storage.googleapis.com/starly-prod.appspot.com/assets/starly-square-logo.jpg",
       "bannerURI": "https://storage.googleapis.com/starly-prod.appspot.com/assets/starly-banner.jpg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/starly",
-        "twitter": "https://twitter.com/StarlyNFT",
         "medium": "https://medium.com/@StarlyNFT",
+        "twitter": "https://twitter.com/StarlyNFT",
+        "discord": "https://discord.gg/starly",
         "website": "https://starly.io"
       }
     },
@@ -1369,14 +1431,15 @@
         "storage": "/storage/SturdyItemsCollection",
         "public": "/public/SturdyItemsCollection"
       },
+      "evmAddress": "0xa7f6f20aef160b7d6ae6faf35b752e8822172cd9",
       "name": "Hoodlums",
       "description": "Hoodlums NFT is a generative art project featuring 5,000 unique Hoodlum PFPs, crafted from hand-drawn traits by renowned memelord Somehoodlum. Created for creatives, by creatives, the project is owned and operated by Hoodlums holders through Hoodlums DAO. Hoodlums is the first PFP on the Flow Blockchain, minted in September 2021.",
       "logoURI": "https://ipfs.io/ipfs/QmYQPsikmJxRAtCFGTa3coUoG6bZqduyckAwodUQ35T8p9",
       "bannerURI": "https://ipfs.io/ipfs/QmPqVFuM2d4bSqFCjTddajaSb7AVYpDrRJuw3BeE8s1cRJ",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/ah2jynWk",
         "twitter": "https://x.com/HoodlumsNFT",
+        "discord": "https://discord.gg/ah2jynWk",
         "website": "https://www.hoodlums.io/"
       }
     },
@@ -1388,15 +1451,16 @@
         "storage": "/storage/MomentCollection",
         "public": "/public/MomentCollection"
       },
+      "evmAddress": "0x50ab3a827ad268e9d5a24d340108fad5c25dad5f",
       "name": "NBA-Top-Shot",
       "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
       "logoURI": "https://nbatopshot.com/static/img/og/og.png",
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
       "tags": [],
       "extensions": {
+        "discord": "https://discord.com/invite/nbatopshot",
         "twitter": "https://twitter.com/nbatopshot",
         "instagram": "https://www.instagram.com/nbatopshot",
-        "discord": "https://discord.com/invite/nbatopshot",
         "website": "https://nbatopshot.com"
       }
     },
@@ -1408,6 +1472,7 @@
         "storage": "/storage/UFC_NFTCollection",
         "public": "/public/UFC_NFTCollection"
       },
+      "evmAddress": "0x8a1a321f7feb5dee3cb5b120e1f9937c4478575f",
       "name": "UFC Strike",
       "description": "Collect the most iconic video highlights from the biggest (and most notorious) fighters from UFC. UFC Strike allows fans to express their fandom like never before with fully licensed UFC video NFTs.",
       "logoURI": "https://media-local.gigantik.io/ufc/square.png",
@@ -1434,8 +1499,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmWEsThoSdJHNVcwexYuSucR4MEGhkJEH6NCzdTV71y6GN",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/doodles",
         "discord": "https://discord.gg/doodles",
+        "twitter": "https://twitter.com/doodles",
         "website": "https://doodles.app"
       }
     },
@@ -1447,6 +1512,7 @@
         "storage": "/storage/WheelCollection",
         "public": "/public/WheelCollection"
       },
+      "evmAddress": "0xbf7b462be057adaaaabeaa320dc8ce29826238f4",
       "name": "Driverz Utility Wheels",
       "description": "Driverz Wheel Collection",
       "logoURI": "https://driverz.world/DriverzNFT-logo.png",
@@ -1467,25 +1533,26 @@
         "storage": "/storage/ZeedzINOCollection",
         "public": "/public/ZeedzINOCollection"
       },
+      "evmAddress": "0xd50a7eacabd654f1a1c5ea05f9c74a1022340408",
       "name": "Zeedz",
       "description": "Zeedz is the first play-for-purpose game where players reduce global carbon emissions by collecting plant-inspired creatures: Zeedles. They live as NFTs on an eco-friendly blockchain (Flow) and grow with the real-world weather.",
       "logoURI": "https://play.zeedz.io/logo-zeedz.svg",
       "bannerURI": "https://play.zeedz.io/background-zeedz.jpg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/zeedz_official",
-        "youtube": "https://www.youtube.com/c/zeedz_official",
-        "medium": "https://blog.zeedz.io/",
-        "instagram": "https://www.instagram.com/zeedz_official/",
-        "linkedin": "https://www.linkedin.com/company/zeedz",
         "discord": "http://discord.com/invite/zeedz",
+        "twitter": "https://twitter.com/zeedz_official",
+        "medium": "https://blog.zeedz.io/",
+        "linkedin": "https://www.linkedin.com/company/zeedz",
+        "instagram": "https://www.instagram.com/zeedz_official/",
+        "youtube": "https://www.youtube.com/c/zeedz_official",
         "website": "https://play.zeedz.io"
       }
     }
   ],
   "totalAmount": 76,
   "filterType": "ALL",
-  "timestamp": "2024-09-06T04:09:39.677Z",
+  "timestamp": "2024-09-12T16:16:08.073Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1514,7 +1581,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
