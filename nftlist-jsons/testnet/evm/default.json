@@ -56,7 +56,7 @@
       "evmAddress": "0x12a7c2485a3669f4c83b4ab92d9ddeef032bd404",
       "name": "Flow Rewards NFT",
       "description": "Lock & claim FLOW rewards and more",
-      "logoURI": "https://ipfs.io/ipfs/QmXPXRZwZByuC5jFV8Lhk5E6HQCkBxYYMkrkJ4b1FYNmf6",
+      "logoURI": "https://ipfs.io/ipfs/QmYuLdXMbmDoUjGwKxfv3Jk3cgKV6mxYBAewNpxijkYYZn",
       "bannerURI": "https://ipfs.io/ipfs/QmTBnCqNwgE8AiHPs9YxuVb8HSKWA2RvY5Q4NYm1tvW6wq",
       "tags": [],
       "extensions": {
@@ -129,7 +129,7 @@
   ],
   "totalAmount": 6,
   "filterType": "ALL",
-  "timestamp": "2024-09-12T16:16:12.959Z",
+  "timestamp": "2024-09-13T01:12:49.615Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -158,7 +158,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
