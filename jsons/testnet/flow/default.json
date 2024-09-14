@@ -281,9 +281,9 @@
       ],
       "extensions": {
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
-        "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
@@ -315,7 +315,7 @@
   ],
   "totalAmount": 15,
   "filterType": "ALL",
-  "timestamp": "2024-09-12T16:15:59.718Z",
+  "timestamp": "2024-09-14T01:11:24.366Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -356,7 +356,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
