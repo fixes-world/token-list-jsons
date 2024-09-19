@@ -73,7 +73,7 @@
       },
       "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
       "symbol": "USDC.e",
-      "name": "USDC (Flow)",
+      "name": "Bridged USDC",
       "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
@@ -93,7 +93,7 @@
   ],
   "totalAmount": 3,
   "filterType": "FEATURED",
-  "timestamp": "2024-09-19T15:39:33.811Z",
+  "timestamp": "2024-09-19T15:52:58.582Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -135,6 +135,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   }
 }
