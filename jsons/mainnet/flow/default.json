@@ -134,8 +134,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -333,8 +333,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -381,8 +381,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "twitter": "_damo420",
         "discord": "h6xXUCDqth",
+        "twitter": "_damo420",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -535,14 +535,17 @@
         "receiver": "/public/FixsStandardFT_0x054cdc03e2b159f3USDC_Receiver",
         "balance": "/public/FixsStandardFT_0x054cdc03e2b159f3USDC_Balance"
       },
-      "symbol": "USDC",
+      "symbol": "USDC_FIXES",
       "name": "USDC",
       "description": "I really wonder if USDC could be created.",
       "decimals": 8,
       "logoURI": "https://static.fixes.world/28MDQuMDcuMj1721708675913",
-      "tags": [],
+      "tags": [
+        "memecoin"
+      ],
       "extensions": {
-        "website": "https://linktr.ee/fixes.world/"
+        "website": "https://linktr.ee/fixes.world/",
+        "displaySource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -710,11 +713,11 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "coingeckoId": "flow",
         "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1055,18 +1058,18 @@
         "balance": "/public/usdcFlowMetadata"
       },
       "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "symbol": "USDCf",
+      "symbol": "USDC.e",
       "name": "USDC (Flow)",
-      "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
+      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
       "tags": [
         "stablecoin"
       ],
       "extensions": {
-        "twitter": "https://x.com/axelar",
+        "twitter": "https://x.com/flow_blockchain",
         "coingeckoId": "usd-coin",
-        "website": "https://docs.axelar.dev/learn/axlusdc",
+        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
@@ -1111,8 +1114,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -1162,7 +1165,7 @@
   ],
   "totalAmount": 51,
   "filterType": "ALL",
-  "timestamp": "2024-09-17T01:00:23.192Z",
+  "timestamp": "2024-09-19T15:39:29.293Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1204,6 +1207,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
