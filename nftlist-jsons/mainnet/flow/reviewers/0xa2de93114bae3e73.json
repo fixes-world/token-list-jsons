@@ -1457,7 +1457,7 @@
       "evmAddress": "0x50ab3a827ad268e9d5a24d340108fad5c25dad5f",
       "name": "NBA-Top-Shot",
       "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
-      "logoURI": "https://nbatopshot.com/static/img/og/og.png",
+      "logoURI": "https://nbatopshot.com/static/favicon/favicon.svg",
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
       "tags": [
         "Pending"
@@ -1557,7 +1557,7 @@
   ],
   "totalAmount": 76,
   "filterType": "ALL",
-  "timestamp": "2024-09-12T16:16:09.795Z",
+  "timestamp": "2024-09-21T01:12:34.898Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1587,6 +1587,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
