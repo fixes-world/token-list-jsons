@@ -5,13 +5,14 @@
   "tokens": [
     {
       "chainId": 545,
-      "address": "0x46664e2033f9853d",
+      "address": "0x7c2fff21cdecd4e779f1710e101dd53556b1bdf5",
       "contractName": "DimensionX",
       "path": {
         "storage": "/storage/dmxCollection",
         "public": "/public/dmxCollection"
       },
       "evmAddress": "0x7c2fff21cdecd4e779f1710e101dd53556b1bdf5",
+      "flowAddress": "0x46664e2033f9853d",
       "name": "Dimension X",
       "description": "Dimension X is a Free-to-Play, Play-to-Earn strategic role playing game on the Flow blockchain set in the Dimension X comic book universe, where a pan-dimensional explosion created super powered humans, aliens and monsters with radical and terrifying superpowers!",
       "logoURI": "https://metadata.dmx.shmuppyships.com/heroes/collection_image.png",
@@ -25,13 +26,14 @@
     },
     {
       "chainId": 545,
-      "address": "0x9392a4a7c3f49a0b",
+      "address": "0x56625ba737056dbadafb36870c4105a3a4d62bd7",
       "contractName": "FlovatarComponent",
       "path": {
         "storage": "/storage/FlovatarComponentCollection",
         "public": "/public/FlovatarComponentCollection"
       },
       "evmAddress": "0x56625ba737056dbadafb36870c4105a3a4d62bd7",
+      "flowAddress": "0x9392a4a7c3f49a0b",
       "name": "Flovatar Component Collection",
       "description": "Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors.",
       "logoURI": "https://images.flovatar.com/logo.svg",
@@ -47,13 +49,14 @@
     },
     {
       "chainId": 545,
-      "address": "0x2e7cfb413f04382f",
+      "address": "0x12a7c2485a3669f4c83b4ab92d9ddeef032bd404",
       "contractName": "FlowRewards",
       "path": {
         "storage": "/storage/flowRewardsCollection",
         "public": "/public/flowRewardsCollectionPublic"
       },
       "evmAddress": "0x12a7c2485a3669f4c83b4ab92d9ddeef032bd404",
+      "flowAddress": "0x2e7cfb413f04382f",
       "name": "Flow Rewards NFT",
       "description": "Lock & claim FLOW rewards and more",
       "logoURI": "https://ipfs.io/ipfs/QmYuLdXMbmDoUjGwKxfv3Jk3cgKV6mxYBAewNpxijkYYZn",
@@ -69,13 +72,14 @@
     },
     {
       "chainId": 545,
-      "address": "0xd9c02cdacccb25ab",
+      "address": "0x6bd1f8bb1c65147143a1949cfa20b6e9d3625648",
       "contractName": "FlowtyTestNFT",
       "path": {
         "storage": "/storage/FlowtyTestNFTCollection",
         "public": "/public/FlowtyTestNFTCollection"
       },
       "evmAddress": "0x6bd1f8bb1c65147143a1949cfa20b6e9d3625648",
+      "flowAddress": "0xd9c02cdacccb25ab",
       "name": "Flowty Test NFT Collection",
       "description": "This collection is used for testing things out on flowty.",
       "logoURI": "https://storage.googleapis.com/flowty-images/flowty-logo.jpeg",
@@ -88,13 +92,14 @@
     },
     {
       "chainId": 545,
-      "address": "0xc7c122b5b811de8e",
+      "address": "0x456cdc1e94c00fed6eac4b72765af90876695bd1",
       "contractName": "FlowversePass",
       "path": {
         "storage": "/storage/FlowversePassCollection",
         "public": "/public/FlowversePassCollection"
       },
       "evmAddress": "0x456cdc1e94c00fed6eac4b72765af90876695bd1",
+      "flowAddress": "0xc7c122b5b811de8e",
       "name": "Flowverse Mystery Pass",
       "description": "The Flowverse Mystery Pass is a utility-focused membership pass that aims to level up Flowverse from a web2 information provider to a web3 brand",
       "logoURI": "https://flowverse-mystery-pass.s3.filebase.com/testnet/squareImage.jpg",
@@ -109,13 +114,14 @@
     },
     {
       "chainId": 545,
-      "address": "0xc7c122b5b811de8e",
+      "address": "0x138ff43a4b9ee2daf9fdc622c8fac1322c8df8fa",
       "contractName": "FlowverseShirt",
       "path": {
         "storage": "/storage/FlowverseShirtCollection",
         "public": "/public/FlowverseShirtCollection"
       },
       "evmAddress": "0x138ff43a4b9ee2daf9fdc622c8fac1322c8df8fa",
+      "flowAddress": "0xc7c122b5b811de8e",
       "name": "Flowverse Shirt",
       "description": "The Flowverse Shirt is the official shirt collection for the Flowverse community. Join a group of die-hard Flow enthusiasts and rep the Flowverse Shirt on the Flow Blockchain",
       "logoURI": "https://flowverse.myfilebase.com/ipfs/QmeFH4AXFLkCzKJ64nRmtRyqxXsVH8N98QDZcUNwJphXBz",
@@ -129,7 +135,7 @@
   ],
   "totalAmount": 6,
   "filterType": "ALL",
-  "timestamp": "2024-09-13T01:12:49.615Z",
+  "timestamp": "2024-10-02T02:10:30.434Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -159,6 +165,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

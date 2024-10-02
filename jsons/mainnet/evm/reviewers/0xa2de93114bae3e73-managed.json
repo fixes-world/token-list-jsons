@@ -5,7 +5,7 @@
   "tokens": [
     {
       "chainId": 747,
-      "address": "0x1654653399040a61",
+      "address": "0x0000000000000000000000010000000000000000",
       "contractName": "FlowToken",
       "path": {
         "vault": "/storage/flowTokenVault",
@@ -13,6 +13,7 @@
         "balance": "/public/flowTokenBalance"
       },
       "evmAddress": "0x0000000000000000000000010000000000000000",
+      "flowAddress": "0x1654653399040a61",
       "symbol": "FLOW",
       "name": "Flow",
       "description": "",
@@ -36,7 +37,7 @@
     },
     {
       "chainId": 747,
-      "address": "0xd6f80565193ad727",
+      "address": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
       "contractName": "stFlowToken",
       "path": {
         "vault": "/storage/stFlowTokenVault",
@@ -44,6 +45,7 @@
         "balance": "/public/stFlowTokenBalance"
       },
       "evmAddress": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
+      "flowAddress": "0xd6f80565193ad727",
       "symbol": "stFLOW",
       "name": "Liquid Staked Flow",
       "description": "",
@@ -64,7 +66,7 @@
     },
     {
       "chainId": 747,
-      "address": "0xf1ab99c82dee3526",
+      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
       "contractName": "USDCFlow",
       "path": {
         "vault": "/storage/usdcFlowVault",
@@ -72,6 +74,7 @@
         "balance": "/public/usdcFlowMetadata"
       },
       "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "flowAddress": "0xf1ab99c82dee3526",
       "symbol": "USDC.e",
       "name": "Bridged USDC",
       "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
@@ -92,7 +95,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x4ea047c3e73ca460",
+      "address": "0xd2bff0d1afc88849c012d08d16906065303977af",
       "contractName": "BallerzFC",
       "path": {
         "vault": "/storage/BallerzFCVault",
@@ -100,6 +103,7 @@
         "balance": "/public/BallerzFCMetadata"
       },
       "evmAddress": "0xd2bff0d1afc88849c012d08d16906065303977af",
+      "flowAddress": "0x4ea047c3e73ca460",
       "symbol": "BFC",
       "name": "Ballerz FC",
       "description": "",
@@ -118,7 +122,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x0f9df91c9121c460",
+      "address": "0x439b028e1de93f41d1aed6b6caf4b5900497105c",
       "contractName": "BloctoToken",
       "path": {
         "vault": "/storage/bloctoTokenVault",
@@ -126,6 +130,7 @@
         "balance": "/public/bloctoTokenBalance"
       },
       "evmAddress": "0x439b028e1de93f41d1aed6b6caf4b5900497105c",
+      "flowAddress": "0x0f9df91c9121c460",
       "symbol": "BLT",
       "name": "Blocto Token",
       "description": "",
@@ -143,7 +148,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x7bf07d719dcb8480",
+      "address": "0x76a56657d20f572872a81b75530c905fd9f845e5",
       "contractName": "brasil",
       "path": {
         "vault": "/storage/brasilVault",
@@ -151,6 +156,7 @@
         "balance": "/public/brasilMetadata"
       },
       "evmAddress": "0x76a56657d20f572872a81b75530c905fd9f845e5",
+      "flowAddress": "0x7bf07d719dcb8480",
       "symbol": "BR",
       "name": "Brasil",
       "description": "",
@@ -169,13 +175,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceAVAX",
       "path": {
         "vault": "/storage/ceAVAXVault",
         "receiver": "/public/ceAVAXReceiver",
         "balance": "/public/ceAVAXBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceAVAX",
       "name": "Avalanche (Celer)",
       "description": "",
@@ -195,13 +201,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceBNB",
       "path": {
         "vault": "/storage/ceBNBVault",
         "receiver": "/public/ceBNBReceiver",
         "balance": "/public/ceBNBBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceBNB",
       "name": "Binance Coin (Celer)",
       "description": "",
@@ -221,13 +227,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceBUSD",
       "path": {
         "vault": "/storage/ceBUSDVault",
         "receiver": "/public/ceBUSDReceiver",
         "balance": "/public/ceBUSDBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceBUSD",
       "name": "Binance USD (Celer)",
       "description": "",
@@ -247,13 +253,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceDAI",
       "path": {
         "vault": "/storage/ceDAIVault",
         "receiver": "/public/ceDAIReceiver",
         "balance": "/public/ceDAIBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceDAI",
       "name": "Dai Stablecoin (Celer)",
       "description": "",
@@ -274,13 +280,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceFTM",
       "path": {
         "vault": "/storage/ceFTMVault",
         "receiver": "/public/ceFTMReceiver",
         "balance": "/public/ceFTMBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceFTM",
       "name": "Fantom (Celer)",
       "description": "",
@@ -299,13 +305,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceMATIC",
       "path": {
         "vault": "/storage/ceMATICVault",
         "receiver": "/public/ceMATICReceiver",
         "balance": "/public/ceMATICBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceMATIC",
       "name": "Matic Token (Celer)",
       "description": "",
@@ -324,13 +330,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceUSDT",
       "path": {
         "vault": "/storage/ceUSDTVault",
         "receiver": "/public/ceUSDTReceiver",
         "balance": "/public/ceUSDTBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceUSDT",
       "name": "Tether USD (Celer)",
       "description": "",
@@ -350,13 +356,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceWBTC",
       "path": {
         "vault": "/storage/ceWBTCVault",
         "receiver": "/public/ceWBTCReceiver",
         "balance": "/public/ceWBTCBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceWBTC",
       "name": "Wrapped BTC (Celer)",
       "description": "",
@@ -376,13 +382,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceWETH",
       "path": {
         "vault": "/storage/ceWETHVault",
         "receiver": "/public/ceWETHReceiver",
         "balance": "/public/ceWETHBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceWETH",
       "name": "Wrapped Ether (Celer)",
       "description": "",
@@ -401,7 +407,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x921ea449dffec68a",
+      "address": "0x6f90cef53868878be7a2edbf41d715de09851b54",
       "contractName": "FlovatarDustToken",
       "path": {
         "vault": "/storage/FlovatarDustTokenVault",
@@ -409,6 +415,7 @@
         "balance": "/public/FlovatarDustTokenBalance"
       },
       "evmAddress": "0x6f90cef53868878be7a2edbf41d715de09851b54",
+      "flowAddress": "0x921ea449dffec68a",
       "symbol": "DUST",
       "name": "Flovatar DUST",
       "description": "",
@@ -426,7 +433,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x3c5959b568896393",
+      "address": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
       "contractName": "FUSD",
       "path": {
         "vault": "/storage/fusdVault",
@@ -434,6 +441,7 @@
         "balance": "/public/fusdBalance"
       },
       "evmAddress": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
+      "flowAddress": "0x3c5959b568896393",
       "symbol": "FUSD",
       "name": "FUSD(Deprecated)",
       "description": "",
@@ -451,7 +459,7 @@
     },
     {
       "chainId": 747,
-      "address": "0xd01e482eb680ec9f",
+      "address": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
       "contractName": "REVV",
       "path": {
         "vault": "/storage/revvVault",
@@ -459,6 +467,7 @@
         "balance": "/public/revvBalance"
       },
       "evmAddress": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
+      "flowAddress": "0xd01e482eb680ec9f",
       "symbol": "REVV",
       "name": "REVV",
       "description": "",
@@ -475,13 +484,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "RLY",
       "path": {
         "vault": "/storage/RLYVault",
         "receiver": "/public/RLYReceiver",
         "balance": "/public/RLYBalance"
       },
+      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "RLY",
       "name": "Rally",
       "description": "",
@@ -500,7 +509,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x53f389d96fb4ce5e",
+      "address": "0xec0f7e75128781c2924ad907a379909ae531d050",
       "contractName": "SloppyStakes",
       "path": {
         "vault": "/storage/SloppyStakesVault",
@@ -508,6 +517,7 @@
         "balance": "/public/SloppyStakesMetadata"
       },
       "evmAddress": "0xec0f7e75128781c2924ad907a379909ae531d050",
+      "flowAddress": "0x53f389d96fb4ce5e",
       "symbol": "LOPPY",
       "name": "Sloppy Stakes",
       "description": "",
@@ -528,7 +538,7 @@
     },
     {
       "chainId": 747,
-      "address": "0x142fa6570b62fd97",
+      "address": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
       "contractName": "StarlyToken",
       "path": {
         "vault": "/storage/starlyTokenVault",
@@ -536,6 +546,7 @@
         "balance": "/public/starlyTokenBalance"
       },
       "evmAddress": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
+      "flowAddress": "0x142fa6570b62fd97",
       "symbol": "STARLY",
       "name": "Starly Token",
       "description": "",
@@ -553,7 +564,7 @@
     },
     {
       "chainId": 747,
-      "address": "0xcfdd90d4a00f7b5b",
+      "address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
       "contractName": "TeleportedTetherToken",
       "path": {
         "vault": "/storage/teleportedTetherTokenVault",
@@ -561,6 +572,7 @@
         "balance": "/public/teleportedTetherTokenBalance"
       },
       "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "flowAddress": "0xcfdd90d4a00f7b5b",
       "symbol": "tUSDT",
       "name": "Teleported Tether Token",
       "description": "",
@@ -579,7 +591,7 @@
     },
     {
       "chainId": 747,
-      "address": "0xf887ece39166906e",
+      "address": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
       "contractName": "VroomToken",
       "path": {
         "vault": "/storage/VroomTokenVault",
@@ -587,6 +599,7 @@
         "balance": "/public/VroomTokenBalance"
       },
       "evmAddress": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
+      "flowAddress": "0xf887ece39166906e",
       "symbol": "VROOM",
       "name": "Vroom",
       "description": "",
@@ -603,13 +616,13 @@
     },
     {
       "chainId": 747,
-      "address": "0x66b60643244a7738",
       "contractName": "TitToken",
       "path": {
         "vault": "/storage/TitTokenVault",
         "receiver": "/public/TitTokenReceiver",
         "balance": "/public/TitTokenBalance"
       },
+      "flowAddress": "0x66b60643244a7738",
       "symbol": "TIT",
       "name": "TIT Token",
       "description": "",
@@ -628,7 +641,7 @@
   ],
   "totalAmount": 24,
   "filterType": "MANAGED",
-  "timestamp": "2024-09-19T15:52:59.074Z",
+  "timestamp": "2024-10-02T02:10:13.638Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -670,6 +683,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }

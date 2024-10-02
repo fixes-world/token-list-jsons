@@ -5,7 +5,7 @@
   "tokens": [
     {
       "chainId": 545,
-      "address": "0x7e60df042a9c0868",
+      "address": "0x0000000000000000000000010000000000000000",
       "contractName": "FlowToken",
       "path": {
         "vault": "/storage/flowTokenVault",
@@ -13,6 +13,7 @@
         "balance": "/public/flowTokenBalance"
       },
       "evmAddress": "0x0000000000000000000000010000000000000000",
+      "flowAddress": "0x7e60df042a9c0868",
       "symbol": "FLOW",
       "name": "Flow",
       "description": "",
@@ -36,7 +37,7 @@
     },
     {
       "chainId": 545,
-      "address": "0xdfc20aee650fcbdf",
+      "address": "0x3c9469d8c179c35c9b908ca46a8670a419628f0a",
       "contractName": "EVMVMBridgedToken_3c9469d8c179c35c9b908ca46a8670a419628f0a",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_3c9469d8c179c35c9b908ca46a8670a419628f0aVault",
@@ -44,6 +45,7 @@
         "balance": "/public/EVMVMBridgedToken_3c9469d8c179c35c9b908ca46a8670a419628f0aVault"
       },
       "evmAddress": "0x3c9469d8c179c35c9b908ca46a8670a419628f0a",
+      "flowAddress": "0xdfc20aee650fcbdf",
       "symbol": "USDC",
       "name": "USDC",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 3c9469d8c179c35c9b908ca46a8670a419628f0a",
@@ -57,7 +59,7 @@
     },
     {
       "chainId": 545,
-      "address": "0xdfc20aee650fcbdf",
+      "address": "0x5b67057fa946a4a664546e3df9d2d1b1ab222f36",
       "contractName": "EVMVMBridgedToken_5b67057fa946a4a664546e3df9d2d1b1ab222f36",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_5b67057fa946a4a664546e3df9d2d1b1ab222f36Vault",
@@ -65,6 +67,7 @@
         "balance": "/public/EVMVMBridgedToken_5b67057fa946a4a664546e3df9d2d1b1ab222f36Vault"
       },
       "evmAddress": "0x5b67057fa946a4a664546e3df9d2d1b1ab222f36",
+      "flowAddress": "0xdfc20aee650fcbdf",
       "symbol": "USDT",
       "name": "USDT",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 5b67057fa946a4a664546e3df9d2d1b1ab222f36",
@@ -77,7 +80,7 @@
     },
     {
       "chainId": 545,
-      "address": "0x0b3677727d6e6240",
+      "address": "0x6ef85d7fe35bc78e10d9b0e9eddc1728b7309cb5",
       "contractName": "FixesFungibleToken",
       "path": {
         "vault": "/storage/FixsStandardFT_0x0b3677727d6e6240TBH_Vault",
@@ -85,6 +88,7 @@
         "balance": "/public/FixsStandardFT_0x0b3677727d6e6240TBH_Balance"
       },
       "evmAddress": "0x6ef85d7fe35bc78e10d9b0e9eddc1728b7309cb5",
+      "flowAddress": "0x0b3677727d6e6240",
       "symbol": "TBH",
       "name": "Bohao Token",
       "description": "No description",
@@ -97,7 +101,7 @@
     },
     {
       "chainId": 545,
-      "address": "0xdf150e8513135e4f",
+      "address": "0x8a4ab4d698466da964f51d0b2bb2868f08f595ce",
       "contractName": "FixesFungibleToken",
       "path": {
         "vault": "/storage/FixsStandardFT_0xdf150e8513135e4fTBHD_Vault",
@@ -105,6 +109,7 @@
         "balance": "/public/FixsStandardFT_0xdf150e8513135e4fTBHD_Balance"
       },
       "evmAddress": "0x8a4ab4d698466da964f51d0b2bb2868f08f595ce",
+      "flowAddress": "0xdf150e8513135e4f",
       "symbol": "TBHD",
       "name": "Bohao D",
       "description": "No description",
@@ -117,7 +122,7 @@
     },
     {
       "chainId": 545,
-      "address": "0x625f49193dcdccfc",
+      "address": "0x75c76ed2b25560ab04fda05a255c5fcc8937dd56",
       "contractName": "FixesFungibleToken",
       "path": {
         "vault": "/storage/FixsStandardFT_0x625f49193dcdccfcTBH_Vault",
@@ -125,6 +130,7 @@
         "balance": "/public/FixsStandardFT_0x625f49193dcdccfcTBH_Balance"
       },
       "evmAddress": "0x75c76ed2b25560ab04fda05a255c5fcc8937dd56",
+      "flowAddress": "0x625f49193dcdccfc",
       "symbol": "TBH",
       "name": "Bohao Token",
       "description": "Hello World",
@@ -140,7 +146,7 @@
     },
     {
       "chainId": 545,
-      "address": "0xe8485c7c2a6e7984",
+      "address": "0x6db6751d287a3a0dacec6be6da3e3cfba1f52c5f",
       "contractName": "FixesFungibleToken",
       "path": {
         "vault": "/storage/FixsStandardFT_0xe8485c7c2a6e7984TBHCB_Vault",
@@ -148,6 +154,7 @@
         "balance": "/public/FixsStandardFT_0xe8485c7c2a6e7984TBHCB_Balance"
       },
       "evmAddress": "0x6db6751d287a3a0dacec6be6da3e3cfba1f52c5f",
+      "flowAddress": "0xe8485c7c2a6e7984",
       "symbol": "TBHCB",
       "name": "Bohao Token CB",
       "description": "No description",
@@ -161,7 +168,7 @@
   ],
   "totalAmount": 7,
   "filterType": "FEATURED",
-  "timestamp": "2024-09-14T01:11:29.717Z",
+  "timestamp": "2024-10-02T02:10:23.752Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -203,6 +210,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

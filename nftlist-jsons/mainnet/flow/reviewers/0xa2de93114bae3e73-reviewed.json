@@ -12,6 +12,7 @@
         "public": "/public/AllDayNFTCollection"
       },
       "evmAddress": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0",
+      "flowAddress": "0xe4cf4bdc1751c65d",
       "name": "NFL All Day",
       "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
       "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
@@ -36,6 +37,7 @@
         "public": "/public/MomentCollection"
       },
       "evmAddress": "0x50ab3a827ad268e9d5a24d340108fad5c25dad5f",
+      "flowAddress": "0x0b2a3299cc857e29",
       "name": "NBA-Top-Shot",
       "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
       "logoURI": "https://nbatopshot.com/static/favicon/favicon.svg",
@@ -53,7 +55,7 @@
   ],
   "totalAmount": 2,
   "filterType": "REVIEWED",
-  "timestamp": "2024-09-21T01:12:35.350Z",
+  "timestamp": "2024-10-02T02:10:27.928Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -83,6 +85,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }

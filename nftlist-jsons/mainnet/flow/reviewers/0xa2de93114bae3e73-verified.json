@@ -12,6 +12,7 @@
         "public": "/public/AllDayNFTCollection"
       },
       "evmAddress": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0",
+      "flowAddress": "0xe4cf4bdc1751c65d",
       "name": "NFL All Day",
       "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
       "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
@@ -30,7 +31,7 @@
   ],
   "totalAmount": 1,
   "filterType": "VERIFIED",
-  "timestamp": "2024-09-12T16:16:10.905Z",
+  "timestamp": "2024-10-02T02:10:28.410Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -60,6 +61,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

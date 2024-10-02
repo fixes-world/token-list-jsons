@@ -13,6 +13,7 @@
         "balance": "/public/flowTokenBalance"
       },
       "evmAddress": "0x0000000000000000000000010000000000000000",
+      "flowAddress": "0x7e60df042a9c0868",
       "symbol": "FLOW",
       "name": "Flow",
       "description": "",
@@ -43,6 +44,7 @@
         "receiver": "/public/usdcFlowReceiver",
         "balance": "/public/usdcFlowMetadata"
       },
+      "flowAddress": "0x64adf39cbc354fcb",
       "symbol": "USDCf",
       "name": "USDC (Flow)",
       "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
@@ -67,6 +69,7 @@
         "receiver": "/public/FixsStandardFT_0xaa201615c0ecb331TBHB_Receiver",
         "balance": "/public/FixsStandardFT_0xaa201615c0ecb331TBHB_Balance"
       },
+      "flowAddress": "0xaa201615c0ecb331",
       "symbol": "TBHB",
       "name": "Bohao B",
       "description": "No description",
@@ -82,7 +85,7 @@
   ],
   "totalAmount": 3,
   "filterType": "REVIEWED",
-  "timestamp": "2024-09-12T16:16:01.393Z",
+  "timestamp": "2024-10-02T02:10:18.686Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -123,7 +126,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

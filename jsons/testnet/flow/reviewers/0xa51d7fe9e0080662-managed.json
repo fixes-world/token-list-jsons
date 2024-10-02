@@ -13,6 +13,7 @@
         "balance": "/public/flowTokenBalance"
       },
       "evmAddress": "0x0000000000000000000000010000000000000000",
+      "flowAddress": "0x7e60df042a9c0868",
       "symbol": "FLOW",
       "name": "Flow",
       "description": "",
@@ -37,7 +38,7 @@
   ],
   "totalAmount": 1,
   "filterType": "MANAGED",
-  "timestamp": "2024-09-12T16:16:01.706Z",
+  "timestamp": "2024-10-02T02:10:19.030Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -79,6 +80,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
