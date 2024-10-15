@@ -21,8 +21,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "alldayunlimited",
         "twitter": "",
+        "discord": "alldayunlimited",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -45,8 +45,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidrywo4xhmfqtzjbqxplwjfwhuvifsfquc7q7zoysg6bdrxjbxa5e",
       "tags": [],
       "extensions": {
-        "discord": "VKvUxMwu5r",
         "twitter": "aisportspro",
+        "discord": "VKvUxMwu5r",
         "website": "www.aisportspro.com"
       }
     },
@@ -68,8 +68,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Ballerz__FC",
         "discord": "https://discord.com/invite/sDBp8YdH",
+        "twitter": "https://twitter.com/Ballerz__FC",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -93,8 +93,8 @@
       "logoURI": "https://i.imgur.com/pIwQW2b.png",
       "tags": [],
       "extensions": {
-        "twitter": "beavercoinflow",
         "discord": "",
+        "twitter": "beavercoinflow",
         "website": "beavercoin.io"
       }
     },
@@ -165,8 +165,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "coingeckoId": "avalanche-2",
+        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -190,8 +190,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binancecoin",
         "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "coingeckoId": "binancecoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -215,8 +215,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "coingeckoId": "binance-usd",
+        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -241,8 +241,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "dai",
         "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
+        "coingeckoId": "dai",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -412,6 +412,25 @@
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com"
+      }
+    },
+    {
+      "chainId": 747,
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xf5e1e769f8cc612aROGER_Vault",
+        "receiver": "/public/FixsStandardFT_0xf5e1e769f8cc612aROGER_Receiver",
+        "balance": "/public/FixsStandardFT_0xf5e1e769f8cc612aROGER_Balance"
+      },
+      "flowAddress": "0xf5e1e769f8cc612a",
+      "symbol": "ROGER",
+      "name": "Roger9527",
+      "description": "Roger9527 is indeed the real name of the Taiwanese streamer known as \"2486.\" He is widely recognized by this alias and is known for streaming games, especially *Hearthstone* and other genres. His humorous and engaging style, along with his interactive approach to audience communication, has earned him significant popularity in the streaming community.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16ZTc1ODA0OD1728937882964",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.twitch.tv/roger9527"
       }
     },
     {
@@ -770,11 +789,11 @@
         "utility-token"
       ],
       "extensions": {
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "coingeckoId": "flow",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -823,8 +842,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -847,8 +866,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "twitter": "petjokicshorses",
+        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "website": ""
       }
     },
@@ -963,9 +982,9 @@
         "memecoin"
       ],
       "extensions": {
-        "telegram": "https://t.co/E8FzKLuMnH",
-        "discord": "https://discord.com/invite/GYV8JRR",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "discord": "https://discord.com/invite/GYV8JRR",
+        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1066,8 +1085,8 @@
       "logoURI": "https://i.imgur.com/Vq4POe3.png",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "WolfofFlow",
+        "discord": "",
         "website": "x.com/WolfofFlow"
       }
     },
@@ -1161,8 +1180,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1185,8 +1204,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1229,15 +1248,15 @@
       "logoURI": "https://ipfs.io/ipfs/QmSkMKUyMfBj8gpMFyRPNPMWXbviiw3Z4Z95yBA5ka72cf",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "Liga_TopShot",
+        "discord": "",
         "website": ""
       }
     }
   ],
-  "totalAmount": 53,
+  "totalAmount": 54,
   "filterType": "ALL",
-  "timestamp": "2024-10-03T01:15:55.251Z",
+  "timestamp": "2024-10-15T01:16:41.487Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1278,7 +1297,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
