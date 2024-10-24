@@ -140,8 +140,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/flowbrasilchain",
         "discord": "https://discord.gg/hT8EpC5mUN",
+        "twitter": "https://twitter.com/flowbrasilchain",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -192,8 +192,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binancecoin",
         "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "coingeckoId": "binancecoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -397,8 +397,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "twitter": "_damo420",
         "discord": "h6xXUCDqth",
+        "twitter": "_damo420",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -654,9 +654,9 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
-        "telegram": "https://t.me/fixes_world",
         "twitter": "https://x.com/fixesWorld",
         "github": "https://github.com/fixes-world",
+        "telegram": "https://t.me/fixes_world",
         "website": "https://linktr.ee/fixes.world"
       }
     },
@@ -784,8 +784,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "https://twitter.com/HITonflow",
+        "discord": "",
         "website": ""
       }
     },
@@ -809,11 +809,11 @@
         "utility-token"
       ],
       "extensions": {
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "coingeckoId": "flow",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -886,8 +886,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "twitter": "petjokicshorses",
+        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "website": ""
       }
     },
@@ -1005,8 +1005,8 @@
       ],
       "extensions": {
         "discord": "https://discord.com/invite/GYV8JRR",
-        "telegram": "https://t.co/E8FzKLuMnH",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1153,9 +1153,32 @@
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "NkGrRaaUCv",
+        "twitter": "TopShotBETA",
         "website": "topshotbeta.com"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xbb39f0dae1547256",
+      "contractName": "TopShotRewardsCommunity",
+      "path": {
+        "vault": "/storage/TopShotRewardsCommunityVault",
+        "receiver": "/public/TopShotRewardsCommunityReceiver",
+        "balance": "/public/TopShotRewardsCommunityMetadata"
+      },
+      "evmAddress": "0xa9c06c7309f0a47421af83a375aabd75e29cce6a",
+      "flowAddress": "0xbb39f0dae1547256",
+      "symbol": "TSR",
+      "name": "Top Shot Rewards Community",
+      "description": "A DAO for all the collectors of NBA Top Shot and beyond. We Rise together.",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreid5sova5e3aaratgc2lotv266thsf3xo5cssfj2npknq7wqdm77wq",
+      "tags": [],
+      "extensions": {
+        "twitter": "TopShotRewards",
+        "discord": "Eh5c8k2gUu",
+        "website": ""
       }
     },
     {
@@ -1203,8 +1226,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1227,8 +1250,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -1278,9 +1301,9 @@
       }
     }
   ],
-  "totalAmount": 54,
+  "totalAmount": 55,
   "filterType": "ALL",
-  "timestamp": "2024-10-16T01:16:39.012Z",
+  "timestamp": "2024-10-24T03:03:13.665Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1321,7 +1344,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
