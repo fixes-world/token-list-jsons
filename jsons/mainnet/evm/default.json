@@ -140,8 +140,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -669,12 +669,14 @@
     },
     {
       "chainId": 747,
+      "address": "0xceebf7d8601cde531c8062f2cac8ec0756448e3f",
       "contractName": "FixesFungibleToken",
       "path": {
         "vault": "/storage/FixsStandardFT_0x0169af3078d4efffRND_Vault",
         "receiver": "/public/FixsStandardFT_0x0169af3078d4efffRND_Receiver",
         "balance": "/public/FixsStandardFT_0x0169af3078d4efffRND_Balance"
       },
+      "evmAddress": "0xceebf7d8601cde531c8062f2cac8ec0756448e3f",
       "flowAddress": "0x0169af3078d4efff",
       "symbol": "RND",
       "name": "Random Coin",
@@ -791,11 +793,11 @@
         "utility-token"
       ],
       "extensions": {
+        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "twitter": "https://twitter.com/flow_blockchain",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -868,8 +870,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "tags": [],
       "extensions": {
-        "twitter": "petjokicshorses",
         "discord": "https://discord.com/invite/3p3ff9PHqW",
+        "twitter": "petjokicshorses",
         "website": ""
       }
     },
@@ -984,8 +986,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/GYV8JRR",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "discord": "https://discord.com/invite/GYV8JRR",
         "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -1281,7 +1283,7 @@
   ],
   "totalAmount": 55,
   "filterType": "ALL",
-  "timestamp": "2024-10-24T03:03:17.567Z",
+  "timestamp": "2024-10-29T01:17:46.036Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1322,7 +1324,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
