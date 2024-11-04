@@ -1447,8 +1447,8 @@
     }
   ],
   "totalAmount": 67,
-  "filterType": "REVIEWED",
-  "timestamp": "2024-11-04T01:20:32.466Z",
+  "filterType": "MANAGED",
+  "timestamp": "2024-11-04T01:20:33.356Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
