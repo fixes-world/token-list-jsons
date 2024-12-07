@@ -33,7 +33,9 @@
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
-      }
+      },
+      "flowIdentifier": "A.7e60df042a9c0868.FlowToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x0000000000000000000000010000000000000000"
     },
     {
       "chainId": 545,
@@ -55,7 +57,9 @@
       "extensions": {
         "website": "https://port.flow.com",
         "displaySource": "0xa51d7fe9e0080662"
-      }
+      },
+      "flowIdentifier": "A.dfc20aee650fcbdf.EVMVMBridgedToken_3c9469d8c179c35c9b908ca46a8670a419628f0a.Vault",
+      "website": "https://evm.flowscan.io/token/0x3c9469d8c179c35c9b908ca46a8670a419628f0a"
     },
     {
       "chainId": 545,
@@ -76,7 +80,9 @@
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com"
-      }
+      },
+      "flowIdentifier": "A.dfc20aee650fcbdf.EVMVMBridgedToken_5b67057fa946a4a664546e3df9d2d1b1ab222f36.Vault",
+      "website": "https://evm.flowscan.io/token/0x5b67057fa946a4a664546e3df9d2d1b1ab222f36"
     },
     {
       "chainId": 545,
@@ -97,7 +103,9 @@
       "tags": [],
       "extensions": {
         "website": "https://linktr.ee/fixes.world/"
-      }
+      },
+      "flowIdentifier": "A.0b3677727d6e6240.FixesFungibleToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x6ef85d7fe35bc78e10d9b0e9eddc1728b7309cb5"
     },
     {
       "chainId": 545,
@@ -118,7 +126,9 @@
       "tags": [],
       "extensions": {
         "website": "https://linktr.ee/fixes.world/"
-      }
+      },
+      "flowIdentifier": "A.df150e8513135e4f.FixesFungibleToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x8a4ab4d698466da964f51d0b2bb2868f08f595ce"
     },
     {
       "chainId": 545,
@@ -142,7 +152,9 @@
         "telegram": "https://t.me/bt_wood",
         "github": "https://github.com/btspoony",
         "website": "https://btang.cn/"
-      }
+      },
+      "flowIdentifier": "A.625f49193dcdccfc.FixesFungibleToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x75c76ed2b25560ab04fda05a255c5fcc8937dd56"
     },
     {
       "chainId": 545,
@@ -163,12 +175,14 @@
       "tags": [],
       "extensions": {
         "website": "https://linktr.ee/fixes.world/"
-      }
+      },
+      "flowIdentifier": "A.e8485c7c2a6e7984.FixesFungibleToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x6db6751d287a3a0dacec6be6da3e3cfba1f52c5f"
     }
   ],
   "totalAmount": 7,
   "filterType": "ALL",
-  "timestamp": "2024-10-02T02:10:21.211Z",
+  "timestamp": "2024-12-07T18:06:45.012Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -210,6 +224,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
