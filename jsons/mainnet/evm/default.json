@@ -379,8 +379,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "h6xXUCDqth",
         "twitter": "_damo420",
+        "discord": "h6xXUCDqth",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -447,6 +447,27 @@
       "extensions": {
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xcb70ede31a0a1dee926464c0e51265fe3ca7ed52",
+      "contractName": "EVMVMBridgedToken_cb70ede31a0a1dee926464c0e51265fe3ca7ed52",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_cb70ede31a0a1dee926464c0e51265fe3ca7ed52Vault",
+        "receiver": "/public/EVMVMBridgedToken_cb70ede31a0a1dee926464c0e51265fe3ca7ed52Receiver",
+        "balance": "/public/EVMVMBridgedToken_cb70ede31a0a1dee926464c0e51265fe3ca7ed52Vault"
+      },
+      "evmAddress": "0xcb70ede31a0a1dee926464c0e51265fe3ca7ed52",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "CTK",
+      "name": "ClickToken",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of cb70ede31a0a1dee926464c0e51265fe3ca7ed52",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
       }
     },
     {
@@ -697,9 +718,9 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/fixesWorld",
-        "github": "https://github.com/fixes-world",
         "telegram": "https://t.me/fixes_world",
+        "github": "https://github.com/fixes-world",
+        "twitter": "https://x.com/fixesWorld",
         "website": "https://linktr.ee/fixes.world"
       }
     },
@@ -850,8 +871,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "coingeckoId": "flow",
@@ -1190,8 +1211,8 @@
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "NkGrRaaUCv",
+        "twitter": "TopShotBETA",
         "website": "topshotbeta.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1264,8 +1285,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1288,8 +1309,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1338,9 +1359,9 @@
       }
     }
   ],
-  "totalAmount": 58,
+  "totalAmount": 59,
   "filterType": "ALL",
-  "timestamp": "2024-12-06T09:49:14.377Z",
+  "timestamp": "2024-12-07T01:21:40.776Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1381,7 +1402,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
