@@ -5,19 +5,19 @@
   "tokens": [
     {
       "chainId": 545,
-      "address": "0x0000000000000000000000010000000000000000",
+      "address": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
       "contractName": "FlowToken",
       "path": {
         "vault": "/storage/flowTokenVault",
         "receiver": "/public/flowTokenReceiver",
         "balance": "/public/flowTokenBalance"
       },
-      "evmAddress": "0x0000000000000000000000010000000000000000",
+      "evmAddress": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
       "flowAddress": "0x7e60df042a9c0868",
       "symbol": "FLOW",
       "name": "Flow",
       "description": "",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
       "tags": [
         "Verified",
@@ -25,17 +25,17 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
       },
       "flowIdentifier": "A.7e60df042a9c0868.FlowToken.Vault",
-      "website": "https://evm.flowscan.io/token/0x0000000000000000000000010000000000000000"
+      "website": "https://evm.flowscan.io/token/0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e"
     },
     {
       "chainId": 545,
@@ -182,7 +182,7 @@
   ],
   "totalAmount": 7,
   "filterType": "MANAGED",
-  "timestamp": "2024-12-07T18:06:46.572Z",
+  "timestamp": "2024-12-22T01:22:28.426Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -224,6 +224,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
