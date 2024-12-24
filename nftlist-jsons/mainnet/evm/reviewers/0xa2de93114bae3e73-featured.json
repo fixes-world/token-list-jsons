@@ -1358,6 +1358,26 @@
     },
     {
       "chainId": 747,
+      "address": "0xd112634f06902a977db1d596c77715d72f8da8a9",
+      "contractName": "EVMVMBridgedNFT_d112634f06902a977db1d596c77715d72f8da8a9",
+      "path": {
+        "storage": "/storage/EVMVMBridgedNFT_d112634f06902a977db1d596c77715d72f8da8a9Collection",
+        "public": "/public/EVMVMBridgedNFT_d112634f06902a977db1d596c77715d72f8da8a9Collection"
+      },
+      "evmAddress": "0xd112634f06902a977db1d596c77715d72f8da8a9",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "name": "Beezie Collectibles",
+      "description": "This NFT Collection was bridged from EVM on Flow with the ERC721 contract address of d112634f06902a977db1d596c77715d72f8da8a9",
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "bannerURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedNFT_d112634f06902a977db1d596c77715d72f8da8a9.NFT"
+    },
+    {
+      "chainId": 747,
       "address": "0x2c2e2ef011a8ad5a89f1a2d59358c455e3336250",
       "contractName": "FlowtyWrapped",
       "path": {
@@ -1437,10 +1457,10 @@
       "bannerURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Horizontal_B.png",
       "tags": [],
       "extensions": {
-        "instagram": " https://instagram.com/laligaonflow",
-        "discord": "https://discord.gg/LaLigaGolazos",
         "facebook": "https://www.facebook.com/LaLigaGolazos/",
+        "discord": "https://discord.gg/LaLigaGolazos",
         "twitter": "https://twitter.com/LaLigaGolazos",
+        "instagram": " https://instagram.com/laligaonflow",
         "website": "https://laligagolazos.com/"
       },
       "flowIdentifier": "A.87ca73a41bb50ad5.Golazos.NFT"
@@ -1461,9 +1481,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/driverz",
-        "twitter": "https://twitter.com/DriverzWorld",
         "instagram": "https://www.instagram.com/driverzworld",
+        "twitter": "https://twitter.com/DriverzWorld",
+        "discord": "https://discord.gg/driverz",
         "website": "https://driverz.world/"
       },
       "flowIdentifier": "A.f887ece39166906e.Helmet.NFT"
@@ -1505,17 +1525,17 @@
       "bannerURI": "https://flowverse.myfilebase.com/ipfs/QmaTj276rAUFoFiik84xCx1PYZnqZHcGp78vG6xqHLfoXo",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/flowverseofficial",
         "discord": "https://discord.gg/flowverse",
+        "instagram": "https://www.instagram.com/flowverseofficial",
         "twitter": "https://twitter.com/flowverse_",
         "website": "https://twitter.com/flowverse_"
       },
       "flowIdentifier": "A.9212a87501a8a6a2.Ordinal.NFT"
     }
   ],
-  "totalAmount": 67,
+  "totalAmount": 68,
   "filterType": "FEATURED",
-  "timestamp": "2024-12-07T18:07:00.745Z",
+  "timestamp": "2024-12-24T01:17:00.577Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1544,7 +1564,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
