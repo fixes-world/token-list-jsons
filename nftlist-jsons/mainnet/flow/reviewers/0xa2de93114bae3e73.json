@@ -19,8 +19,8 @@
       "bannerURI": "https://bafybeiaaf7bfbppep5ahb2m75xlmxyj76hxo3oh5dcl4prxeskruwpe6c4.ipfs.nftstorage.link/",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/aera",
         "instagram": "https://www.instagram.com/aera_football/",
+        "discord": "https://discord.gg/aera",
         "twitter": "https://twitter.com/aera_football",
         "website": "http://aera.onefootbal.com"
       }
@@ -82,9 +82,9 @@
       "bannerURI": "https://media-local.gigantik.io/bobblz/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/gigantik_",
         "instagram": "",
         "discord": "https://discord.gg/giglabs",
+        "twitter": "https://x.com/gigantik_",
         "website": "https://Bobblz.shops.gigantik.io/"
       }
     },
@@ -169,8 +169,8 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
         "twitter": "https://twitter.com/DriverzWorld",
         "website": "https://driverz.world/"
       }
@@ -213,8 +213,8 @@
       "bannerURI": "https://pbs.twimg.com/profile_banners/1448245049666510848/1652452073/1500x500",
       "tags": [],
       "extensions": {
-        "Twitter": "https://twitter.com/findonflow",
         "Discord": "https://discord.gg/95P274mayM",
+        "Twitter": "https://twitter.com/findonflow",
         "website": "http://find.xyz/neoCharity"
       }
     },
@@ -253,8 +253,8 @@
       "tags": [],
       "extensions": {
         "discord": "https://discord.gg/giglabs",
-        "twitter": "https://x.com/gigantik_",
         "instagram": "",
+        "twitter": "https://x.com/gigantik_",
         "website": "https://DGD.shops.gigantik.io/"
       }
     },
@@ -295,9 +295,9 @@
       "bannerURI": "https://ipfs.io/ipfs/QmYn6vg1pCuKb6jWT3SDHuyX4NDyJB4wvcYarmsyppoGDS",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DriverzWorld/",
-        "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
+        "twitter": "https://twitter.com/DriverzWorld/",
         "website": "https://driverz.world"
       }
     },
@@ -313,11 +313,12 @@
       "flowAddress": "0x1e4aa0b87d10b141",
       "name": "Beezie Collectibles",
       "description": "This NFT Collection was bridged from EVM on Flow with the ERC721 contract address of d112634f06902a977db1d596c77715d72f8da8a9",
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
-      "bannerURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://crimson-calm-beetle-499.mypinata.cloud/ipfs/bafybeig5h2w74qmvkzffmuqnqh7d3itx5sgc3k6rvbrecaz4urif75gxmq/Beezie%20x%20Logo.png",
+      "bannerURI": "https://crimson-calm-beetle-499.mypinata.cloud/ipfs/bafybeig5h2w74qmvkzffmuqnqh7d3itx5sgc3k6rvbrecaz4urif75gxmq/b2%20%281%29.jpg",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -336,8 +337,8 @@
       "bannerURI": "https://i.imgur.com/ETeVZZU.jpg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/emeraldcity",
         "twitter": "https://twitter.com/emerald_dao",
+        "discord": "https://discord.gg/emeraldcity",
         "website": "https://floats.city"
       }
     },
@@ -357,10 +358,10 @@
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flovatar",
-        "twitter": "https://x.com/flovatar",
         "tiktok": "https://www.tiktok.com/@flovatar",
         "instagram": "https://instagram.com/flovatar_nft",
+        "discord": "https://discord.gg/flovatar",
+        "twitter": "https://x.com/flovatar",
         "website": "https://flovatar.com"
       }
     },
@@ -380,9 +381,9 @@
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "tiktok": "https://www.tiktok.com/@flovatar",
         "discord": "https://discord.gg/flovatar",
         "twitter": "https://x.com/flovatar",
+        "tiktok": "https://www.tiktok.com/@flovatar",
         "instagram": "https://instagram.com/flovatar_nft",
         "website": "https://flovatar.com"
       }
@@ -426,10 +427,10 @@
       "bannerURI": "https://ipfs.io/ipfs/QmTBnCqNwgE8AiHPs9YxuVb8HSKWA2RvY5Q4NYm1tvW6wq",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/onflow/crescendo-rewards-sc",
-        "instagram": "https://www.instagram.com/flowblockchain",
-        "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/flowblockchain",
+        "github": "https://github.com/onflow/crescendo-rewards-sc",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "instagram": "https://www.instagram.com/flowblockchain",
         "website": "https://rewards.flow.com"
       }
     },
@@ -448,9 +449,9 @@
       "bannerURI": "https://flowverse-mystery-pass.s3.filebase.com/mainnet/bannerImage.jpg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/flowverse_",
         "discord": "https://discord.gg/flowverse",
         "instagram": "https://www.instagram.com/flowverseofficial",
+        "twitter": "https://twitter.com/flowverse_",
         "website": "https://nft.flowverse.co/flowverse-mystery-pass"
       }
     },
@@ -489,9 +490,9 @@
       "bannerURI": "https://flowverse-treasures.s3.filebase.com/mainnet/collectionBannerImage.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/flowverse_",
         "instagram": "https://www.instagram.com/flowverseofficial",
         "discord": "https://discord.gg/flowverse",
+        "twitter": "https://twitter.com/flowverse_",
         "website": "https://nft.flowverse.co/treasures"
       }
     },
@@ -511,10 +512,10 @@
       "bannerURI": "https://i.imgur.com/4DOuqFf.jpeg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/fixesWorld",
-        "github": "https://github.com/fixes-world",
-        "x": "https://twitter.com/fixesWorld",
         "linktree": "https://linktr.ee/fixes.world",
+        "github": "https://github.com/fixes-world",
+        "twitter": "https://twitter.com/fixesWorld",
+        "x": "https://twitter.com/fixesWorld",
         "website": "https://fixes.world/"
       }
     },
@@ -534,8 +535,8 @@
       "bannerURI": "https://media-local.gigantik.io/fuchibola/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/gigantik_",
         "discord": "https://discord.gg/giglabs",
+        "twitter": "https://x.com/gigantik_",
         "instagram": "",
         "website": "https://Fuchibola.shops.gigantik.io/"
       }
@@ -556,8 +557,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmdU1j5nqeQBmVWZZDhz23z6mMPwMp5i2Ka2sBpMhYggPT",
       "tags": [],
       "extensions": {
-        "discord": "http://discord.gg/zJRNqKuDQH",
         "twitter": "https://mobile.twitter.com/the_goobz_nft",
+        "discord": "http://discord.gg/zJRNqKuDQH",
         "website": "https://partymansion.io/"
       }
     },
@@ -577,9 +578,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/driverz",
-        "twitter": "https://twitter.com/DriverzWorld",
         "instagram": "https://www.instagram.com/driverzworld",
+        "twitter": "https://twitter.com/DriverzWorld",
+        "discord": "https://discord.gg/driverz",
         "website": "https://driverz.world/"
       }
     },
@@ -660,8 +661,8 @@
       "bannerURI": "https://d19wottuqbmkwr.cloudfront.net/nft/banners2.jpg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/ozonemetaverse",
         "twitter": "https://twitter.com/ozonemetaverse",
+        "discord": "https://discord.gg/ozonemetaverse",
         "website": "https://ozonemetaverse.io"
       }
     },
@@ -682,9 +683,9 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/playMFL",
-        "discord": "https://discord.gg/pEDTR4wSPr",
         "medium": "https://medium.com/playmfl",
         "linkedin": "https://www.linkedin.com/company/playmfl",
+        "discord": "https://discord.gg/pEDTR4wSPr",
         "website": "https://playmfl.com"
       }
     },
@@ -704,10 +705,10 @@
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/playMFL",
         "linkedin": "https://www.linkedin.com/company/playmfl",
-        "medium": "https://medium.com/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "medium": "https://medium.com/playmfl",
+        "twitter": "https://twitter.com/playMFL",
         "website": "https://playmfl.com"
       }
     },
@@ -787,9 +788,9 @@
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/nflallday/",
-        "twitter": "https://twitter.com/NFLAllDay",
         "discord": "https://discord.com/invite/5K6qyTzj2k",
+        "twitter": "https://twitter.com/NFLAllDay",
+        "instagram": "https://www.instagram.com/nflallday/",
         "website": "https://nflallday.com/"
       }
     },
@@ -809,8 +810,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmVyXgw67QVAU98765yfQAB1meZhnSnYVoL6mz6UpzSw7W",
       "tags": [],
       "extensions": {
-        "discord": "http://discord.gg/zJRNqKuDQH",
         "twitter": "https://mobile.twitter.com/the_goobz_nft",
+        "discord": "http://discord.gg/zJRNqKuDQH",
         "website": "https://partymansion.io/"
       }
     },
@@ -851,8 +852,8 @@
       "bannerURI": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/PuffPalz",
         "discord": "https://discord.gg/nDxrtnxN",
+        "twitter": "https://x.com/PuffPalz",
         "website": "https://puffpalz.io"
       }
     },
@@ -872,9 +873,9 @@
       "bannerURI": "https://media-local.gigantik.io/raceday/banner.png",
       "tags": [],
       "extensions": {
+        "instagram": "https://instagram.com/racedaynft/",
         "twitter": "https://x.com/RaceDayNFT",
         "discord": "https://discord.gg/jkmrMY5TGB",
-        "instagram": "https://instagram.com/racedaynft/",
         "website": "https://racedaynft.com/"
       }
     },
@@ -894,9 +895,9 @@
       "bannerURI": "https://ipfs.io/ipfs/QmVoTikzygffMaPcacyTjF8mQ71Eg3zsMF4p4fbsAtGQmQ",
       "tags": [],
       "extensions": {
+        "twitter": "https://twitter.com/doodles",
         "instagram": "https://www.instagram.com/thedoodles",
         "discord": "https://discord.gg/doodles",
-        "twitter": "https://twitter.com/doodles",
         "website": "https://doodles.app"
       }
     },
@@ -938,9 +939,9 @@
       "bannerURI": "https://images.sportvatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/sportvatar",
-        "discord": "https://discord.gg/sportvatar",
         "instagram": "https://instagram.com/sportvatar",
+        "discord": "https://discord.gg/sportvatar",
+        "twitter": "https://x.com/sportvatar",
         "tiktok": "https://www.tiktok.com/@sportvatar",
         "website": "https://sportvatar.com"
       }
@@ -961,10 +962,10 @@
       "bannerURI": "https://images.sportvatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/sportvatar",
-        "instagram": "https://instagram.com/sportvatar",
         "tiktok": "https://www.tiktok.com/@sportvatar",
         "twitter": "https://x.com/sportvatar",
+        "instagram": "https://instagram.com/sportvatar",
+        "discord": "https://discord.gg/sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -1050,9 +1051,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
+        "discord": "https://discord.gg/driverz",
         "instagram": "https://www.instagram.com/driverzworld",
         "twitter": "https://twitter.com/DriverzWorld",
-        "discord": "https://discord.gg/driverz",
         "website": "https://driverz.world/"
       }
     },
@@ -1072,12 +1073,12 @@
       "bannerURI": "https://play.zeedz.io/background-zeedz.jpg",
       "tags": [],
       "extensions": {
+        "instagram": "https://www.instagram.com/zeedz_official/",
         "youtube": "https://www.youtube.com/c/zeedz_official",
         "twitter": "https://twitter.com/zeedz_official",
-        "medium": "https://blog.zeedz.io/",
-        "instagram": "https://www.instagram.com/zeedz_official/",
         "discord": "http://discord.com/invite/zeedz",
         "linkedin": "https://www.linkedin.com/company/zeedz",
+        "medium": "https://blog.zeedz.io/",
         "website": "https://play.zeedz.io"
       }
     },
@@ -1653,7 +1654,7 @@
   ],
   "totalAmount": 77,
   "filterType": "ALL",
-  "timestamp": "2024-12-24T01:16:50.934Z",
+  "timestamp": "2024-12-25T01:15:41.461Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1682,7 +1683,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

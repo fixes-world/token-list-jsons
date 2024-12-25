@@ -1368,11 +1368,12 @@
       "flowAddress": "0x1e4aa0b87d10b141",
       "name": "Beezie Collectibles",
       "description": "This NFT Collection was bridged from EVM on Flow with the ERC721 contract address of d112634f06902a977db1d596c77715d72f8da8a9",
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
-      "bannerURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://crimson-calm-beetle-499.mypinata.cloud/ipfs/bafybeig5h2w74qmvkzffmuqnqh7d3itx5sgc3k6rvbrecaz4urif75gxmq/Beezie%20x%20Logo.png",
+      "bannerURI": "https://crimson-calm-beetle-499.mypinata.cloud/ipfs/bafybeig5h2w74qmvkzffmuqnqh7d3itx5sgc3k6rvbrecaz4urif75gxmq/b2%20%281%29.jpg",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedNFT_d112634f06902a977db1d596c77715d72f8da8a9.NFT"
     },
@@ -1457,10 +1458,10 @@
       "bannerURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Horizontal_B.png",
       "tags": [],
       "extensions": {
-        "facebook": "https://www.facebook.com/LaLigaGolazos/",
         "discord": "https://discord.gg/LaLigaGolazos",
-        "twitter": "https://twitter.com/LaLigaGolazos",
         "instagram": " https://instagram.com/laligaonflow",
+        "facebook": "https://www.facebook.com/LaLigaGolazos/",
+        "twitter": "https://twitter.com/LaLigaGolazos",
         "website": "https://laligagolazos.com/"
       },
       "flowIdentifier": "A.87ca73a41bb50ad5.Golazos.NFT"
@@ -1481,9 +1482,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/driverzworld",
         "twitter": "https://twitter.com/DriverzWorld",
         "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       },
       "flowIdentifier": "A.f887ece39166906e.Helmet.NFT"
@@ -1525,9 +1526,9 @@
       "bannerURI": "https://flowverse.myfilebase.com/ipfs/QmaTj276rAUFoFiik84xCx1PYZnqZHcGp78vG6xqHLfoXo",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flowverse",
-        "instagram": "https://www.instagram.com/flowverseofficial",
         "twitter": "https://twitter.com/flowverse_",
+        "instagram": "https://www.instagram.com/flowverseofficial",
+        "discord": "https://discord.gg/flowverse",
         "website": "https://twitter.com/flowverse_"
       },
       "flowIdentifier": "A.9212a87501a8a6a2.Ordinal.NFT"
@@ -1535,7 +1536,7 @@
   ],
   "totalAmount": 68,
   "filterType": "REVIEWED",
-  "timestamp": "2024-12-24T01:16:56.060Z",
+  "timestamp": "2024-12-25T01:15:46.349Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1564,7 +1565,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
