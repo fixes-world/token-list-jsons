@@ -272,6 +272,26 @@
     },
     {
       "chainId": 545,
+      "address": "0xf51d8ba3402fa785",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xf51d8ba3402fa785EF_Vault",
+        "receiver": "/public/FixsStandardFT_0xf51d8ba3402fa785EF_Receiver",
+        "balance": "/public/FixsStandardFT_0xf51d8ba3402fa785EF_Balance"
+      },
+      "flowAddress": "0xf51d8ba3402fa785",
+      "symbol": "EF",
+      "name": "Eliza on Flow",
+      "description": "No description",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/28ZWxpemFPbk1736891575404",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0xeefce1c07809779e",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -334,9 +354,9 @@
       }
     }
   ],
-  "totalAmount": 15,
+  "totalAmount": 16,
   "filterType": "ALL",
-  "timestamp": "2024-12-22T01:22:23.993Z",
+  "timestamp": "2025-01-15T01:15:04.842Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -377,7 +397,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   }
 }
