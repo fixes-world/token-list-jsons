@@ -30,6 +30,31 @@
     },
     {
       "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault",
+        "receiver": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedReceiver",
+        "balance": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault"
+      },
+      "evmAddress": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "USDF",
+      "name": "USD Flow",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x1654653399040a61",
       "contractName": "FlowToken",
       "path": {
@@ -119,9 +144,9 @@
       }
     }
   ],
-  "totalAmount": 4,
+  "totalAmount": 5,
   "filterType": "FEATURED",
-  "timestamp": "2024-12-22T01:22:13.071Z",
+  "timestamp": "2025-01-15T22:05:46.297Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -162,7 +187,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
