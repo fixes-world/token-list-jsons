@@ -453,8 +453,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -492,34 +492,6 @@
       },
       "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
       "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
-    },
-    {
-      "chainId": 747,
-      "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
-      "contractName": "ADUToken",
-      "path": {
-        "vault": "/storage/ADUTokenVault",
-        "receiver": "/public/ADUTokenReceiver",
-        "balance": "/public/ADUTokenMetadata"
-      },
-      "evmAddress": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
-      "flowAddress": "0xe452a2f5665728f5",
-      "symbol": "ADU",
-      "name": "All Day Unlimited",
-      "description": "All Day Unlimited community DAO.",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
-      "tags": [
-        "Verified"
-      ],
-      "extensions": {
-        "discord": "alldayunlimited",
-        "twitter": "",
-        "website": "https://toucans.ecdao.org/p/ADUToken",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.e452a2f5665728f5.ADUToken.Vault",
-      "website": "https://evm.flowscan.io/token/0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a"
     },
     {
       "chainId": 747,
@@ -747,6 +719,29 @@
     },
     {
       "chainId": 747,
+      "address": "0x83900c7ffece2a47cac867f87252cdf52bd017a2",
+      "contractName": "EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2Vault",
+        "receiver": "/public/EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2Receiver",
+        "balance": "/public/EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2Vault"
+      },
+      "evmAddress": "0x83900c7ffece2a47cac867f87252cdf52bd017a2",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "PS-V2",
+      "name": "PunchSwap V2",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 83900c7ffece2a47cac867f87252cdf52bd017a2",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2.Vault",
+      "website": "https://evm.flowscan.io/token/0x83900c7ffece2a47cac867f87252cdf52bd017a2"
+    },
+    {
+      "chainId": 747,
       "address": "0x995258cea49c25595cd94407fad9e99b81406a84",
       "contractName": "EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84",
       "path": {
@@ -818,6 +813,34 @@
     },
     {
       "chainId": 747,
+      "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
+      "contractName": "ADUToken",
+      "path": {
+        "vault": "/storage/ADUTokenVault",
+        "receiver": "/public/ADUTokenReceiver",
+        "balance": "/public/ADUTokenMetadata"
+      },
+      "evmAddress": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
+      "flowAddress": "0xe452a2f5665728f5",
+      "symbol": "ADU",
+      "name": "All Day Unlimited",
+      "description": "All Day Unlimited community DAO.",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "discord": "alldayunlimited",
+        "twitter": "",
+        "website": "https://toucans.ecdao.org/p/ADUToken",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.e452a2f5665728f5.ADUToken.Vault",
+      "website": "https://evm.flowscan.io/token/0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a"
+    },
+    {
+      "chainId": 747,
       "address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
       "contractName": "Beaver",
       "path": {
@@ -837,8 +860,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "beavercoinflow",
+        "discord": "",
         "website": "beavercoin.io"
       },
       "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
@@ -872,6 +895,32 @@
       },
       "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
       "website": "https://evm.flowscan.io/token/0x76a56657d20f572872a81b75530c905fd9f845e5"
+    },
+    {
+      "chainId": 747,
+      "address": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "contractName": "EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault",
+        "receiver": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Receiver",
+        "balance": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault"
+      },
+      "evmAddress": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760.Vault",
+      "website": "https://evm.flowscan.io/token/0xd3378b419feae4e3a4bb4f3349dba43a1b511760"
     },
     {
       "chainId": 747,
@@ -966,7 +1015,7 @@
       },
       "evmAddress": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
       "flowAddress": "0xa9102e56a8b7a680",
-      "symbol": "TRUMP",
+      "symbol": "TRUMP_2024",
       "name": "Trump 2024",
       "description": "2024.07.13 @Pennsylvania",
       "decimals": 18,
@@ -974,15 +1023,16 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
-        "website": "https://linktr.ee/fixes.world/"
+        "website": "https://linktr.ee/fixes.world/",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 36,
+  "totalAmount": 38,
   "filterType": "MANAGED",
-  "timestamp": "2025-01-15T22:05:50.953Z",
+  "timestamp": "2025-01-21T08:53:25.238Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1023,7 +1073,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
