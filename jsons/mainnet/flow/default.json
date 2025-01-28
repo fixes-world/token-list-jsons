@@ -1226,8 +1226,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binance-usd",
         "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "coingeckoId": "binance-usd",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1269,13 +1269,14 @@
       "evmAddress": "0x83900c7ffece2a47cac867f87252cdf52bd017a2",
       "flowAddress": "0x1e4aa0b87d10b141",
       "symbol": "PS-V2",
-      "name": "PunchSwap V2",
+      "name": "PSV2 FLOW_TRUMP",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 83900c7ffece2a47cac867f87252cdf52bd017a2",
       "decimals": 18,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -1379,11 +1380,11 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "coingeckoId": "flow",
         "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1483,15 +1484,15 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     }
   ],
   "totalAmount": 64,
   "filterType": "ALL",
-  "timestamp": "2025-01-21T08:53:16.445Z",
+  "timestamp": "2025-01-28T01:14:20.370Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1532,7 +1533,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
