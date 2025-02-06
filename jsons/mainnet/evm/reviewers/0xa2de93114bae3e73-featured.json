@@ -170,10 +170,11 @@
       "name": "pump.flow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 68eb683a393c8a1c816255b4fc4b89d73c52ad4b",
       "decimals": 18,
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/b34b8cfc-3668-4572-a434-e73e3aa82338.jpg",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_68eb683a393c8a1c816255b4fc4b89d73c52ad4b.Vault",
       "website": "https://evm.flowscan.io/token/0x68eb683a393c8a1c816255b4fc4b89d73c52ad4b"
@@ -642,10 +643,11 @@
       "name": "Bridged USDC (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
       "decimals": 6,
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14.Vault",
       "website": "https://evm.flowscan.io/token/0xf1815bd50389c46847f0bda824ec8da914045d14"
@@ -1249,35 +1251,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x76a56657d20f572872a81b75530c905fd9f845e5",
-      "contractName": "brasil",
-      "path": {
-        "vault": "/storage/brasilVault",
-        "receiver": "/public/brasilReceiver",
-        "balance": "/public/brasilMetadata"
-      },
-      "evmAddress": "0x76a56657d20f572872a81b75530c905fd9f845e5",
-      "flowAddress": "0x7bf07d719dcb8480",
-      "symbol": "BR",
-      "name": "Brasil",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
-      "tags": [
-        "Verified"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
-        "twitter": "https://twitter.com/flowbrasilchain",
-        "website": "https://toucans.ecdao.org/p/brasil",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
-      "website": "https://evm.flowscan.io/token/0x76a56657d20f572872a81b75530c905fd9f845e5"
-    },
-    {
-      "chainId": 747,
       "address": "0x6f90cef53868878be7a2edbf41d715de09851b54",
       "contractName": "FlovatarDustToken",
       "path": {
@@ -1398,10 +1371,11 @@
       "name": "WETH",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
       "decimals": 18,
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_2f6f07cdcf3588944bf4c42ac74ff24bf56e7590.Vault",
       "website": "https://evm.flowscan.io/token/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
@@ -1428,6 +1402,30 @@
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_4b07f2d19028a7fb7bf5e9258f9666a9673da331.Vault",
       "website": "https://evm.flowscan.io/token/0x4b07f2d19028a7fb7bf5e9258f9666a9673da331"
+    },
+    {
+      "chainId": 747,
+      "address": "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
+      "contractName": "EVMVMBridgedToken_674843c06ff83502ddb4d37c2e09c01cda38cbc8",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_674843c06ff83502ddb4d37c2e09c01cda38cbc8Vault",
+        "receiver": "/public/EVMVMBridgedToken_674843c06ff83502ddb4d37c2e09c01cda38cbc8Receiver",
+        "balance": "/public/EVMVMBridgedToken_674843c06ff83502ddb4d37c2e09c01cda38cbc8Vault"
+      },
+      "evmAddress": "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "stgUSDT",
+      "name": "Bridged stgUSDT",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 674843c06ff83502ddb4d37c2e09c01cda38cbc8",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_674843c06ff83502ddb4d37c2e09c01cda38cbc8.Vault",
+      "website": "https://evm.flowscan.io/token/0x674843c06ff83502ddb4d37c2e09c01cda38cbc8"
     },
     {
       "chainId": 747,
@@ -1522,6 +1520,35 @@
       },
       "flowIdentifier": "A.ef4162279c3dabaf.FixesFungibleToken.Vault",
       "website": "https://evm.flowscan.io/token/0xadb17e4751af7c5c4784275910b1746d268f57e8"
+    },
+    {
+      "chainId": 747,
+      "address": "0x76a56657d20f572872a81b75530c905fd9f845e5",
+      "contractName": "brasil",
+      "path": {
+        "vault": "/storage/brasilVault",
+        "receiver": "/public/brasilReceiver",
+        "balance": "/public/brasilMetadata"
+      },
+      "evmAddress": "0x76a56657d20f572872a81b75530c905fd9f845e5",
+      "flowAddress": "0x7bf07d719dcb8480",
+      "symbol": "BR",
+      "name": "Brasil",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
+        "website": "https://toucans.ecdao.org/p/brasil",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
+      "website": "https://evm.flowscan.io/token/0x76a56657d20f572872a81b75530c905fd9f845e5"
     },
     {
       "chainId": 747,
@@ -1652,9 +1679,9 @@
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 65,
+  "totalAmount": 66,
   "filterType": "FEATURED",
-  "timestamp": "2025-02-01T01:18:49.913Z",
+  "timestamp": "2025-02-06T15:22:36.250Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1695,7 +1722,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
