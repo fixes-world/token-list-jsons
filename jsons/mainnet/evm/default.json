@@ -1213,8 +1213,8 @@
       },
       "evmAddress": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
       "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "WETH",
-      "name": "WETH",
+      "symbol": "stgWETH",
+      "name": "Bridged WETH (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
@@ -1629,7 +1629,7 @@
   ],
   "totalAmount": 66,
   "filterType": "ALL",
-  "timestamp": "2025-02-06T15:22:25.978Z",
+  "timestamp": "2025-02-06T15:28:10.775Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1670,7 +1670,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
