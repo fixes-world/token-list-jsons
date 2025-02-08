@@ -5,6 +5,29 @@
   "tokens": [
     {
       "chainId": 545,
+      "address": "0x4a062be02a8469079803502dffbfc28f06ca3f18",
+      "contractName": "AeraNFT",
+      "path": {
+        "storage": "/storage/aeraNFTs",
+        "public": "/public/aeraNFTs"
+      },
+      "evmAddress": "0x4a062be02a8469079803502dffbfc28f06ca3f18",
+      "flowAddress": "0x46625f59708ec2f8",
+      "name": "Aera",
+      "description": "Aera by OneFootball",
+      "logoURI": "https://miro.medium.com/fit/c/176/176/1*hzfP51MATg3et5vghYy1uQ.png",
+      "bannerURI": "https://bafybeiaaf7bfbppep5ahb2m75xlmxyj76hxo3oh5dcl4prxeskruwpe6c4.ipfs.nftstorage.link/",
+      "tags": [],
+      "extensions": {
+        "discord": "https://discord.gg/aera",
+        "twitter": "https://twitter.com/aera_football",
+        "instagram": "https://www.instagram.com/aera_football/",
+        "website": "http://aera.onefootbal.com"
+      },
+      "flowIdentifier": "A.46625f59708ec2f8.AeraNFT.NFT"
+    },
+    {
+      "chainId": 545,
       "address": "0x7c2fff21cdecd4e779f1710e101dd53556b1bdf5",
       "contractName": "DimensionX",
       "path": {
@@ -41,10 +64,10 @@
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "instagram": "https://instagram.com/flovatar_nft",
-        "tiktok": "https://www.tiktok.com/@flovatar",
         "discord": "https://discord.gg/flovatar",
+        "instagram": "https://instagram.com/flovatar_nft",
         "twitter": "https://x.com/flovatar",
+        "tiktok": "https://www.tiktok.com/@flovatar",
         "website": "https://flovatar.com"
       },
       "flowIdentifier": "A.9392a4a7c3f49a0b.FlovatarComponent.NFT"
@@ -65,10 +88,10 @@
       "bannerURI": "https://ipfs.io/ipfs/QmTBnCqNwgE8AiHPs9YxuVb8HSKWA2RvY5Q4NYm1tvW6wq",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/flowblockchain",
-        "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/flowblockchain",
+        "instagram": "https://www.instagram.com/flowblockchain",
         "github": "https://github.com/onflow/crescendo-rewards-sc",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://rewards.flow.com"
       },
       "flowIdentifier": "A.2e7cfb413f04382f.FlowRewards.NFT"
@@ -111,8 +134,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/flowverse_",
-        "instagram": "https://www.instagram.com/flowverseofficial",
         "discord": "https://discord.gg/flowverse",
+        "instagram": "https://www.instagram.com/flowverseofficial",
         "website": "https://nft.flowverse.co/flowverse-mystery-pass"
       },
       "flowIdentifier": "A.c7c122b5b811de8e.FlowversePass.NFT"
@@ -139,9 +162,9 @@
       "flowIdentifier": "A.c7c122b5b811de8e.FlowverseShirt.NFT"
     }
   ],
-  "totalAmount": 6,
+  "totalAmount": 7,
   "filterType": "ALL",
-  "timestamp": "2024-12-07T18:07:02.124Z",
+  "timestamp": "2025-02-08T01:14:18.212Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -170,7 +193,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   }
 }

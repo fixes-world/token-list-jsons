@@ -5,6 +5,28 @@
   "tokens": [
     {
       "chainId": 545,
+      "address": "0x46625f59708ec2f8",
+      "contractName": "AeraNFT",
+      "path": {
+        "storage": "/storage/aeraNFTs",
+        "public": "/public/aeraNFTs"
+      },
+      "evmAddress": "0x4a062be02a8469079803502dffbfc28f06ca3f18",
+      "flowAddress": "0x46625f59708ec2f8",
+      "name": "Aera",
+      "description": "Aera by OneFootball",
+      "logoURI": "https://miro.medium.com/fit/c/176/176/1*hzfP51MATg3et5vghYy1uQ.png",
+      "bannerURI": "https://bafybeiaaf7bfbppep5ahb2m75xlmxyj76hxo3oh5dcl4prxeskruwpe6c4.ipfs.nftstorage.link/",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/aera_football",
+        "instagram": "https://www.instagram.com/aera_football/",
+        "discord": "https://discord.gg/aera",
+        "website": "http://aera.onefootbal.com"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0x4dfd62c88d1b6462",
       "contractName": "AllDay",
       "path": {
@@ -18,9 +40,9 @@
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
       "tags": [],
       "extensions": {
+        "twitter": "https://twitter.com/NFLAllDay",
         "discord": "https://discord.com/invite/5K6qyTzj2k",
         "instagram": "https://www.instagram.com/nflallday/",
-        "twitter": "https://twitter.com/NFLAllDay",
         "website": "https://nflallday.com/"
       }
     },
@@ -124,10 +146,10 @@
       "bannerURI": "https://ipfs.io/ipfs/QmTBnCqNwgE8AiHPs9YxuVb8HSKWA2RvY5Q4NYm1tvW6wq",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/onflow/crescendo-rewards-sc",
-        "instagram": "https://www.instagram.com/flowblockchain",
-        "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/flowblockchain",
+        "instagram": "https://www.instagram.com/flowblockchain",
+        "github": "https://github.com/onflow/crescendo-rewards-sc",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://rewards.flow.com"
       }
     },
@@ -167,9 +189,9 @@
       "bannerURI": "https://flowverse-mystery-pass.s3.filebase.com/testnet/bannerImage.jpg",
       "tags": [],
       "extensions": {
+        "discord": "https://discord.gg/flowverse",
         "twitter": "https://twitter.com/flowverse_",
         "instagram": "https://www.instagram.com/flowverseofficial",
-        "discord": "https://discord.gg/flowverse",
         "website": "https://nft.flowverse.co/flowverse-mystery-pass"
       }
     },
@@ -208,9 +230,9 @@
       "bannerURI": "https://flowverse-treasures.s3.filebase.com/mainnet/collectionBannerImage.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flowverse",
-        "twitter": "https://twitter.com/flowverse_",
         "instagram": "https://www.instagram.com/flowverseofficial",
+        "twitter": "https://twitter.com/flowverse_",
+        "discord": "https://discord.gg/flowverse",
         "website": "https://nft.flowverse.co/treasures"
       }
     },
@@ -229,10 +251,10 @@
       "bannerURI": "https://i.imgur.com/4DOuqFf.jpeg",
       "tags": [],
       "extensions": {
-        "x": "https://twitter.com/fixesWorld",
         "github": "https://github.com/fixes-world",
-        "linktree": "https://linktr.ee/fixes.world",
+        "x": "https://twitter.com/fixesWorld",
         "twitter": "https://twitter.com/fixesWorld",
+        "linktree": "https://linktr.ee/fixes.world",
         "website": "https://fixes.world/"
       }
     },
@@ -251,10 +273,10 @@
       "bannerURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Horizontal_B.png",
       "tags": [],
       "extensions": {
-        "facebook": "https://www.facebook.com/LaLigaGolazos/",
-        "twitter": "https://twitter.com/LaLigaGolazos",
-        "instagram": " https://instagram.com/laligaonflow",
         "discord": "https://discord.gg/LaLigaGolazos",
+        "twitter": "https://twitter.com/LaLigaGolazos",
+        "facebook": "https://www.facebook.com/LaLigaGolazos/",
+        "instagram": " https://instagram.com/laligaonflow",
         "website": "https://laligagolazos.com/"
       }
     },
@@ -329,10 +351,10 @@
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "linkedin": "https://www.linkedin.com/company/playmfl",
-        "medium": "https://medium.com/playmfl",
-        "twitter": "https://twitter.com/playMFL",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "twitter": "https://twitter.com/playMFL",
+        "medium": "https://medium.com/playmfl",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -351,10 +373,10 @@
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/playmfl",
         "twitter": "https://twitter.com/playMFL",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
+        "medium": "https://medium.com/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -373,9 +395,9 @@
       "bannerURI": "https://media-local.gigantik.io/nba/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/nbatopshot",
-        "instagram": "https://www.instagram.com/nbatopshot",
         "discord": "https://discord.gg/nbatopshot",
+        "instagram": "https://www.instagram.com/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com/"
       }
     },
@@ -514,10 +536,10 @@
       "bannerURI": "https://www.tunegonft.com/assets/images/tunego-beta-logo.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/tunego",
-        "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
-        "discord": "https://discord.gg/nsGnsRbMke",
         "facebook": "https://www.facebook.com/tunego",
+        "instagram": "https://www.instagram.com/tunego",
+        "discord": "https://discord.gg/nsGnsRbMke",
+        "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
         "twitter": "https://twitter.com/TuneGONFTV5",
         "website": "https://www.tunegonft.com/"
       }
@@ -578,19 +600,19 @@
       "bannerURI": "https://play.zeedz.io/background-zeedz.jpg",
       "tags": [],
       "extensions": {
+        "discord": "http://discord.com/invite/zeedz",
+        "linkedin": "https://www.linkedin.com/company/zeedz",
         "youtube": "https://www.youtube.com/c/zeedz_official",
         "twitter": "https://twitter.com/zeedz_official",
-        "discord": "http://discord.com/invite/zeedz",
         "instagram": "https://www.instagram.com/zeedz_official/",
-        "linkedin": "https://www.linkedin.com/company/zeedz",
         "medium": "https://blog.zeedz.io/",
         "website": "https://play.zeedz.io"
       }
     }
   ],
-  "totalAmount": 28,
+  "totalAmount": 29,
   "filterType": "ALL",
-  "timestamp": "2024-10-02T02:10:29.921Z",
+  "timestamp": "2025-02-08T01:14:17.710Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -619,7 +641,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   }
 }
