@@ -5,6 +5,89 @@
   "tokens": [
     {
       "chainId": 747,
+      "address": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "contractName": "EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault",
+        "receiver": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedReceiver",
+        "balance": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault"
+      },
+      "evmAddress": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "USDF",
+      "name": "USD Flow",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed.Vault",
+      "website": "https://evm.flowscan.io/token/0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed"
+    },
+    {
+      "chainId": 747,
+      "address": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
+      "contractName": "FUSD",
+      "path": {
+        "vault": "/storage/fusdVault",
+        "receiver": "/public/fusdReceiver",
+        "balance": "/public/fusdBalance"
+      },
+      "evmAddress": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
+      "flowAddress": "0x3c5959b568896393",
+      "symbol": "FUSD",
+      "name": "FUSD(Deprecated)",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
+      "tags": [
+        "Verified",
+        "Deprecated"
+      ],
+      "extensions": {
+        "website": "http://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.3c5959b568896393.FUSD.Vault",
+      "website": "https://evm.flowscan.io/token/0x8b968e49ee13bd481d77e48d674c30f862ff5cd8"
+    },
+    {
+      "chainId": 747,
+      "address": "0x42d8962e5e2305367281570f0a8323983e442ae9",
+      "contractName": "TheWolfofFlow",
+      "path": {
+        "vault": "/storage/TheWolfofFlowVault",
+        "receiver": "/public/TheWolfofFlowReceiver",
+        "balance": "/public/TheWolfofFlowMetadata"
+      },
+      "evmAddress": "0x42d8962e5e2305367281570f0a8323983e442ae9",
+      "flowAddress": "0x8259c73e487422d7",
+      "symbol": "WOLF",
+      "name": "The Wolf of Flow",
+      "description": "$WOLF a fair launch alt coin on @flow_blockchain",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/Vq4POe3.png",
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
+      "extensions": {
+        "discord": "",
+        "twitter": "WolfofFlow",
+        "website": "x.com/WolfofFlow"
+      },
+      "flowIdentifier": "A.8259c73e487422d7.TheWolfofFlow.Vault",
+      "website": "https://evm.flowscan.io/token/0x42d8962e5e2305367281570f0a8323983e442ae9"
+    },
+    {
+      "chainId": 747,
       "address": "0x200ba8c1e9af4e1836fdc07aca2d1e1721a065a7",
       "contractName": "EVMVMBridgedToken_200ba8c1e9af4e1836fdc07aca2d1e1721a065a7",
       "path": {
@@ -48,30 +131,6 @@
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_29f8a3010f4f410bb2bd19f245626a2b443394c3.Vault",
       "website": "https://evm.flowscan.io/token/0x29f8a3010f4f410bb2bd19f245626a2b443394c3"
-    },
-    {
-      "chainId": 747,
-      "address": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
-      "contractName": "EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault",
-        "receiver": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedReceiver",
-        "balance": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault"
-      },
-      "evmAddress": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "USDF",
-      "name": "USD Flow",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed.Vault",
-      "website": "https://evm.flowscan.io/token/0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed"
     },
     {
       "chainId": 747,
@@ -261,58 +320,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
-      "contractName": "FUSD",
-      "path": {
-        "vault": "/storage/fusdVault",
-        "receiver": "/public/fusdReceiver",
-        "balance": "/public/fusdBalance"
-      },
-      "evmAddress": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
-      "flowAddress": "0x3c5959b568896393",
-      "symbol": "FUSD",
-      "name": "FUSD(Deprecated)",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
-      "tags": [
-        "Deprecated"
-      ],
-      "extensions": {
-        "website": "http://flow.com/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.3c5959b568896393.FUSD.Vault",
-      "website": "https://evm.flowscan.io/token/0x8b968e49ee13bd481d77e48d674c30f862ff5cd8"
-    },
-    {
-      "chainId": 747,
-      "address": "0x42d8962e5e2305367281570f0a8323983e442ae9",
-      "contractName": "TheWolfofFlow",
-      "path": {
-        "vault": "/storage/TheWolfofFlowVault",
-        "receiver": "/public/TheWolfofFlowReceiver",
-        "balance": "/public/TheWolfofFlowMetadata"
-      },
-      "evmAddress": "0x42d8962e5e2305367281570f0a8323983e442ae9",
-      "flowAddress": "0x8259c73e487422d7",
-      "symbol": "WOLF",
-      "name": "The Wolf of Flow",
-      "description": "$WOLF a fair launch alt coin on @flow_blockchain",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/Vq4POe3.png",
-      "tags": [],
-      "extensions": {
-        "twitter": "WolfofFlow",
-        "discord": "",
-        "website": "x.com/WolfofFlow"
-      },
-      "flowIdentifier": "A.8259c73e487422d7.TheWolfofFlow.Vault",
-      "website": "https://evm.flowscan.io/token/0x42d8962e5e2305367281570f0a8323983e442ae9"
-    },
-    {
-      "chainId": 747,
       "address": "0x1eca8e09bc745143824853575b132559cf0b2ed5",
       "contractName": "TopShotBETA",
       "path": {
@@ -329,8 +336,8 @@
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "NkGrRaaUCv",
+        "twitter": "TopShotBETA",
         "website": "topshotbeta.com",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -355,12 +362,46 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreid5sova5e3aaratgc2lotv266thsf3xo5cssfj2npknq7wqdm77wq",
       "tags": [],
       "extensions": {
-        "discord": "Eh5c8k2gUu",
         "twitter": "TopShotRewards",
+        "discord": "Eh5c8k2gUu",
         "website": ""
       },
       "flowIdentifier": "A.bb39f0dae1547256.TopShotRewardsCommunity.Vault",
       "website": "https://evm.flowscan.io/token/0xa9c06c7309f0a47421af83a375aabd75e29cce6a"
+    },
+    {
+      "chainId": 747,
+      "address": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
+      "contractName": "FlowToken",
+      "path": {
+        "vault": "/storage/flowTokenVault",
+        "receiver": "/public/flowTokenReceiver",
+        "balance": "/public/flowTokenBalance"
+      },
+      "evmAddress": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
+      "flowAddress": "0x1654653399040a61",
+      "symbol": "FLOW",
+      "name": "Flow",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "utility-token"
+      ],
+      "extensions": {
+        "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "website": "http://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1654653399040a61.FlowToken.Vault",
+      "website": "https://evm.flowscan.io/token/0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e"
     },
     {
       "chainId": 747,
@@ -378,7 +419,9 @@
       "description": "",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.0f9df91c9121c460.BloctoToken/logo.png",
-      "tags": [],
+      "tags": [
+        "Verified"
+      ],
       "extensions": {
         "coingeckoId": "blocto-token",
         "website": "https://blocto.app/",
@@ -387,6 +430,64 @@
       },
       "flowIdentifier": "A.0f9df91c9121c460.BloctoToken.Vault",
       "website": "https://evm.flowscan.io/token/0x439b028e1de93f41d1aed6b6caf4b5900497105c"
+    },
+    {
+      "chainId": 747,
+      "address": "0xec0f7e75128781c2924ad907a379909ae531d050",
+      "contractName": "SloppyStakes",
+      "path": {
+        "vault": "/storage/SloppyStakesVault",
+        "receiver": "/public/SloppyStakesReceiver",
+        "balance": "/public/SloppyStakesMetadata"
+      },
+      "evmAddress": "0xec0f7e75128781c2924ad907a379909ae531d050",
+      "flowAddress": "0x53f389d96fb4ce5e",
+      "symbol": "LOPPY",
+      "name": "Sloppy Stakes",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SloppyStakesDAO",
+        "telegram": "https://t.co/E8FzKLuMnH",
+        "discord": "https://discord.com/invite/GYV8JRR",
+        "website": "http://sloppystakes.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.53f389d96fb4ce5e.SloppyStakes.Vault",
+      "website": "https://evm.flowscan.io/token/0xec0f7e75128781c2924ad907a379909ae531d050"
+    },
+    {
+      "chainId": 747,
+      "address": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
+      "contractName": "VroomToken",
+      "path": {
+        "vault": "/storage/VroomTokenVault",
+        "receiver": "/public/VroomTokenReceiver",
+        "balance": "/public/VroomTokenBalance"
+      },
+      "evmAddress": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
+      "flowAddress": "0xf887ece39166906e",
+      "symbol": "VROOM",
+      "name": "Vroom",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f887ece39166906e.VroomToken/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "website": "",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.f887ece39166906e.VroomToken.Vault",
+      "website": "https://evm.flowscan.io/token/0xe83b56c8b96d02ac0add53f69267abd231f3c425"
     },
     {
       "chainId": 747,
@@ -570,8 +671,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/fixesWorld",
-        "telegram": "https://t.me/fixes_world",
         "github": "https://github.com/fixes-world",
+        "telegram": "https://t.me/fixes_world",
         "website": "https://linktr.ee/fixes.world"
       },
       "flowIdentifier": "A.b9cd93d3bb31b497.FixesFungibleToken.Vault",
@@ -599,38 +700,6 @@
       },
       "flowIdentifier": "A.f5e1e769f8cc612a.FixesFungibleToken.Vault",
       "website": "https://evm.flowscan.io/token/0xe3874bb866f75de19f2ccaed90b7ebf6a372d38e"
-    },
-    {
-      "chainId": 747,
-      "address": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
-      "contractName": "FlowToken",
-      "path": {
-        "vault": "/storage/flowTokenVault",
-        "receiver": "/public/flowTokenReceiver",
-        "balance": "/public/flowTokenBalance"
-      },
-      "evmAddress": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
-      "flowAddress": "0x1654653399040a61",
-      "symbol": "FLOW",
-      "name": "Flow",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
-        "coingeckoId": "flow",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "website": "http://flow.com/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.1654653399040a61.FlowToken.Vault",
-      "website": "https://evm.flowscan.io/token/0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e"
     },
     {
       "chainId": 747,
@@ -684,58 +753,61 @@
     },
     {
       "chainId": 747,
-      "address": "0xec0f7e75128781c2924ad907a379909ae531d050",
-      "contractName": "SloppyStakes",
+      "address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "contractName": "EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb",
       "path": {
-        "vault": "/storage/SloppyStakesVault",
-        "receiver": "/public/SloppyStakesReceiver",
-        "balance": "/public/SloppyStakesMetadata"
+        "vault": "/storage/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault",
+        "receiver": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbReceiver",
+        "balance": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault"
       },
-      "evmAddress": "0xec0f7e75128781c2924ad907a379909ae531d050",
-      "flowAddress": "0x53f389d96fb4ce5e",
-      "symbol": "LOPPY",
-      "name": "Sloppy Stakes",
-      "description": "",
+      "evmAddress": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "ankrFLOWEVM",
+      "name": "Ankr Staked FLOW EVM",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
+      "logoURI": "https://www.ankr.com/staking/assets/flow.8fd052f2.png",
       "tags": [
-        "memecoin"
+        "Verified",
+        "Featured"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/SloppyStakesDAO",
-        "telegram": "https://t.co/E8FzKLuMnH",
-        "discord": "https://discord.com/invite/GYV8JRR",
-        "website": "http://sloppystakes.com/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       },
-      "flowIdentifier": "A.53f389d96fb4ce5e.SloppyStakes.Vault",
-      "website": "https://evm.flowscan.io/token/0xec0f7e75128781c2924ad907a379909ae531d050"
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb.Vault",
+      "website": "https://evm.flowscan.io/token/0x1b97100ea1d7126c4d60027e231ea4cb25314bdb"
     },
     {
       "chainId": 747,
-      "address": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
-      "contractName": "VroomToken",
+      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "contractName": "USDCFlow",
       "path": {
-        "vault": "/storage/VroomTokenVault",
-        "receiver": "/public/VroomTokenReceiver",
-        "balance": "/public/VroomTokenBalance"
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
       },
-      "evmAddress": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
-      "flowAddress": "0xf887ece39166906e",
-      "symbol": "VROOM",
-      "name": "Vroom",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f887ece39166906e.VroomToken/logo.png",
-      "tags": [],
+      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "flowAddress": "0xf1ab99c82dee3526",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC",
+      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "stablecoin"
+      ],
       "extensions": {
-        "website": "",
+        "coingeckoId": "usd-coin",
+        "twitter": "https://x.com/flow_blockchain",
+        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
-      "flowIdentifier": "A.f887ece39166906e.VroomToken.Vault",
-      "website": "https://evm.flowscan.io/token/0xe83b56c8b96d02ac0add53f69267abd231f3c425"
+      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
+      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
     },
     {
       "chainId": 747,
@@ -753,10 +825,13 @@
       "description": "This is the aiSports DAO, here we manage the $JUICE token and aiSports treasury. We will also utilize this platform to support community votes.",
       "decimals": 18,
       "logoURI": "https://nftstorage.link/ipfs/bafkreidrywo4xhmfqtzjbqxplwjfwhuvifsfquc7q7zoysg6bdrxjbxa5e",
-      "tags": [],
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
       "extensions": {
-        "discord": "VKvUxMwu5r",
         "twitter": "aisportspro",
+        "discord": "VKvUxMwu5r",
         "website": "www.aisportspro.com"
       },
       "flowIdentifier": "A.9db94c9564243ba7.aiSportsJuice.Vault",
@@ -764,27 +839,114 @@
     },
     {
       "chainId": 747,
-      "address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
-      "contractName": "EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "address": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060",
+      "contractName": "FlowBlockchainhitCoin",
       "path": {
-        "vault": "/storage/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault",
-        "receiver": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbReceiver",
-        "balance": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault"
+        "vault": "/storage/FlowBlockchainhitCoinVault",
+        "receiver": "/public/FlowBlockchainhitCoinReceiver",
+        "balance": "/public/FlowBlockchainhitCoinMetadata"
       },
-      "evmAddress": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "ankrFLOWEVM",
-      "name": "Ankr Staked FLOW EVM",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "evmAddress": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060",
+      "flowAddress": "0xd3b62ffbbc632f5a",
+      "symbol": "HIT",
+      "name": "Flow Blockchain $hit Coin",
+      "description": "Just an original shitcoin, powered by the FLOW blockchain",
       "decimals": 18,
-      "logoURI": "https://www.ankr.com/staking/assets/flow.8fd052f2.png",
-      "tags": [],
+      "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
       "extensions": {
-        "website": "https://port.flow.com",
+        "twitter": "https://twitter.com/HITonflow",
+        "discord": "",
+        "website": ""
+      },
+      "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
+      "website": "https://evm.flowscan.io/token/0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060"
+    },
+    {
+      "chainId": 747,
+      "address": "0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449",
+      "contractName": "Mainledger",
+      "path": {
+        "vault": "/storage/MainledgerVault",
+        "receiver": "/public/MainledgerReceiver",
+        "balance": "/public/MainledgerMetadata"
+      },
+      "evmAddress": "0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449",
+      "flowAddress": "0xfd1ccaaae39d0e79",
+      "symbol": "MLC",
+      "name": "Mainledger",
+      "description": "A way to reward our followers",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "discord": "",
+        "twitter": "",
+        "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       },
-      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb.Vault",
-      "website": "https://evm.flowscan.io/token/0x1b97100ea1d7126c4d60027e231ea4cb25314bdb"
+      "flowIdentifier": "A.fd1ccaaae39d0e79.Mainledger.Vault",
+      "website": "https://evm.flowscan.io/token/0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449"
+    },
+    {
+      "chainId": 747,
+      "address": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
+      "contractName": "REVV",
+      "path": {
+        "vault": "/storage/revvVault",
+        "receiver": "/public/revvReceiver",
+        "balance": "/public/revvBalance"
+      },
+      "evmAddress": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
+      "flowAddress": "0xd01e482eb680ec9f",
+      "symbol": "REVV",
+      "name": "REVV",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "website": "https://revvmotorsport.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.d01e482eb680ec9f.REVV.Vault",
+      "website": "https://evm.flowscan.io/token/0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57"
+    },
+    {
+      "chainId": 747,
+      "address": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
+      "contractName": "Vampire",
+      "path": {
+        "vault": "/storage/VampireVault",
+        "receiver": "/public/VampireReceiver",
+        "balance": "/public/VampireMetadata"
+      },
+      "evmAddress": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
+      "flowAddress": "0x67daad91e3782c80",
+      "symbol": "SUCK",
+      "name": "Vampire",
+      "description": "Stake it to make it!",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
+      "extensions": {
+        "discord": "",
+        "twitter": "",
+        "website": ""
+      },
+      "flowIdentifier": "A.67daad91e3782c80.Vampire.Vault",
+      "website": "https://evm.flowscan.io/token/0x4278b3080d062f4104216d2d5e6e11b367ecfc96"
     },
     {
       "chainId": 747,
@@ -973,133 +1135,34 @@
     },
     {
       "chainId": 747,
-      "address": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060",
-      "contractName": "FlowBlockchainhitCoin",
+      "address": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
+      "contractName": "stFlowToken",
       "path": {
-        "vault": "/storage/FlowBlockchainhitCoinVault",
-        "receiver": "/public/FlowBlockchainhitCoinReceiver",
-        "balance": "/public/FlowBlockchainhitCoinMetadata"
+        "vault": "/storage/stFlowTokenVault",
+        "receiver": "/public/stFlowTokenReceiver",
+        "balance": "/public/stFlowTokenBalance"
       },
-      "evmAddress": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060",
-      "flowAddress": "0xd3b62ffbbc632f5a",
-      "symbol": "HIT",
-      "name": "Flow Blockchain $hit Coin",
-      "description": "Just an original shitcoin, powered by the FLOW blockchain",
-      "decimals": 18,
-      "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
-      "tags": [],
-      "extensions": {
-        "discord": "",
-        "twitter": "https://twitter.com/HITonflow",
-        "website": ""
-      },
-      "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
-      "website": "https://evm.flowscan.io/token/0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060"
-    },
-    {
-      "chainId": 747,
-      "address": "0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449",
-      "contractName": "Mainledger",
-      "path": {
-        "vault": "/storage/MainledgerVault",
-        "receiver": "/public/MainledgerReceiver",
-        "balance": "/public/MainledgerMetadata"
-      },
-      "evmAddress": "0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449",
-      "flowAddress": "0xfd1ccaaae39d0e79",
-      "symbol": "MLC",
-      "name": "Mainledger",
-      "description": "A way to reward our followers",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
-      "tags": [],
-      "extensions": {
-        "twitter": "",
-        "discord": "",
-        "website": "mainledger.net/",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.fd1ccaaae39d0e79.Mainledger.Vault",
-      "website": "https://evm.flowscan.io/token/0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449"
-    },
-    {
-      "chainId": 747,
-      "address": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
-      "contractName": "REVV",
-      "path": {
-        "vault": "/storage/revvVault",
-        "receiver": "/public/revvReceiver",
-        "balance": "/public/revvBalance"
-      },
-      "evmAddress": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
-      "flowAddress": "0xd01e482eb680ec9f",
-      "symbol": "REVV",
-      "name": "REVV",
+      "evmAddress": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
+      "flowAddress": "0xd6f80565193ad727",
+      "symbol": "stFLOW",
+      "name": "Liquid Staked Flow",
       "description": "",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://revvmotorsport.com/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.d01e482eb680ec9f.REVV.Vault",
-      "website": "https://evm.flowscan.io/token/0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57"
-    },
-    {
-      "chainId": 747,
-      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "contractName": "USDCFlow",
-      "path": {
-        "vault": "/storage/usdcFlowVault",
-        "receiver": "/public/usdcFlowReceiver",
-        "balance": "/public/usdcFlowMetadata"
-      },
-      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "flowAddress": "0xf1ab99c82dee3526",
-      "symbol": "USDC.e",
-      "name": "Bridged USDC",
-      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
       "tags": [
-        "stablecoin"
+        "Verified",
+        "Featured",
+        "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "usd-coin",
-        "twitter": "https://x.com/flow_blockchain",
-        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
+        "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
+        "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
-      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
-      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
-    },
-    {
-      "chainId": 747,
-      "address": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
-      "contractName": "Vampire",
-      "path": {
-        "vault": "/storage/VampireVault",
-        "receiver": "/public/VampireReceiver",
-        "balance": "/public/VampireMetadata"
-      },
-      "evmAddress": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
-      "flowAddress": "0x67daad91e3782c80",
-      "symbol": "SUCK",
-      "name": "Vampire",
-      "description": "Stake it to make it!",
-      "decimals": 18,
-      "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
-      "tags": [],
-      "extensions": {
-        "twitter": "",
-        "discord": "",
-        "website": ""
-      },
-      "flowIdentifier": "A.67daad91e3782c80.Vampire.Vault",
-      "website": "https://evm.flowscan.io/token/0x4278b3080d062f4104216d2d5e6e11b367ecfc96"
+      "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x5598c0652b899eb40f169dd5949bdbe0bf36ffde"
     },
     {
       "chainId": 747,
@@ -1117,10 +1180,12 @@
       "description": "All Day Unlimited community DAO.",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
-      "tags": [],
+      "tags": [
+        "Verified"
+      ],
       "extensions": {
-        "discord": "alldayunlimited",
         "twitter": "",
+        "discord": "alldayunlimited",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1143,7 +1208,9 @@
       "description": "",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
-      "tags": [],
+      "tags": [
+        "Verified"
+      ],
       "extensions": {
         "twitter": "https://twitter.com/Ballerz__FC",
         "discord": "https://discord.com/invite/sDBp8YdH",
@@ -1170,7 +1237,10 @@
       "description": "Hey, nice beaverTelegram: @beavercoinflow",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/pIwQW2b.png",
-      "tags": [],
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
       "extensions": {
         "twitter": "beavercoinflow",
         "discord": "",
@@ -1178,6 +1248,90 @@
       },
       "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
       "website": "https://evm.flowscan.io/token/0xcd2336c1a78662c1302eb916ff3d49a073af2056"
+    },
+    {
+      "chainId": 747,
+      "address": "0x6f90cef53868878be7a2edbf41d715de09851b54",
+      "contractName": "FlovatarDustToken",
+      "path": {
+        "vault": "/storage/FlovatarDustTokenVault",
+        "receiver": "/public/FlovatarDustTokenReceiver",
+        "balance": "/public/FlovatarDustTokenBalance"
+      },
+      "evmAddress": "0x6f90cef53868878be7a2edbf41d715de09851b54",
+      "flowAddress": "0x921ea449dffec68a",
+      "symbol": "DUST",
+      "name": "Flovatar DUST",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "http://images.flovatar.com/logo-round.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "coingeckoId": "flovatar-dust",
+        "website": "https://flovatar.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x6f90cef53868878be7a2edbf41d715de09851b54"
+    },
+    {
+      "chainId": 747,
+      "address": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
+      "contractName": "StarlyToken",
+      "path": {
+        "vault": "/storage/starlyTokenVault",
+        "receiver": "/public/starlyTokenReceiver",
+        "balance": "/public/starlyTokenBalance"
+      },
+      "evmAddress": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
+      "flowAddress": "0x142fa6570b62fd97",
+      "symbol": "STARLY",
+      "name": "Starly Token",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.142fa6570b62fd97.StarlyToken/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "coingeckoId": "starly",
+        "website": "https://starly.io/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.142fa6570b62fd97.StarlyToken.Vault",
+      "website": "https://evm.flowscan.io/token/0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51"
+    },
+    {
+      "chainId": 747,
+      "address": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
+      "contractName": "UtahJazzLegendsClub",
+      "path": {
+        "vault": "/storage/UtahJazzLegendsClubVault",
+        "receiver": "/public/UtahJazzLegendsClubReceiver",
+        "balance": "/public/UtahJazzLegendsClubMetadata"
+      },
+      "evmAddress": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
+      "flowAddress": "0xcbba4d41aef83fe3",
+      "symbol": "UJLC",
+      "name": "Utah Jazz Legends Club",
+      "description": "Utah Jazz Legnends Club DAO",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
+        "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.cbba4d41aef83fe3.UtahJazzLegendsClub.Vault",
+      "website": "https://evm.flowscan.io/token/0xff827ae7ce750ef0037aea09f509f9755ae20275"
     },
     {
       "chainId": 747,
@@ -1369,113 +1523,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x6f90cef53868878be7a2edbf41d715de09851b54",
-      "contractName": "FlovatarDustToken",
-      "path": {
-        "vault": "/storage/FlovatarDustTokenVault",
-        "receiver": "/public/FlovatarDustTokenReceiver",
-        "balance": "/public/FlovatarDustTokenBalance"
-      },
-      "evmAddress": "0x6f90cef53868878be7a2edbf41d715de09851b54",
-      "flowAddress": "0x921ea449dffec68a",
-      "symbol": "DUST",
-      "name": "Flovatar DUST",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "http://images.flovatar.com/logo-round.png",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "flovatar-dust",
-        "website": "https://flovatar.com/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
-      "website": "https://evm.flowscan.io/token/0x6f90cef53868878be7a2edbf41d715de09851b54"
-    },
-    {
-      "chainId": 747,
-      "address": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
-      "contractName": "StarlyToken",
-      "path": {
-        "vault": "/storage/starlyTokenVault",
-        "receiver": "/public/starlyTokenReceiver",
-        "balance": "/public/starlyTokenBalance"
-      },
-      "evmAddress": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
-      "flowAddress": "0x142fa6570b62fd97",
-      "symbol": "STARLY",
-      "name": "Starly Token",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.142fa6570b62fd97.StarlyToken/logo.png",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "starly",
-        "website": "https://starly.io/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.142fa6570b62fd97.StarlyToken.Vault",
-      "website": "https://evm.flowscan.io/token/0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51"
-    },
-    {
-      "chainId": 747,
-      "address": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
-      "contractName": "stFlowToken",
-      "path": {
-        "vault": "/storage/stFlowTokenVault",
-        "receiver": "/public/stFlowTokenReceiver",
-        "balance": "/public/stFlowTokenBalance"
-      },
-      "evmAddress": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
-      "flowAddress": "0xd6f80565193ad727",
-      "symbol": "stFLOW",
-      "name": "Liquid Staked Flow",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
-        "discord": "https://discord.gg/r2keKxuKqX",
-        "website": "https://app.increment.fi/staking",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
-      "website": "https://evm.flowscan.io/token/0x5598c0652b899eb40f169dd5949bdbe0bf36ffde"
-    },
-    {
-      "chainId": 747,
-      "address": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
-      "contractName": "UtahJazzLegendsClub",
-      "path": {
-        "vault": "/storage/UtahJazzLegendsClubVault",
-        "receiver": "/public/UtahJazzLegendsClubReceiver",
-        "balance": "/public/UtahJazzLegendsClubMetadata"
-      },
-      "evmAddress": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
-      "flowAddress": "0xcbba4d41aef83fe3",
-      "symbol": "UJLC",
-      "name": "Utah Jazz Legends Club",
-      "description": "Utah Jazz Legnends Club DAO",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
-      "tags": [],
-      "extensions": {
-        "discord": "wGjBcsGjcG",
-        "twitter": "UtahJazzLegends",
-        "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.cbba4d41aef83fe3.UtahJazzLegendsClub.Vault",
-      "website": "https://evm.flowscan.io/token/0xff827ae7ce750ef0037aea09f509f9755ae20275"
-    },
-    {
-      "chainId": 747,
       "address": "0x76a56657d20f572872a81b75530c905fd9f845e5",
       "contractName": "brasil",
       "path": {
@@ -1490,16 +1537,73 @@
       "description": "",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
-      "tags": [],
+      "tags": [
+        "Verified"
+      ],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
       "website": "https://evm.flowscan.io/token/0x76a56657d20f572872a81b75530c905fd9f845e5"
+    },
+    {
+      "chainId": 747,
+      "address": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "contractName": "EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault",
+        "receiver": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Receiver",
+        "balance": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault"
+      },
+      "evmAddress": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
+      "tags": [
+        "Verified"
+      ],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760.Vault",
+      "website": "https://evm.flowscan.io/token/0xd3378b419feae4e3a4bb4f3349dba43a1b511760"
+    },
+    {
+      "chainId": 747,
+      "address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "contractName": "TeleportedTetherToken",
+      "path": {
+        "vault": "/storage/teleportedTetherTokenVault",
+        "receiver": "/public/teleportedTetherTokenReceiver",
+        "balance": "/public/teleportedTetherTokenBalance"
+      },
+      "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "flowAddress": "0xcfdd90d4a00f7b5b",
+      "symbol": "tUSDT",
+      "name": "Teleported Tether Token",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
+      "tags": [
+        "Verified",
+        "teleported-token",
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://blocto.app/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.cfdd90d4a00f7b5b.TeleportedTetherToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
     },
     {
       "chainId": 747,
@@ -1551,30 +1655,6 @@
     },
     {
       "chainId": 747,
-      "address": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
-      "contractName": "EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault",
-        "receiver": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Receiver",
-        "balance": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault"
-      },
-      "evmAddress": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "TRUMP",
-      "name": "OFFICIAL TRUMP",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760.Vault",
-      "website": "https://evm.flowscan.io/token/0xd3378b419feae4e3a4bb4f3349dba43a1b511760"
-    },
-    {
-      "chainId": 747,
       "address": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -1597,39 +1677,11 @@
       },
       "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
-    },
-    {
-      "chainId": 747,
-      "address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
-      "contractName": "TeleportedTetherToken",
-      "path": {
-        "vault": "/storage/teleportedTetherTokenVault",
-        "receiver": "/public/teleportedTetherTokenReceiver",
-        "balance": "/public/teleportedTetherTokenBalance"
-      },
-      "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
-      "flowAddress": "0xcfdd90d4a00f7b5b",
-      "symbol": "tUSDT",
-      "name": "Teleported Tether Token",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
-      "tags": [
-        "teleported-token",
-        "stablecoin"
-      ],
-      "extensions": {
-        "website": "https://blocto.app/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.cfdd90d4a00f7b5b.TeleportedTetherToken.Vault",
-      "website": "https://evm.flowscan.io/token/0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
     }
   ],
   "totalAmount": 66,
-  "filterType": "ALL",
-  "timestamp": "2025-02-09T01:19:44.246Z",
+  "filterType": "FEATURED",
+  "timestamp": "2025-02-09T01:19:44.870Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",

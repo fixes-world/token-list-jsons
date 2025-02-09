@@ -1,0 +1,193 @@
+{
+  "name": "Flow Token List",
+  "network": "mainnet",
+  "chainId": 747,
+  "tokens": [
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault",
+        "receiver": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbReceiver",
+        "balance": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault"
+      },
+      "evmAddress": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "ankrFLOWEVM",
+      "name": "Ankr Staked FLOW EVM",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "decimals": 18,
+      "logoURI": "https://www.ankr.com/staking/assets/flow.8fd052f2.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault",
+        "receiver": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedReceiver",
+        "balance": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault"
+      },
+      "evmAddress": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "USDF",
+      "name": "USD Flow",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1654653399040a61",
+      "contractName": "FlowToken",
+      "path": {
+        "vault": "/storage/flowTokenVault",
+        "receiver": "/public/flowTokenReceiver",
+        "balance": "/public/flowTokenBalance"
+      },
+      "evmAddress": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
+      "flowAddress": "0x1654653399040a61",
+      "symbol": "FLOW",
+      "name": "Flow",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "coingeckoId": "flow",
+        "website": "http://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xd6f80565193ad727",
+      "contractName": "stFlowToken",
+      "path": {
+        "vault": "/storage/stFlowTokenVault",
+        "receiver": "/public/stFlowTokenReceiver",
+        "balance": "/public/stFlowTokenBalance"
+      },
+      "evmAddress": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
+      "flowAddress": "0xd6f80565193ad727",
+      "symbol": "stFLOW",
+      "name": "Liquid Staked Flow",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
+        "website": "https://app.increment.fi/staking",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xf1ab99c82dee3526",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "flowAddress": "0xf1ab99c82dee3526",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC",
+      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "stablecoin"
+      ],
+      "extensions": {
+        "twitter": "https://x.com/flow_blockchain",
+        "coingeckoId": "usd-coin",
+        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
+    }
+  ],
+  "totalAmount": 5,
+  "filterType": "FEATURED",
+  "timestamp": "2025-02-09T01:19:44.134Z",
+  "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+  "keywords": [
+    "Flow",
+    "Cadence",
+    "EVM",
+    "DeFi",
+    "NFT",
+    "FT",
+    "Dapp",
+    "Blockchain",
+    "Crypto"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "wrapped-celer": {
+      "name": "wrapped-celer",
+      "description": "Asset wrapped using celer bridge"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
+    },
+    "governance-token": {
+      "name": "governance-token",
+      "description": "Tokens that are designed to be use in community governance and maintenance"
+    },
+    "memecoin": {
+      "name": "memecoin",
+      "description": "Tokens that are created for fun and meme"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}

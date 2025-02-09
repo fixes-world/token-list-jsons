@@ -1027,11 +1027,14 @@
       "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
       "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
-      "tags": [],
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
       "extensions": {
         "discord": "https://discord.com/invite/5K6qyTzj2k",
-        "instagram": "https://www.instagram.com/nflallday/",
         "twitter": "https://twitter.com/NFLAllDay",
+        "instagram": "https://www.instagram.com/nflallday/",
         "website": "https://nflallday.com/"
       },
       "flowIdentifier": "A.e4cf4bdc1751c65d.AllDay.NFT"
@@ -1096,9 +1099,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/driverzworld",
-        "discord": "https://discord.gg/driverz",
         "twitter": "https://twitter.com/DriverzWorld",
+        "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       },
       "flowIdentifier": "A.f887ece39166906e.CarClub.NFT"
@@ -1164,9 +1167,9 @@
       "bannerURI": "https://ipfs.io/ipfs/QmYn6vg1pCuKb6jWT3SDHuyX4NDyJB4wvcYarmsyppoGDS",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DriverzWorld/",
         "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
+        "twitter": "https://twitter.com/DriverzWorld/",
         "website": "https://driverz.world"
       },
       "flowIdentifier": "A.a039bd7d55a96c0c.DriverzNFT.NFT"
@@ -1211,10 +1214,10 @@
       "bannerURI": "",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Hot_Wheels",
         "facebook": "https://www.facebook.com/hotwheels",
-        "discord": "https://discord.gg/mattel",
+        "twitter": "https://twitter.com/Hot_Wheels",
         "instagram": "https://www.instagram.com/hotwheelsofficial/",
+        "discord": "https://discord.gg/mattel",
         "website": ""
       },
       "flowIdentifier": "A.d0bcefdf1e67ea85.HWGarageCard.NFT"
@@ -1299,8 +1302,8 @@
       "bannerURI": "https://i.tibles.com/m/sk8tibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/sk8tibles",
         "discord": "https://discord.gg/tibles",
+        "twitter": "https://twitter.com/sk8tibles",
         "website": "https://sk8tibles.com"
       },
       "flowIdentifier": "A.0a2fbb92a8ae5c6d.Sk8tibles.NFT"
@@ -1319,11 +1322,13 @@
       "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
       "logoURI": "https://nbatopshot.com/static/favicon/favicon.svg",
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
-      "tags": [],
+      "tags": [
+        "Pending"
+      ],
       "extensions": {
-        "twitter": "https://twitter.com/nbatopshot",
         "instagram": "https://www.instagram.com/nbatopshot",
         "discord": "https://discord.com/invite/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com"
       },
       "flowIdentifier": "A.0b2a3299cc857e29.TopShot.NFT"
@@ -1453,10 +1458,10 @@
       "bannerURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Horizontal_B.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/LaLigaGolazos",
-        "facebook": "https://www.facebook.com/LaLigaGolazos/",
         "discord": "https://discord.gg/LaLigaGolazos",
         "instagram": " https://instagram.com/laligaonflow",
+        "facebook": "https://www.facebook.com/LaLigaGolazos/",
+        "twitter": "https://twitter.com/LaLigaGolazos",
         "website": "https://laligagolazos.com/"
       },
       "flowIdentifier": "A.87ca73a41bb50ad5.Golazos.NFT"
@@ -1477,9 +1482,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/driverzworld",
-        "discord": "https://discord.gg/driverz",
         "twitter": "https://twitter.com/DriverzWorld",
+        "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       },
       "flowIdentifier": "A.f887ece39166906e.Helmet.NFT"
@@ -1521,17 +1526,17 @@
       "bannerURI": "https://flowverse.myfilebase.com/ipfs/QmaTj276rAUFoFiik84xCx1PYZnqZHcGp78vG6xqHLfoXo",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flowverse",
         "twitter": "https://twitter.com/flowverse_",
         "instagram": "https://www.instagram.com/flowverseofficial",
+        "discord": "https://discord.gg/flowverse",
         "website": "https://twitter.com/flowverse_"
       },
       "flowIdentifier": "A.9212a87501a8a6a2.Ordinal.NFT"
     }
   ],
   "totalAmount": 68,
-  "filterType": "ALL",
-  "timestamp": "2025-02-09T01:19:57.290Z",
+  "filterType": "REVIEWED",
+  "timestamp": "2025-02-09T01:19:57.609Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1560,7 +1565,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 1,
     "patch": 0
   }
 }

@@ -1,0 +1,66 @@
+{
+  "name": "Flow NFT List",
+  "network": "mainnet",
+  "chainId": 747,
+  "tokens": [
+    {
+      "chainId": 747,
+      "address": "0xe4cf4bdc1751c65d",
+      "contractName": "AllDay",
+      "path": {
+        "storage": "/storage/AllDayNFTCollection",
+        "public": "/public/AllDayNFTCollection"
+      },
+      "evmAddress": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0",
+      "flowAddress": "0xe4cf4bdc1751c65d",
+      "name": "NFL All Day",
+      "description": "Officially Licensed Digital Collectibles Featuring the NFL’s Best Highlights. Buy, Sell and Collect Your Favorite NFL Moments",
+      "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
+      "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/nflallday/",
+        "twitter": "https://twitter.com/NFLAllDay",
+        "discord": "https://discord.com/invite/5K6qyTzj2k",
+        "website": "https://nflallday.com/"
+      }
+    }
+  ],
+  "totalAmount": 1,
+  "filterType": "VERIFIED",
+  "timestamp": "2025-02-09T01:19:57.107Z",
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "wrapped-celer": {
+      "name": "wrapped-celer",
+      "description": "Asset wrapped using celer bridge"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
+    },
+    "governance-token": {
+      "name": "governance-token",
+      "description": "Tokens that are designed to be use in community governance and maintenance"
+    },
+    "memecoin": {
+      "name": "memecoin",
+      "description": "Tokens that are created for fun and meme"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
