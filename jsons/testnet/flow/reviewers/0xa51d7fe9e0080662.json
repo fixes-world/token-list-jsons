@@ -25,11 +25,11 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -58,6 +58,27 @@
       "extensions": {
         "website": "https://docs.axelar.dev/learn/axlusdc",
         "displaySource": "0xa51d7fe9e0080662"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0x566c813b3632783e",
+      "contractName": "EDGE",
+      "path": {
+        "vault": "/storage/EDGE24KaratVault",
+        "receiver": "/public/EDGE24KaratReceiver",
+        "balance": "/public/EDGE24KaratBalance"
+      },
+      "evmAddress": "0x7347354d480f2619e807ed48c1da713e805fc3e9",
+      "flowAddress": "0x566c813b3632783e",
+      "symbol": "EDGE",
+      "name": "EDGE Token",
+      "description": "EDGE Token",
+      "decimals": 8,
+      "logoURI": "https://placehold.co/128x128?text=EDGE",
+      "tags": [],
+      "extensions": {
+        "website": "https://market.24karat.io"
       }
     },
     {
@@ -97,6 +118,27 @@
       "name": "USDT",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 5b67057fa946a4a664546e3df9d2d1b1ab222f36",
       "decimals": 6,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0xdfc20aee650fcbdf",
+      "contractName": "EVMVMBridgedToken_c4f1dfc005cb2285b8a9ede7c525b0eedf24f5db",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_c4f1dfc005cb2285b8a9ede7c525b0eedf24f5dbVault",
+        "receiver": "/public/EVMVMBridgedToken_c4f1dfc005cb2285b8a9ede7c525b0eedf24f5dbReceiver",
+        "balance": "/public/EVMVMBridgedToken_c4f1dfc005cb2285b8a9ede7c525b0eedf24f5dbVault"
+      },
+      "evmAddress": "0xc4f1dfc005cb2285b8a9ede7c525b0eedf24f5db",
+      "flowAddress": "0xdfc20aee650fcbdf",
+      "symbol": "DOGE",
+      "name": "doge",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of c4f1dfc005cb2285b8a9ede7c525b0eedf24f5db",
+      "decimals": 18,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -333,6 +375,48 @@
     },
     {
       "chainId": 545,
+      "address": "0x566c813b3632783e",
+      "contractName": "JOSHIN",
+      "path": {
+        "vault": "/storage/JOSHIN24KaratVault",
+        "receiver": "/public/JOSHIN24KaratReceiver",
+        "balance": "/public/JOSHIN24KaratBalance"
+      },
+      "flowAddress": "0x566c813b3632783e",
+      "symbol": "JOSHIN",
+      "name": "JOSHIN Token",
+      "description": "JOSHIN Token",
+      "decimals": 8,
+      "logoURI": "https://placehold.co/128x128?text=JOSHIN",
+      "tags": [],
+      "extensions": {
+        "website": "https://market.24karat.io"
+      }
+    },
+    {
+      "chainId": 545,
+      "address": "0x566c813b3632783e",
+      "contractName": "TSTCON",
+      "path": {
+        "vault": "/storage/TSTCONVault",
+        "receiver": "/public/TSTCONReceiver",
+        "balance": "/public/TSTCONBalance"
+      },
+      "evmAddress": "0x5991fdd45c354db8e6bc7709b7f76c8b8988836f",
+      "flowAddress": "0x566c813b3632783e",
+      "symbol": "TSTCON",
+      "name": "Karat Fungible Token",
+      "description": "This collection is used for 24Karat market",
+      "decimals": 8,
+      "logoURI": "https://static.wixstatic.com/media/568614_5676993b65c64da29cecf24d323fd664~mv2.png/v1/fill/w_140,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/568614_5676993b65c64da29cecf24d323fd664~mv2.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/24karat_io",
+        "website": "https://market.24karat.io"
+      }
+    },
+    {
+      "chainId": 545,
       "address": "0xaa201615c0ecb331",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -354,9 +438,9 @@
       }
     }
   ],
-  "totalAmount": 16,
+  "totalAmount": 20,
   "filterType": "ALL",
-  "timestamp": "2025-01-15T01:15:04.842Z",
+  "timestamp": "2025-02-10T10:10:47.342Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -397,7 +481,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
