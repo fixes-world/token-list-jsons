@@ -102,8 +102,8 @@
       "bannerURI": "https://res.cloudinary.com/hxn7xk7oa/image/upload/v1675121458/doodles2_banner_ee7a035d05.jpg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Doodles",
         "discord": "https://discord.gg/doodles",
+        "twitter": "https://twitter.com/Doodles",
         "website": "https://doodles.app"
       }
     },
@@ -251,10 +251,10 @@
       "bannerURI": "https://i.imgur.com/4DOuqFf.jpeg",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/fixes-world",
-        "x": "https://twitter.com/fixesWorld",
-        "twitter": "https://twitter.com/fixesWorld",
         "linktree": "https://linktr.ee/fixes.world",
+        "github": "https://github.com/fixes-world",
+        "twitter": "https://twitter.com/fixesWorld",
+        "x": "https://twitter.com/fixesWorld",
         "website": "https://fixes.world/"
       }
     },
@@ -351,9 +351,9 @@
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/pEDTR4wSPr",
-        "twitter": "https://twitter.com/playMFL",
         "medium": "https://medium.com/playmfl",
+        "twitter": "https://twitter.com/playMFL",
+        "discord": "https://discord.gg/pEDTR4wSPr",
         "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
@@ -373,10 +373,10 @@
       "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/playMFL",
-        "discord": "https://discord.gg/pEDTR4wSPr",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "medium": "https://medium.com/playmfl",
+        "discord": "https://discord.gg/pEDTR4wSPr",
+        "twitter": "https://twitter.com/playMFL",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -395,9 +395,9 @@
       "bannerURI": "https://media-local.gigantik.io/nba/banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/nbatopshot",
         "instagram": "https://www.instagram.com/nbatopshot",
         "twitter": "https://twitter.com/nbatopshot",
+        "discord": "https://discord.gg/nbatopshot",
         "website": "https://nbatopshot.com/"
       }
     },
@@ -490,6 +490,7 @@
         "storage": "/storage/MomentCollection",
         "public": "/public/MomentCollection"
       },
+      "evmAddress": "0xb3627e6f7f1cc981217f789d7737b1f3a93ec519",
       "flowAddress": "0x877931736ee77cff",
       "name": "NBA-Top-Shot",
       "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
@@ -497,9 +498,9 @@
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/nbatopshot",
         "instagram": "https://www.instagram.com/nbatopshot",
         "discord": "https://discord.com/invite/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com"
       }
     },
@@ -536,11 +537,11 @@
       "bannerURI": "https://www.tunegonft.com/assets/images/tunego-beta-logo.png",
       "tags": [],
       "extensions": {
-        "facebook": "https://www.facebook.com/tunego",
+        "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
         "instagram": "https://www.instagram.com/tunego",
         "discord": "https://discord.gg/nsGnsRbMke",
-        "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
         "twitter": "https://twitter.com/TuneGONFTV5",
+        "facebook": "https://www.facebook.com/tunego",
         "website": "https://www.tunegonft.com/"
       }
     },
@@ -600,19 +601,19 @@
       "bannerURI": "https://play.zeedz.io/background-zeedz.jpg",
       "tags": [],
       "extensions": {
-        "discord": "http://discord.com/invite/zeedz",
         "linkedin": "https://www.linkedin.com/company/zeedz",
-        "youtube": "https://www.youtube.com/c/zeedz_official",
         "twitter": "https://twitter.com/zeedz_official",
+        "discord": "http://discord.com/invite/zeedz",
         "instagram": "https://www.instagram.com/zeedz_official/",
         "medium": "https://blog.zeedz.io/",
+        "youtube": "https://www.youtube.com/c/zeedz_official",
         "website": "https://play.zeedz.io"
       }
     }
   ],
   "totalAmount": 29,
   "filterType": "ALL",
-  "timestamp": "2025-02-10T09:50:40.911Z",
+  "timestamp": "2025-02-12T01:16:30.929Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -640,8 +641,8 @@
     }
   },
   "version": {
-    "major": 2,
+    "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
