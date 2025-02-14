@@ -1666,6 +1666,30 @@
     },
     {
       "chainId": 747,
+      "address": "0x7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
+      "contractName": "EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8ccVault",
+        "receiver": "/public/EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8ccReceiver",
+        "balance": "/public/EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8ccVault"
+      },
+      "evmAddress": "0x7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "CLIPP",
+      "name": "Clippy",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
+      "decimals": 18,
+      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/8531bc49-9f9b-45cb-8c37-ff07b2597663.jpg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8cc.Vault",
+      "website": "https://evm.flowscan.io/token/0x7eb4e122c9bbb5cfa3078067a570afe90758d8cc"
+    },
+    {
+      "chainId": 747,
       "address": "0x9fd545a2ab116154949974eb32e8a166522da61b",
       "contractName": "EVMVMBridgedToken_9fd545a2ab116154949974eb32e8a166522da61b",
       "path": {
@@ -1736,9 +1760,9 @@
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 68,
+  "totalAmount": 69,
   "filterType": "FEATURED",
-  "timestamp": "2025-02-13T01:16:23.341Z",
+  "timestamp": "2025-02-14T05:09:51.268Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1779,7 +1803,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
