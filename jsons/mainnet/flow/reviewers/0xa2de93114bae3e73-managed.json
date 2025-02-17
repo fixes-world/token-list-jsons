@@ -86,7 +86,7 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "twitter": "https://x.com/flow_blockchain",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
@@ -433,32 +433,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x3c5959b568896393",
-      "contractName": "FUSD",
-      "path": {
-        "vault": "/storage/fusdVault",
-        "receiver": "/public/fusdReceiver",
-        "balance": "/public/fusdBalance"
-      },
-      "evmAddress": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
-      "flowAddress": "0x3c5959b568896393",
-      "symbol": "FUSD",
-      "name": "FUSD(Deprecated)",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
-      "tags": [
-        "Verified",
-        "Deprecated"
-      ],
-      "extensions": {
-        "website": "http://flow.com/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0xd01e482eb680ec9f",
       "contractName": "REVV",
       "path": {
@@ -638,11 +612,37 @@
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x3c5959b568896393",
+      "contractName": "FUSD",
+      "path": {
+        "vault": "/storage/fusdVault",
+        "receiver": "/public/fusdReceiver",
+        "balance": "/public/fusdBalance"
+      },
+      "evmAddress": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
+      "flowAddress": "0x3c5959b568896393",
+      "symbol": "FUSD",
+      "name": "FUSD(Deprecated)",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
+      "tags": [
+        "Blocked",
+        "Deprecated"
+      ],
+      "extensions": {
+        "website": "http://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
     }
   ],
   "totalAmount": 24,
   "filterType": "MANAGED",
-  "timestamp": "2024-12-22T01:22:12.426Z",
+  "timestamp": "2025-02-17T15:44:44.980Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -684,6 +684,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   }
 }

@@ -24,6 +24,7 @@
         "Featured"
       ],
       "extensions": {
+        "coingeckoId": "ankr-staked-flow",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -46,9 +47,67 @@
       "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
       "tags": [
         "Verified",
-        "Featured"
+        "Featured",
+        "bridged-coin",
+        "stablecoin"
       ],
       "extensions": {
+        "coingeckoId": "flow-bridged-pyusd-flow",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_2f6f07cdcf3588944bf4c42ac74ff24bf56e7590Vault",
+        "receiver": "/public/EVMVMBridgedToken_2f6f07cdcf3588944bf4c42ac74ff24bf56e7590Receiver",
+        "balance": "/public/EVMVMBridgedToken_2f6f07cdcf3588944bf4c42ac74ff24bf56e7590Vault"
+      },
+      "evmAddress": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "stgWETH",
+      "name": "Bridged WETH (Stargate)",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
+      "tags": [
+        "Verified",
+        "Featured",
+        "bridged-coin"
+      ],
+      "extensions": {
+        "coingeckoId": "stargate-bridged-weth-flow",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Vault",
+        "receiver": "/public/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Receiver",
+        "balance": "/public/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Vault"
+      },
+      "evmAddress": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "stgUSDC",
+      "name": "Bridged USDC (Stargate)",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "tags": [
+        "Verified",
+        "Featured",
+        "stablecoin",
+        "bridged-coin"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -137,16 +196,16 @@
       ],
       "extensions": {
         "twitter": "https://x.com/flow_blockchain",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
     }
   ],
-  "totalAmount": 5,
+  "totalAmount": 7,
   "filterType": "FEATURED",
-  "timestamp": "2025-01-15T22:05:46.297Z",
+  "timestamp": "2025-02-17T15:44:45.893Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -187,7 +246,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

@@ -65,8 +65,12 @@
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
-      "tags": [],
+      "tags": [
+        "bridged-coin",
+        "stablecoin"
+      ],
       "extensions": {
+        "coingeckoId": "flow-bridged-pyusd-flow",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -517,8 +521,12 @@
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
-      "tags": [],
+      "tags": [
+        "stablecoin",
+        "bridged-coin"
+      ],
       "extensions": {
+        "coingeckoId": "usd-coin",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -755,8 +763,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidrywo4xhmfqtzjbqxplwjfwhuvifsfquc7q7zoysg6bdrxjbxa5e",
       "tags": [],
       "extensions": {
-        "twitter": "aisportspro",
         "discord": "VKvUxMwu5r",
+        "twitter": "aisportspro",
         "website": "www.aisportspro.com"
       },
       "flowIdentifier": "A.9db94c9564243ba7.aiSportsJuice.Vault",
@@ -780,6 +788,7 @@
       "logoURI": "https://www.ankr.com/staking/assets/flow.8fd052f2.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "ankr-staked-flow",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1068,7 +1077,7 @@
       ],
       "extensions": {
         "twitter": "https://x.com/flow_blockchain",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1241,8 +1250,12 @@
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 674843c06ff83502ddb4d37c2e09c01cda38cbc8",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
-      "tags": [],
+      "tags": [
+        "stablecoin",
+        "bridged-coin"
+      ],
       "extensions": {
+        "coingeckoId": "tether",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1550,8 +1563,11 @@
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
-      "tags": [],
+      "tags": [
+        "bridged-coin"
+      ],
       "extensions": {
+        "coingeckoId": "stargate-bridged-weth-flow",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1708,7 +1724,7 @@
   ],
   "totalAmount": 69,
   "filterType": "ALL",
-  "timestamp": "2025-02-14T05:09:40.297Z",
+  "timestamp": "2025-02-17T15:44:47.484Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1749,7 +1765,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
