@@ -134,8 +134,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "coingeckoId": "flow",
@@ -166,8 +166,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -195,8 +195,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "twitter": "https://x.com/flow_blockchain",
         "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "twitter": "https://x.com/flow_blockchain",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -205,7 +205,7 @@
   ],
   "totalAmount": 7,
   "filterType": "FEATURED",
-  "timestamp": "2025-02-17T15:44:45.893Z",
+  "timestamp": "2025-02-19T01:16:26.809Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -246,7 +246,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

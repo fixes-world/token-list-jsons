@@ -134,9 +134,9 @@
         "utility-token"
       ],
       "extensions": {
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "coingeckoId": "flow",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
@@ -351,8 +351,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "coingeckoId": "binancecoin",
+        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -377,8 +377,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "coingeckoId": "binance-usd",
+        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -404,8 +404,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
+        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -506,8 +506,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -635,8 +635,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/HITonflow",
         "discord": "",
+        "twitter": "https://twitter.com/HITonflow",
         "website": ""
       }
     },
@@ -738,8 +738,8 @@
       ],
       "extensions": {
         "discord": "https://discord.com/invite/GYV8JRR",
-        "twitter": "https://twitter.com/SloppyStakesDAO",
         "telegram": "https://t.co/E8FzKLuMnH",
+        "twitter": "https://twitter.com/SloppyStakesDAO",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -871,8 +871,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -998,8 +998,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "twitter": "https://x.com/flow_blockchain",
         "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "twitter": "https://x.com/flow_blockchain",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1034,7 +1034,7 @@
   ],
   "totalAmount": 39,
   "filterType": "REVIEWED",
-  "timestamp": "2025-02-17T15:44:44.533Z",
+  "timestamp": "2025-02-19T01:16:25.020Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1075,7 +1075,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 3,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
