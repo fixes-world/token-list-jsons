@@ -106,8 +106,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "twitter": "https://x.com/flow_blockchain",
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -264,8 +264,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "avalanche-2",
         "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "coingeckoId": "avalanche-2",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -291,8 +291,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
+        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1060,29 +1060,6 @@
     },
     {
       "chainId": 747,
-      "address": "0xa9102e56a8b7a680",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Vault",
-        "receiver": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Receiver",
-        "balance": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Balance"
-      },
-      "evmAddress": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
-      "flowAddress": "0xa9102e56a8b7a680",
-      "symbol": "TRUMP_2024",
-      "name": "Trump 2024",
-      "description": "2024.07.13 @Pennsylvania",
-      "decimals": 8,
-      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
-      "tags": [],
-      "extensions": {
-        "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
-        "website": "https://linktr.ee/fixes.world/",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0xfd1ccaaae39d0e79",
       "contractName": "Pokertime",
       "path": {
@@ -1150,6 +1127,28 @@
         "twitter": "TopShotRewards",
         "discord": "Eh5c8k2gUu",
         "website": ""
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x05b67ba314000b2d",
+      "contractName": "TSHOT",
+      "path": {
+        "vault": "/storage/TSHOTTokenVault",
+        "receiver": "/public/TSHOTTokenReceiver",
+        "balance": "/public/TSHOTTokenBalance"
+      },
+      "evmAddress": "0xc618a7356fcf601f694c51578cd94144deaee690",
+      "flowAddress": "0x05b67ba314000b2d",
+      "symbol": "TSHOT",
+      "name": "TSHOT Token",
+      "description": "TSHOT is a token minted by exchanging Common or Fandom Top Shot Moments.",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/momentswap/images/Vaultopolis.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/Vaultopolis",
+        "website": "https://vaultopolis.com"
       }
     },
     {
@@ -1224,11 +1223,11 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
         "coingeckoId": "flow",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1256,8 +1255,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1310,8 +1309,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binancecoin",
         "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "coingeckoId": "binancecoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1465,8 +1464,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1492,8 +1491,8 @@
         "memecoin"
       ],
       "extensions": {
-        "telegram": "https://t.co/E8FzKLuMnH",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "telegram": "https://t.co/E8FzKLuMnH",
         "discord": "https://discord.com/invite/GYV8JRR",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -1547,8 +1546,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "wGjBcsGjcG",
         "twitter": "UtahJazzLegends",
+        "discord": "wGjBcsGjcG",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1574,8 +1573,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1619,8 +1618,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "h6xXUCDqth",
         "twitter": "_damo420",
+        "discord": "h6xXUCDqth",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -1945,6 +1944,29 @@
     },
     {
       "chainId": 747,
+      "address": "0xa9102e56a8b7a680",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Vault",
+        "receiver": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Receiver",
+        "balance": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Balance"
+      },
+      "evmAddress": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
+      "flowAddress": "0xa9102e56a8b7a680",
+      "symbol": "TRUMP_2024",
+      "name": "Trump 2024",
+      "description": "2024.07.13 @Pennsylvania",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
+        "website": "https://linktr.ee/fixes.world/",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x763991b1118c20e7",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -1981,8 +2003,8 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/fixesWorld",
         "telegram": "https://t.me/fixes_world",
+        "twitter": "https://x.com/fixesWorld",
         "github": "https://github.com/fixes-world",
         "website": "https://linktr.ee/fixes.world"
       }
@@ -2153,8 +2175,8 @@
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "NkGrRaaUCv",
+        "twitter": "TopShotBETA",
         "website": "topshotbeta.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2210,9 +2232,9 @@
       }
     }
   ],
-  "totalAmount": 94,
+  "totalAmount": 95,
   "filterType": "ALL",
-  "timestamp": "2025-02-19T01:16:24.278Z",
+  "timestamp": "2025-02-20T01:16:40.112Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2253,7 +2275,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

@@ -102,8 +102,8 @@
       "bannerURI": "https://res.cloudinary.com/hxn7xk7oa/image/upload/v1675121458/doodles2_banner_ee7a035d05.jpg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/doodles",
         "twitter": "https://twitter.com/Doodles",
+        "discord": "https://discord.gg/doodles",
         "website": "https://doodles.app"
       }
     },
@@ -353,8 +353,8 @@
       "extensions": {
         "medium": "https://medium.com/playmfl",
         "twitter": "https://twitter.com/playMFL",
-        "discord": "https://discord.gg/pEDTR4wSPr",
         "linkedin": "https://www.linkedin.com/company/playmfl",
+        "discord": "https://discord.gg/pEDTR4wSPr",
         "website": "https://playmfl.com"
       }
     },
@@ -374,9 +374,9 @@
       "tags": [],
       "extensions": {
         "medium": "https://medium.com/playmfl",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
         "twitter": "https://twitter.com/playMFL",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -396,8 +396,8 @@
       "tags": [],
       "extensions": {
         "instagram": "https://www.instagram.com/nbatopshot",
-        "twitter": "https://twitter.com/nbatopshot",
         "discord": "https://discord.gg/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com/"
       }
     },
@@ -499,8 +499,8 @@
       "tags": [],
       "extensions": {
         "instagram": "https://www.instagram.com/nbatopshot",
-        "discord": "https://discord.com/invite/nbatopshot",
         "twitter": "https://twitter.com/nbatopshot",
+        "discord": "https://discord.com/invite/nbatopshot",
         "website": "https://nbatopshot.com"
       }
     },
@@ -537,11 +537,11 @@
       "bannerURI": "https://www.tunegonft.com/assets/images/tunego-beta-logo.png",
       "tags": [],
       "extensions": {
-        "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
+        "facebook": "https://www.facebook.com/tunego",
+        "twitter": "https://twitter.com/TuneGONFTV5",
         "instagram": "https://www.instagram.com/tunego",
         "discord": "https://discord.gg/nsGnsRbMke",
-        "twitter": "https://twitter.com/TuneGONFTV5",
-        "facebook": "https://www.facebook.com/tunego",
+        "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
         "website": "https://www.tunegonft.com/"
       }
     },
@@ -581,8 +581,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmWEsThoSdJHNVcwexYuSucR4MEGhkJEH6NCzdTV71y6GN",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/doodles",
         "twitter": "https://twitter.com/doodles",
+        "discord": "https://discord.gg/doodles",
         "website": "https://doodles.app"
       }
     },
@@ -601,19 +601,19 @@
       "bannerURI": "https://play.zeedz.io/background-zeedz.jpg",
       "tags": [],
       "extensions": {
-        "linkedin": "https://www.linkedin.com/company/zeedz",
-        "twitter": "https://twitter.com/zeedz_official",
         "discord": "http://discord.com/invite/zeedz",
         "instagram": "https://www.instagram.com/zeedz_official/",
         "medium": "https://blog.zeedz.io/",
         "youtube": "https://www.youtube.com/c/zeedz_official",
+        "linkedin": "https://www.linkedin.com/company/zeedz",
+        "twitter": "https://twitter.com/zeedz_official",
         "website": "https://play.zeedz.io"
       }
     }
   ],
   "totalAmount": 29,
   "filterType": "ALL",
-  "timestamp": "2025-02-12T01:16:30.929Z",
+  "timestamp": "2025-02-20T01:17:13.473Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -643,6 +643,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
