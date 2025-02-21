@@ -1144,7 +1144,7 @@
       "name": "TSHOT Token",
       "description": "TSHOT is a token minted by exchanging Common or Fandom Top Shot Moments.",
       "decimals": 8,
-      "logoURI": "https://storage.googleapis.com/momentswap/images/Vaultopolis.png",
+      "logoURI": "https://storage.googleapis.com/vaultopolis/TSHOT.png",
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/Vaultopolis",
@@ -2234,7 +2234,7 @@
   ],
   "totalAmount": 95,
   "filterType": "ALL",
-  "timestamp": "2025-02-20T01:16:40.112Z",
+  "timestamp": "2025-02-21T01:16:52.518Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2275,7 +2275,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
