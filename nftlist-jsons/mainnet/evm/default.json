@@ -1096,9 +1096,9 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/driverzworld",
-        "discord": "https://discord.gg/driverz",
         "twitter": "https://twitter.com/DriverzWorld",
+        "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       },
       "flowIdentifier": "A.f887ece39166906e.CarClub.NFT"
@@ -1164,9 +1164,9 @@
       "bannerURI": "https://ipfs.io/ipfs/QmYn6vg1pCuKb6jWT3SDHuyX4NDyJB4wvcYarmsyppoGDS",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DriverzWorld/",
         "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
+        "twitter": "https://twitter.com/DriverzWorld/",
         "website": "https://driverz.world"
       },
       "flowIdentifier": "A.a039bd7d55a96c0c.DriverzNFT.NFT"
@@ -1211,10 +1211,10 @@
       "bannerURI": "",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Hot_Wheels",
         "facebook": "https://www.facebook.com/hotwheels",
-        "discord": "https://discord.gg/mattel",
+        "twitter": "https://twitter.com/Hot_Wheels",
         "instagram": "https://www.instagram.com/hotwheelsofficial/",
+        "discord": "https://discord.gg/mattel",
         "website": ""
       },
       "flowIdentifier": "A.d0bcefdf1e67ea85.HWGarageCard.NFT"
@@ -1299,8 +1299,8 @@
       "bannerURI": "https://i.tibles.com/m/sk8tibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/sk8tibles",
         "discord": "https://discord.gg/tibles",
+        "twitter": "https://twitter.com/sk8tibles",
         "website": "https://sk8tibles.com"
       },
       "flowIdentifier": "A.0a2fbb92a8ae5c6d.Sk8tibles.NFT"
@@ -1321,9 +1321,9 @@
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/nbatopshot",
         "instagram": "https://www.instagram.com/nbatopshot",
         "discord": "https://discord.com/invite/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com"
       },
       "flowIdentifier": "A.0b2a3299cc857e29.TopShot.NFT"
@@ -1531,7 +1531,7 @@
   ],
   "totalAmount": 68,
   "filterType": "ALL",
-  "timestamp": "2024-12-25T01:15:43.875Z",
+  "timestamp": "2025-02-25T01:18:38.109Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1561,6 +1561,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
