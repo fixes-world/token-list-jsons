@@ -492,7 +492,7 @@
       },
       "evmAddress": "0xb3627e6f7f1cc981217f789d7737b1f3a93ec519",
       "flowAddress": "0x877931736ee77cff",
-      "name": "NBA-Top-Shot",
+      "name": "NBA Top Shot",
       "description": "NBA Top Shot is your chance to own, sell, and trade official digital collectibles of the NBA and WNBA's greatest plays and players",
       "logoURI": "https://nbatopshot.com/static/favicon/favicon.svg",
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
@@ -613,7 +613,7 @@
   ],
   "totalAmount": 29,
   "filterType": "ALL",
-  "timestamp": "2025-02-20T01:17:13.473Z",
+  "timestamp": "2025-02-27T01:18:41.456Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -643,6 +643,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
