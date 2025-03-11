@@ -914,6 +914,29 @@
     },
     {
       "chainId": 747,
+      "address": "0xa7cf2260e501952c71189d04fad17c704dfb36e6",
+      "contractName": "EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Vault",
+        "receiver": "/public/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Receiver",
+        "balance": "/public/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Vault"
+      },
+      "evmAddress": "0xa7cf2260e501952c71189d04fad17c704dfb36e6",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "CTK",
+      "name": "ClickToken",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of a7cf2260e501952c71189d04fad17c704dfb36e6",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6.Vault",
+      "website": "https://evm.flowscan.io/token/0xa7cf2260e501952c71189d04fad17c704dfb36e6"
+    },
+    {
+      "chainId": 747,
       "address": "0xc54bc6c8d5c687800e4a39588a50db8d1025a971",
       "contractName": "EVMVMBridgedToken_c54bc6c8d5c687800e4a39588a50db8d1025a971",
       "path": {
@@ -976,8 +999,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/HITonflow",
         "discord": "",
+        "twitter": "https://twitter.com/HITonflow",
         "website": ""
       },
       "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
@@ -1001,8 +1024,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1060,35 +1083,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "contractName": "USDCFlow",
-      "path": {
-        "vault": "/storage/usdcFlowVault",
-        "receiver": "/public/usdcFlowReceiver",
-        "balance": "/public/usdcFlowMetadata"
-      },
-      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "flowAddress": "0xf1ab99c82dee3526",
-      "symbol": "USDC.e",
-      "name": "Bridged USDC",
-      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-        "coingeckoId": "celer-bridged-usdc-flow-evm",
-        "twitter": "https://x.com/flow_blockchain",
-        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
-      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
-    },
-    {
-      "chainId": 747,
       "address": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
       "contractName": "Vampire",
       "path": {
@@ -1130,8 +1124,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "alldayunlimited",
         "twitter": "",
+        "discord": "alldayunlimited",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1156,39 +1150,14 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Ballerz__FC",
         "discord": "https://discord.com/invite/sDBp8YdH",
+        "twitter": "https://twitter.com/Ballerz__FC",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.4ea047c3e73ca460.BallerzFC.Vault",
       "website": "https://evm.flowscan.io/token/0xd2bff0d1afc88849c012d08d16906065303977af"
-    },
-    {
-      "chainId": 747,
-      "address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
-      "contractName": "Beaver",
-      "path": {
-        "vault": "/storage/BeaverVault",
-        "receiver": "/public/BeaverReceiver",
-        "balance": "/public/BeaverMetadata"
-      },
-      "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
-      "flowAddress": "0x687e1a7aef17b78b",
-      "symbol": "PUSS",
-      "name": "Beaver",
-      "description": "Hey, nice beaverTelegram: @beavercoinflow",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/pIwQW2b.png",
-      "tags": [],
-      "extensions": {
-        "discord": "",
-        "twitter": "beavercoinflow",
-        "website": "beavercoin.io"
-      },
-      "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
-      "website": "https://evm.flowscan.io/token/0xcd2336c1a78662c1302eb916ff3d49a073af2056"
     },
     {
       "chainId": 747,
@@ -1399,11 +1368,11 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
         "twitter": "https://twitter.com/flow_blockchain",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1468,6 +1437,35 @@
     },
     {
       "chainId": 747,
+      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "flowAddress": "0xf1ab99c82dee3526",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC",
+      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "twitter": "https://x.com/flow_blockchain",
+        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
+      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
+    },
+    {
+      "chainId": 747,
       "address": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
       "contractName": "UtahJazzLegendsClub",
       "path": {
@@ -1484,13 +1482,38 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "wGjBcsGjcG",
         "twitter": "UtahJazzLegends",
+        "discord": "wGjBcsGjcG",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.cbba4d41aef83fe3.UtahJazzLegendsClub.Vault",
       "website": "https://evm.flowscan.io/token/0xff827ae7ce750ef0037aea09f509f9755ae20275"
+    },
+    {
+      "chainId": 747,
+      "address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
+      "contractName": "Beaver",
+      "path": {
+        "vault": "/storage/BeaverVault",
+        "receiver": "/public/BeaverReceiver",
+        "balance": "/public/BeaverMetadata"
+      },
+      "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
+      "flowAddress": "0x687e1a7aef17b78b",
+      "symbol": "PUSS",
+      "name": "Beaver",
+      "description": "Hey, nice beaverTelegram: @beavercoinflow",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/pIwQW2b.png",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "beavercoinflow",
+        "website": "beavercoin.io"
+      },
+      "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
+      "website": "https://evm.flowscan.io/token/0xcd2336c1a78662c1302eb916ff3d49a073af2056"
     },
     {
       "chainId": 747,
@@ -1747,9 +1770,9 @@
       "website": "https://evm.flowscan.io/token/0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
     }
   ],
-  "totalAmount": 70,
+  "totalAmount": 71,
   "filterType": "ALL",
-  "timestamp": "2025-02-21T01:16:57.043Z",
+  "timestamp": "2025-03-11T01:20:08.882Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1790,7 +1813,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }

@@ -1583,6 +1583,27 @@
     {
       "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Vault",
+        "receiver": "/public/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Receiver",
+        "balance": "/public/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Vault"
+      },
+      "evmAddress": "0xa7cf2260e501952c71189d04fad17c704dfb36e6",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "CTK",
+      "name": "ClickToken",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of a7cf2260e501952c71189d04fad17c704dfb36e6",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
       "contractName": "EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04baVault",
@@ -2164,9 +2185,9 @@
       }
     }
   ],
-  "totalAmount": 95,
+  "totalAmount": 96,
   "filterType": "ALL",
-  "timestamp": "2025-02-24T01:18:47.059Z",
+  "timestamp": "2025-03-11T01:20:01.927Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2207,7 +2228,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

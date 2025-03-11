@@ -790,37 +790,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "contractName": "USDCFlow",
-      "path": {
-        "vault": "/storage/usdcFlowVault",
-        "receiver": "/public/usdcFlowReceiver",
-        "balance": "/public/usdcFlowMetadata"
-      },
-      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "flowAddress": "0xf1ab99c82dee3526",
-      "symbol": "USDC.e",
-      "name": "Bridged USDC",
-      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
-      "tags": [
-        "Verified",
-        "Featured",
-        "stablecoin"
-      ],
-      "extensions": {
-        "twitter": "https://x.com/flow_blockchain",
-        "coingeckoId": "celer-bridged-usdc-flow-evm",
-        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
-      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
-    },
-    {
-      "chainId": 747,
       "address": "0x3a33c904c132822ce01948ce318c15988727d1db",
       "contractName": "aiSportsJuice",
       "path": {
@@ -868,8 +837,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/HITonflow",
         "discord": "",
+        "twitter": "https://twitter.com/HITonflow",
         "website": ""
       },
       "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
@@ -895,8 +864,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1076,6 +1045,29 @@
     },
     {
       "chainId": 747,
+      "address": "0xa7cf2260e501952c71189d04fad17c704dfb36e6",
+      "contractName": "EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Vault",
+        "receiver": "/public/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Receiver",
+        "balance": "/public/EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6Vault"
+      },
+      "evmAddress": "0xa7cf2260e501952c71189d04fad17c704dfb36e6",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "CTK",
+      "name": "ClickToken",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of a7cf2260e501952c71189d04fad17c704dfb36e6",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6.Vault",
+      "website": "https://evm.flowscan.io/token/0xa7cf2260e501952c71189d04fad17c704dfb36e6"
+    },
+    {
+      "chainId": 747,
       "address": "0xc54bc6c8d5c687800e4a39588a50db8d1025a971",
       "contractName": "EVMVMBridgedToken_c54bc6c8d5c687800e4a39588a50db8d1025a971",
       "path": {
@@ -1166,11 +1158,11 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "coingeckoId": "flow",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1211,6 +1203,37 @@
     },
     {
       "chainId": 747,
+      "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "flowAddress": "0xf1ab99c82dee3526",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC",
+      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "Verified",
+        "Featured",
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "twitter": "https://x.com/flow_blockchain",
+        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
+      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
+    },
+    {
+      "chainId": 747,
       "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
       "contractName": "ADUToken",
       "path": {
@@ -1229,8 +1252,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "alldayunlimited",
+        "twitter": "",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1257,42 +1280,14 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/sDBp8YdH",
         "twitter": "https://twitter.com/Ballerz__FC",
+        "discord": "https://discord.com/invite/sDBp8YdH",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.4ea047c3e73ca460.BallerzFC.Vault",
       "website": "https://evm.flowscan.io/token/0xd2bff0d1afc88849c012d08d16906065303977af"
-    },
-    {
-      "chainId": 747,
-      "address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
-      "contractName": "Beaver",
-      "path": {
-        "vault": "/storage/BeaverVault",
-        "receiver": "/public/BeaverReceiver",
-        "balance": "/public/BeaverMetadata"
-      },
-      "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
-      "flowAddress": "0x687e1a7aef17b78b",
-      "symbol": "PUSS",
-      "name": "Beaver",
-      "description": "Hey, nice beaverTelegram: @beavercoinflow",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/pIwQW2b.png",
-      "tags": [
-        "Verified",
-        "memecoin"
-      ],
-      "extensions": {
-        "discord": "",
-        "twitter": "beavercoinflow",
-        "website": "beavercoin.io"
-      },
-      "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
-      "website": "https://evm.flowscan.io/token/0xcd2336c1a78662c1302eb916ff3d49a073af2056"
     },
     {
       "chainId": 747,
@@ -1370,8 +1365,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "wGjBcsGjcG",
         "twitter": "UtahJazzLegends",
+        "discord": "wGjBcsGjcG",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1572,6 +1567,34 @@
     },
     {
       "chainId": 747,
+      "address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
+      "contractName": "Beaver",
+      "path": {
+        "vault": "/storage/BeaverVault",
+        "receiver": "/public/BeaverReceiver",
+        "balance": "/public/BeaverMetadata"
+      },
+      "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
+      "flowAddress": "0x687e1a7aef17b78b",
+      "symbol": "PUSS",
+      "name": "Beaver",
+      "description": "Hey, nice beaverTelegram: @beavercoinflow",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/pIwQW2b.png",
+      "tags": [
+        "Verified",
+        "memecoin"
+      ],
+      "extensions": {
+        "discord": "",
+        "twitter": "beavercoinflow",
+        "website": "beavercoin.io"
+      },
+      "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
+      "website": "https://evm.flowscan.io/token/0xcd2336c1a78662c1302eb916ff3d49a073af2056"
+    },
+    {
+      "chainId": 747,
       "address": "0x76a56657d20f572872a81b75530c905fd9f845e5",
       "contractName": "brasil",
       "path": {
@@ -1590,8 +1613,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1804,9 +1827,9 @@
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 70,
+  "totalAmount": 71,
   "filterType": "FEATURED",
-  "timestamp": "2025-02-21T01:17:06.267Z",
+  "timestamp": "2025-03-11T01:20:18.780Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1847,7 +1870,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
