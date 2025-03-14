@@ -678,8 +678,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Club Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/clubs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/clubs/banner.png",
       "tags": [],
       "extensions": {
         "linkedin": "https://www.linkedin.com/company/playmfl",
@@ -701,8 +701,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Player Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/players/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/players/banner.png",
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/playMFL",
@@ -1528,8 +1528,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Pack Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/packs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/packs/banner.png",
       "tags": [],
       "extensions": {
         "discord": "https://discord.gg/pEDTR4wSPr",
@@ -1649,7 +1649,7 @@
   ],
   "totalAmount": 77,
   "filterType": "ALL",
-  "timestamp": "2025-02-27T01:18:30.429Z",
+  "timestamp": "2025-03-14T01:19:26.879Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1679,6 +1679,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }

@@ -102,8 +102,8 @@
       "bannerURI": "https://res.cloudinary.com/hxn7xk7oa/image/upload/v1675121458/doodles2_banner_ee7a035d05.jpg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Doodles",
         "discord": "https://discord.gg/doodles",
+        "twitter": "https://twitter.com/Doodles",
         "website": "https://doodles.app"
       }
     },
@@ -347,8 +347,8 @@
       "flowAddress": "0x683564e46977788a",
       "name": "MFL Pack Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/packs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/packs/banner.png",
       "tags": [],
       "extensions": {
         "medium": "https://medium.com/playmfl",
@@ -369,13 +369,13 @@
       "flowAddress": "0x683564e46977788a",
       "name": "MFL Player Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/players/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/players/banner.png",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/playmfl",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
+        "medium": "https://medium.com/playmfl",
         "twitter": "https://twitter.com/playMFL",
         "website": "https://playmfl.com"
       }
@@ -395,9 +395,9 @@
       "bannerURI": "https://media-local.gigantik.io/nba/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/nbatopshot",
         "discord": "https://discord.gg/nbatopshot",
         "twitter": "https://twitter.com/nbatopshot",
+        "instagram": "https://www.instagram.com/nbatopshot",
         "website": "https://nbatopshot.com/"
       }
     },
@@ -537,11 +537,11 @@
       "bannerURI": "https://www.tunegonft.com/assets/images/tunego-beta-logo.png",
       "tags": [],
       "extensions": {
-        "facebook": "https://www.facebook.com/tunego",
-        "twitter": "https://twitter.com/TuneGONFTV5",
         "instagram": "https://www.instagram.com/tunego",
+        "twitter": "https://twitter.com/TuneGONFTV5",
         "discord": "https://discord.gg/nsGnsRbMke",
         "tiktok": "https://www.tiktok.com/@tunegoadmin?lang=en",
+        "facebook": "https://www.facebook.com/tunego",
         "website": "https://www.tunegonft.com/"
       }
     },
@@ -613,7 +613,7 @@
   ],
   "totalAmount": 29,
   "filterType": "ALL",
-  "timestamp": "2025-02-27T01:18:41.456Z",
+  "timestamp": "2025-03-14T01:19:38.190Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -643,6 +643,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }

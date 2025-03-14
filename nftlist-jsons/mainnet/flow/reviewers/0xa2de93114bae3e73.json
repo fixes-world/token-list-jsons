@@ -82,8 +82,8 @@
       "bannerURI": "https://media-local.gigantik.io/bobblz/banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
+        "discord": "https://discord.gg/giglabs",
         "instagram": "",
         "website": "https://Bobblz.shops.gigantik.io/"
       }
@@ -104,9 +104,9 @@
       "bannerURI": "https://media-local.gigantik.io/breakingt/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/gigantik_",
         "instagram": "",
         "discord": "https://discord.gg/giglabs",
+        "twitter": "https://x.com/gigantik_",
         "website": "https://BreakingT.shops.gigantik.io/"
       }
     },
@@ -126,9 +126,9 @@
       "bannerURI": "https://media-local.gigantik.io/bwayx/banner.png",
       "tags": [],
       "extensions": {
+        "twitter": "https://x.com/gigantik_",
         "instagram": "",
         "discord": "https://discord.gg/giglabs",
-        "twitter": "https://x.com/gigantik_",
         "website": "https://BWAYX.shops.gigantik.io/"
       }
     },
@@ -359,8 +359,8 @@
       "tags": [],
       "extensions": {
         "tiktok": "https://www.tiktok.com/@flovatar",
-        "instagram": "https://instagram.com/flovatar_nft",
         "twitter": "https://x.com/flovatar",
+        "instagram": "https://instagram.com/flovatar_nft",
         "discord": "https://discord.gg/flovatar",
         "website": "https://flovatar.com"
       }
@@ -381,10 +381,10 @@
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
+        "tiktok": "https://www.tiktok.com/@flovatar",
+        "instagram": "https://instagram.com/flovatar_nft",
         "discord": "https://discord.gg/flovatar",
         "twitter": "https://x.com/flovatar",
-        "instagram": "https://instagram.com/flovatar_nft",
-        "tiktok": "https://www.tiktok.com/@flovatar",
         "website": "https://flovatar.com"
       }
     },
@@ -557,8 +557,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmdU1j5nqeQBmVWZZDhz23z6mMPwMp5i2Ka2sBpMhYggPT",
       "tags": [],
       "extensions": {
-        "twitter": "https://mobile.twitter.com/the_goobz_nft",
         "discord": "http://discord.gg/zJRNqKuDQH",
+        "twitter": "https://mobile.twitter.com/the_goobz_nft",
         "website": "https://partymansion.io/"
       }
     },
@@ -678,8 +678,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Club Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/clubs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/clubs/banner.png",
       "tags": [],
       "extensions": {
         "medium": "https://medium.com/playmfl",
@@ -701,14 +701,14 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Player Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/players/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/players/banner.png",
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/playMFL",
+        "medium": "https://medium.com/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
         "linkedin": "https://www.linkedin.com/company/playmfl",
-        "medium": "https://medium.com/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -810,8 +810,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmVyXgw67QVAU98765yfQAB1meZhnSnYVoL6mz6UpzSw7W",
       "tags": [],
       "extensions": {
-        "twitter": "https://mobile.twitter.com/the_goobz_nft",
         "discord": "http://discord.gg/zJRNqKuDQH",
+        "twitter": "https://mobile.twitter.com/the_goobz_nft",
         "website": "https://partymansion.io/"
       }
     },
@@ -963,9 +963,9 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/sportvatar",
+        "discord": "https://discord.gg/sportvatar",
         "tiktok": "https://www.tiktok.com/@sportvatar",
         "instagram": "https://instagram.com/sportvatar",
-        "discord": "https://discord.gg/sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -1533,8 +1533,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Pack Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/packs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/packs/banner.png",
       "tags": [],
       "extensions": {
         "discord": "https://discord.gg/pEDTR4wSPr",
@@ -1654,7 +1654,7 @@
   ],
   "totalAmount": 77,
   "filterType": "ALL",
-  "timestamp": "2025-02-27T01:18:31.573Z",
+  "timestamp": "2025-03-14T01:19:28.021Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1684,6 +1684,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }

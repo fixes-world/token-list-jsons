@@ -170,8 +170,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Pack Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/packs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/packs/banner.png",
       "tags": [],
       "extensions": {
         "medium": "https://medium.com/playmfl",
@@ -194,8 +194,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Player Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/players/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/players/banner.png",
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/playMFL",
@@ -267,8 +267,8 @@
       "bannerURI": "https://i.tibles.com/m/seussibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/tibles",
         "twitter": "https://twitter.com/seussibles",
+        "discord": "https://discord.gg/tibles",
         "website": "https://seussibles.com"
       },
       "flowIdentifier": "A.321d8fcde05f6e8c.Seussibles.NFT"
@@ -289,9 +289,9 @@
       "bannerURI": "https://storage.googleapis.com/starly-prod.appspot.com/assets/starly-banner.jpg",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/@StarlyNFT",
         "discord": "https://discord.gg/starly",
         "twitter": "https://twitter.com/StarlyNFT",
+        "medium": "https://medium.com/@StarlyNFT",
         "website": "https://starly.io"
       },
       "flowIdentifier": "A.5b82f21c0edf76e3.StarlyCard.NFT"
@@ -312,9 +312,9 @@
       "bannerURI": "https://media-local.gigantik.io/ufc/banner.png",
       "tags": [],
       "extensions": {
+        "discord": "https://discord.gg/UFCStrike",
         "instagram": "https://instagram.com/ufcstrike",
         "twitter": "https://twitter.com/UFCStrikeNFT",
-        "discord": "https://discord.gg/UFCStrike",
         "website": "https://www.ufcstrike.com/"
       },
       "flowIdentifier": "A.329feb3ab062d289.UFC_NFT.NFT"
@@ -602,8 +602,8 @@
       "flowAddress": "0x8ebcbfd516b1da27",
       "name": "MFL Club Collection",
       "description": "Build your own football club, make strategic decisions, and live the thrill of real competition. Join a universe where the stakes–and your rivals–are real.",
-      "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
-      "bannerURI": "https://app.playmfl.com/img/thumbnail.png",
+      "logoURI": "https://app.playmfl.com/img/collections/clubs/thumbnail.png",
+      "bannerURI": "https://app.playmfl.com/img/collections/clubs/banner.png",
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/playMFL",
@@ -1536,7 +1536,7 @@
   ],
   "totalAmount": 68,
   "filterType": "FEATURED",
-  "timestamp": "2025-02-27T01:18:40.658Z",
+  "timestamp": "2025-03-14T01:19:37.360Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1566,6 +1566,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
