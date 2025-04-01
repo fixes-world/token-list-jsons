@@ -1124,8 +1124,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "alldayunlimited",
+        "twitter": "",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1150,8 +1150,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/sDBp8YdH",
         "twitter": "https://twitter.com/Ballerz__FC",
+        "discord": "https://discord.com/invite/sDBp8YdH",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1311,13 +1311,15 @@
       "flowAddress": "0xef4162279c3dabaf",
       "symbol": "TBH",
       "name": "Bohao Token",
-      "description": "Hey! My friends!",
+      "description": "Hey! My friends!!",
       "decimals": 18,
       "logoURI": "https://static.fixes.world/12SEVBRC5qcG1720669462541",
       "tags": [],
       "extensions": {
+        "github": "https://github.com/btspoony",
         "twitter": "https://x.com/btspoony",
-        "website": "https://x.com/btspoony"
+        "website": "https://x.com/btspoony",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.ef4162279c3dabaf.FixesFungibleToken.Vault",
       "website": "https://evm.flowscan.io/token/0xadb17e4751af7c5c4784275910b1746d268f57e8"
@@ -1368,11 +1370,11 @@
         "utility-token"
       ],
       "extensions": {
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "coingeckoId": "flow",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1426,8 +1428,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
         "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1482,8 +1484,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1772,7 +1774,7 @@
   ],
   "totalAmount": 71,
   "filterType": "ALL",
-  "timestamp": "2025-03-11T01:20:08.882Z",
+  "timestamp": "2025-04-01T01:39:29.587Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1813,7 +1815,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }

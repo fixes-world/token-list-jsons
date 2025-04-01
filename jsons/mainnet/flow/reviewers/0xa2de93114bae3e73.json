@@ -291,8 +291,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "dai",
         "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
+        "coingeckoId": "dai",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -521,8 +521,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "WolfofFlow",
         "discord": "",
+        "twitter": "WolfofFlow",
         "website": "x.com/WolfofFlow"
       }
     },
@@ -965,13 +965,15 @@
       "flowAddress": "0xef4162279c3dabaf",
       "symbol": "TBH",
       "name": "Bohao Token",
-      "description": "Hey! My friends!",
+      "description": "Hey! My friends!!",
       "decimals": 8,
       "logoURI": "https://static.fixes.world/12SEVBRC5qcG1720669462541",
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/btspoony",
-        "website": "https://x.com/btspoony"
+        "github": "https://github.com/btspoony",
+        "website": "https://x.com/btspoony",
+        "displaySource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -1076,8 +1078,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreic46yqws7xfq3sytyim7s3naf2wpjhvp3ufpcussfmqbgrna766tu",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/4vuHghbsHA",
         "twitter": "",
+        "discord": "https://discord.gg/4vuHghbsHA",
         "website": ""
       }
     },
@@ -1124,8 +1126,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreid5sova5e3aaratgc2lotv266thsf3xo5cssfj2npknq7wqdm77wq",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotRewards",
         "discord": "Eh5c8k2gUu",
+        "twitter": "TopShotRewards",
         "website": ""
       }
     },
@@ -1168,8 +1170,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmSkMKUyMfBj8gpMFyRPNPMWXbviiw3Z4Z95yBA5ka72cf",
       "tags": [],
       "extensions": {
-        "twitter": "Liga_TopShot",
         "discord": "",
+        "twitter": "Liga_TopShot",
         "website": ""
       }
     },
@@ -2255,7 +2257,7 @@
   ],
   "totalAmount": 96,
   "filterType": "ALL",
-  "timestamp": "2025-03-11T01:20:04.246Z",
+  "timestamp": "2025-04-01T01:39:25.143Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2296,7 +2298,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
