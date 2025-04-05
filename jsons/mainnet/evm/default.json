@@ -64,7 +64,7 @@
       "name": "USD Flow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/logos/0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED/logo.png",
       "tags": [
         "bridged-coin",
         "stablecoin"
@@ -1774,7 +1774,7 @@
   ],
   "totalAmount": 71,
   "filterType": "ALL",
-  "timestamp": "2025-04-04T01:21:54.640Z",
+  "timestamp": "2025-04-05T01:20:47.161Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1815,7 +1815,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   }
 }

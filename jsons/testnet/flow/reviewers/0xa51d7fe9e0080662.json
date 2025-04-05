@@ -18,7 +18,7 @@
       "name": "Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/testnet:0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e/logo.svg",
       "tags": [
         "Verified",
         "Featured",
@@ -439,7 +439,7 @@
   ],
   "totalAmount": 20,
   "filterType": "ALL",
-  "timestamp": "2025-03-19T01:21:20.720Z",
+  "timestamp": "2025-04-05T01:20:58.222Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -481,6 +481,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
