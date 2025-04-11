@@ -1735,6 +1735,29 @@
     },
     {
       "chainId": 747,
+      "address": "0x131c7f7c56cbfbea0c559b28800b5e4272472ae0",
+      "contractName": "EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0Vault",
+        "receiver": "/public/EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0Receiver",
+        "balance": "/public/EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0Vault"
+      },
+      "evmAddress": "0x131c7f7c56cbfbea0c559b28800b5e4272472ae0",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "AV02",
+      "name": "A//0",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 131c7f7c56cbfbea0c559b28800b5e4272472ae0",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0.Vault",
+      "website": "https://evm.flowscan.io/token/0x131c7f7c56cbfbea0c559b28800b5e4272472ae0"
+    },
+    {
+      "chainId": 747,
       "address": "0x7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
       "contractName": "EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
       "path": {
@@ -1829,9 +1852,9 @@
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 71,
+  "totalAmount": 72,
   "filterType": "ALL",
-  "timestamp": "2025-04-05T01:20:48.866Z",
+  "timestamp": "2025-04-11T01:22:59.490Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1872,7 +1895,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   }
 }
