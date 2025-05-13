@@ -25,10 +25,10 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "github": "https://github.com/onflow/flow-core-contracts",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
         "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
@@ -205,9 +205,9 @@
       "logoURI": "http://static.fixes.world/12SEVBRC5qcG1719414852854",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/btspoony",
         "telegram": "https://t.me/bt_wood",
         "twitter": "https://x.com/btspoony",
+        "github": "https://github.com/btspoony",
         "website": "https://btang.cn/"
       }
     },
@@ -439,7 +439,7 @@
   ],
   "totalAmount": 20,
   "filterType": "ALL",
-  "timestamp": "2025-04-05T01:20:58.222Z",
+  "timestamp": "2025-05-13T01:28:09.962Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -481,6 +481,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
