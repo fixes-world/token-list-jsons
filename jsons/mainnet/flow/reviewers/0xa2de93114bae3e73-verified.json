@@ -25,7 +25,7 @@
       ],
       "extensions": {
         "coingeckoId": "pawderick",
-        "website": "https://port.flow.com",
+        "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
     },
@@ -106,7 +106,7 @@
       ],
       "extensions": {
         "coingeckoId": "hotcocoa",
-        "website": "https://port.flow.com",
+        "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
     },
@@ -132,7 +132,7 @@
       ],
       "extensions": {
         "coingeckoId": "bartholowmeow",
-        "website": "https://port.flow.com",
+        "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
     },
@@ -158,7 +158,7 @@
       ],
       "extensions": {
         "coingeckoId": "catseye",
-        "website": "https://port.flow.com",
+        "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
     },
@@ -212,7 +212,7 @@
       ],
       "extensions": {
         "coingeckoId": "gwendolion",
-        "website": "https://port.flow.com",
+        "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
     },
@@ -1027,37 +1027,8 @@
       ],
       "extensions": {
         "coingeckoId": "purrzival",
-        "website": "https://port.flow.com",
+        "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0xf1ab99c82dee3526",
-      "contractName": "USDCFlow",
-      "path": {
-        "vault": "/storage/usdcFlowVault",
-        "receiver": "/public/usdcFlowReceiver",
-        "balance": "/public/usdcFlowMetadata"
-      },
-      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
-      "flowAddress": "0xf1ab99c82dee3526",
-      "symbol": "USDC.e",
-      "name": "Bridged USDC",
-      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
-      "tags": [
-        "Verified",
-        "Featured",
-        "stablecoin"
-      ],
-      "extensions": {
-        "twitter": "https://x.com/flow_blockchain",
-        "coingeckoId": "celer-bridged-usdc-flow-evm",
-        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -1084,6 +1055,34 @@
         "twitter": "aisportspro",
         "discord": "VKvUxMwu5r",
         "website": "www.aisportspro.com"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xf1ab99c82dee3526",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
+      "flowAddress": "0xf1ab99c82dee3526",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC",
+      "description": "This fungible token representation of Standard Bridged USDC is bridged from Flow EVM.",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "Verified",
+        "stablecoin"
+      ],
+      "extensions": {
+        "twitter": "https://x.com/flow_blockchain",
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -1115,7 +1114,7 @@
   ],
   "totalAmount": 42,
   "filterType": "VERIFIED",
-  "timestamp": "2025-05-13T09:39:35.774Z",
+  "timestamp": "2025-05-13T09:46:02.345Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1156,7 +1155,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
