@@ -6,6 +6,32 @@
     {
       "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8a",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8aVault",
+        "receiver": "/public/EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8aReceiver",
+        "balance": "/public/EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8aVault"
+      },
+      "evmAddress": "0x10448481630fb6d20b597e5b3d7e42dcb1247c8a",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "Pawderick",
+      "name": "Pawderick",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 10448481630fb6d20b597e5b3d7e42dcb1247c8a",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x10448481630fb6d20B597e5B3d7e42DCb1247C8A/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "coingeckoId": "pawderick",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
       "contractName": "EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault",
@@ -58,6 +84,84 @@
     },
     {
       "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecbVault",
+        "receiver": "/public/EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecbReceiver",
+        "balance": "/public/EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecbVault"
+      },
+      "evmAddress": "0x6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "HotCocoa",
+      "name": "HotCocoa",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x6A64E027E3F6A94AcBDCf39CF0cBb4BeaD5f5ecb/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "coingeckoId": "hotcocoa",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2c",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2cVault",
+        "receiver": "/public/EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2cReceiver",
+        "balance": "/public/EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2cVault"
+      },
+      "evmAddress": "0x7296ebca325e835eb6c1b690484cf6fb4c396d2c",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "Bartholomeow",
+      "name": "Bartholomeow",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 7296ebca325e835eb6c1b690484cf6fb4c396d2c",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x7296ebCa325e835EB6C1B690484CF6fB4c396d2C/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "coingeckoId": "bartholowmeow",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293f",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293fVault",
+        "receiver": "/public/EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293fReceiver",
+        "balance": "/public/EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293fVault"
+      },
+      "evmAddress": "0xf45cbe30bd953590c9917799142edb05be3f293f",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "Gwendolion",
+      "name": "Gwendolion",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f45cbe30bd953590c9917799142edb05be3f293f",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xf45CBE30bD953590C9917799142Edb05Be3F293F/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "coingeckoId": "gwendolion",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0xf1ab99c82dee3526",
       "contractName": "USDCFlow",
       "path": {
@@ -78,8 +182,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "twitter": "https://x.com/flow_blockchain",
         "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "twitter": "https://x.com/flow_blockchain",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -236,8 +340,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "avalanche-2",
         "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "coingeckoId": "avalanche-2",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -499,28 +603,6 @@
     {
       "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8a",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8aVault",
-        "receiver": "/public/EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8aReceiver",
-        "balance": "/public/EVMVMBridgedToken_10448481630fb6d20b597e5b3d7e42dcb1247c8aVault"
-      },
-      "evmAddress": "0x10448481630fb6d20b597e5b3d7e42dcb1247c8a",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "Pawderick",
-      "name": "Pawderick",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 10448481630fb6d20b597e5b3d7e42dcb1247c8a",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x10448481630fb6d20B597e5B3d7e42DCb1247C8A/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
       "contractName": "EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_131c7f7c56cbfbea0c559b28800b5e4272472ae0Vault",
@@ -681,50 +763,6 @@
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 68eb683a393c8a1c816255b4fc4b89d73c52ad4b",
       "decimals": 18,
       "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/b34b8cfc-3668-4572-a434-e73e3aa82338.jpg",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecbVault",
-        "receiver": "/public/EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecbReceiver",
-        "balance": "/public/EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecbVault"
-      },
-      "evmAddress": "0x6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "HotCocoa",
-      "name": "HotCocoa",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x6A64E027E3F6A94AcBDCf39CF0cBb4BeaD5f5ecb/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2c",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2cVault",
-        "receiver": "/public/EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2cReceiver",
-        "balance": "/public/EVMVMBridgedToken_7296ebca325e835eb6c1b690484cf6fb4c396d2cVault"
-      },
-      "evmAddress": "0x7296ebca325e835eb6c1b690484cf6fb4c396d2c",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "Bartholomeow",
-      "name": "Bartholomeow",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 7296ebca325e835eb6c1b690484cf6fb4c396d2c",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x7296ebCa325e835EB6C1B690484CF6fB4c396d2C/logo.png",
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com",
@@ -898,28 +936,6 @@
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293f",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293fVault",
-        "receiver": "/public/EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293fReceiver",
-        "balance": "/public/EVMVMBridgedToken_f45cbe30bd953590c9917799142edb05be3f293fVault"
-      },
-      "evmAddress": "0xf45cbe30bd953590c9917799142edb05be3f293f",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "Gwendolion",
-      "name": "Gwendolion",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f45cbe30bd953590c9917799142edb05be3f293f",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xf45CBE30bD953590C9917799142Edb05Be3F293F/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
       }
     },
     {
@@ -1197,6 +1213,58 @@
     {
       "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76Vault",
+        "receiver": "/public/EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76Receiver",
+        "balance": "/public/EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76Vault"
+      },
+      "evmAddress": "0x9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "Catseye",
+      "name": "Catseye",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x9b565507858812e8B5FfbFBDE9B200A3bc2e8F76/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "coingeckoId": "catseye",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35Vault",
+        "receiver": "/public/EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35Receiver",
+        "balance": "/public/EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35Vault"
+      },
+      "evmAddress": "0xe8b7423b80f9af33480d365171c7ceda3586aa35",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "Purrzival",
+      "name": "Purrzival",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of e8b7423b80f9af33480d365171c7ceda3586aa35",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xE8b7423b80f9aF33480D365171c7ceDa3586aa35/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
+        "coingeckoId": "purrzival",
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
       "contractName": "EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Vault",
@@ -1245,10 +1313,10 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/flow_blockchain",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "github": "https://github.com/onflow/flow-core-contracts",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "coingeckoId": "flow",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1276,8 +1344,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
         "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1512,8 +1580,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1539,9 +1607,9 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/GYV8JRR",
         "telegram": "https://t.co/E8FzKLuMnH",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "discord": "https://discord.com/invite/GYV8JRR",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1617,8 +1685,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmSJGs6JeMK8fiNR6j4Vd7cbuESERZtWf4cXF9muBSHtoZ",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "bwendyverse.neocities.org"
       }
     },
@@ -1640,8 +1708,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "twitter": "_damo420",
         "discord": "h6xXUCDqth",
+        "twitter": "_damo420",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -1882,28 +1950,6 @@
     {
       "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76Vault",
-        "receiver": "/public/EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76Receiver",
-        "balance": "/public/EVMVMBridgedToken_9b565507858812e8b5ffbfbde9b200a3bc2e8f76Vault"
-      },
-      "evmAddress": "0x9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "Catseye",
-      "name": "Catseye",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x9b565507858812e8B5FfbFBDE9B200A3bc2e8F76/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
       "contractName": "EVMVMBridgedToken_9fd545a2ab116154949974eb32e8a166522da61b",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_9fd545a2ab116154949974eb32e8a166522da61bVault",
@@ -2030,28 +2076,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35Vault",
-        "receiver": "/public/EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35Receiver",
-        "balance": "/public/EVMVMBridgedToken_e8b7423b80f9af33480d365171c7ceda3586aa35Vault"
-      },
-      "evmAddress": "0xe8b7423b80f9af33480d365171c7ceda3586aa35",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "Purrzival",
-      "name": "Purrzival",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of e8b7423b80f9af33480d365171c7ceda3586aa35",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xE8b7423b80f9aF33480D365171c7ceDa3586aa35/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0x0ad212f89f63aded",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -2152,8 +2176,8 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/fixes-world",
         "twitter": "https://x.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
         "telegram": "https://t.me/fixes_world",
         "website": "https://linktr.ee/fixes.world"
       }
@@ -2175,8 +2199,8 @@
       "logoURI": "https://static.fixes.world/16SU1HXzIwNj1745137448781",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/rickyspanichone",
         "telegram": "https://t.me/Ricky_Spenish_Roger",
+        "twitter": "https://x.com/rickyspanichone",
         "website": "https://linktr.ee/fixes.world/"
       }
     },
@@ -2239,8 +2263,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "twitter": "petjokicshorses",
+        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "website": ""
       }
     },
@@ -2261,8 +2285,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeic24hbznfwsmknsci7kqmt6n2xzu4veui7lzke2bueidthbs5vmb4",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/PuffPalz",
         "discord": "https://discord.gg/gB4fvMVDMW",
+        "twitter": "https://x.com/PuffPalz",
         "website": "puffpalz.io"
       }
     },
@@ -2284,8 +2308,8 @@
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
-        "discord": "NkGrRaaUCv",
         "twitter": "TopShotBETA",
+        "discord": "NkGrRaaUCv",
         "website": "topshotbeta.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2430,7 +2454,7 @@
   ],
   "totalAmount": 104,
   "filterType": "ALL",
-  "timestamp": "2025-04-24T04:09:40.618Z",
+  "timestamp": "2025-05-13T09:39:33.280Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2472,6 +2496,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

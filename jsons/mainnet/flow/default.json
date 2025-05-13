@@ -141,8 +141,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "coingeckoId": "avalanche-2",
+        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -213,6 +213,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x10448481630fb6d20B597e5B3d7e42DCb1247C8A/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "pawderick",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -479,6 +480,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x6A64E027E3F6A94AcBDCf39CF0cBb4BeaD5f5ecb/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "hotcocoa",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -501,6 +503,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x7296ebCa325e835EB6C1B690484CF6fB4c396d2C/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "bartholowmeow",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -714,6 +717,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xf45CBE30bD953590C9917799142Edb05Be3F293F/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "gwendolion",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1028,8 +1032,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreid5sova5e3aaratgc2lotv266thsf3xo5cssfj2npknq7wqdm77wq",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotRewards",
         "discord": "Eh5c8k2gUu",
+        "twitter": "TopShotRewards",
         "website": ""
       }
     },
@@ -1625,6 +1629,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x9b565507858812e8B5FfbFBDE9B200A3bc2e8F76/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "catseye",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1774,6 +1779,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xE8b7423b80f9aF33480D365171c7ceDa3586aa35/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "purrzival",
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2042,11 +2048,11 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "twitter": "https://twitter.com/flow_blockchain",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "coingeckoId": "flow",
-        "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -2095,8 +2101,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2119,8 +2125,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "twitter": "petjokicshorses",
+        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "website": ""
       }
     },
@@ -2141,8 +2147,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeic24hbznfwsmknsci7kqmt6n2xzu4veui7lzke2bueidthbs5vmb4",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/gB4fvMVDMW",
         "twitter": "https://x.com/PuffPalz",
+        "discord": "https://discord.gg/gB4fvMVDMW",
         "website": "puffpalz.io"
       }
     },
@@ -2194,8 +2200,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -2245,8 +2251,8 @@
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
-        "twitter": "TopShotBETA",
         "discord": "NkGrRaaUCv",
+        "twitter": "TopShotBETA",
         "website": "topshotbeta.com",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2269,8 +2275,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "wGjBcsGjcG",
         "twitter": "UtahJazzLegends",
+        "discord": "wGjBcsGjcG",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2362,7 +2368,7 @@
   ],
   "totalAmount": 104,
   "filterType": "ALL",
-  "timestamp": "2025-04-24T04:09:38.708Z",
+  "timestamp": "2025-05-13T09:39:31.409Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2404,6 +2410,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
