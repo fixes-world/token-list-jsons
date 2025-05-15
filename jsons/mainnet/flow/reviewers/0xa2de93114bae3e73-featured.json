@@ -98,7 +98,7 @@
       "name": "Bridged WETH (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -158,6 +158,31 @@
       ],
       "extensions": {
         "coingeckoId": "bartholowmeow",
+        "website": "https://meowcoins.cryptokitties.co/",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_8bd75008361517df04aa3ea033f03ba33c0c0a66",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_8bd75008361517df04aa3ea033f03ba33c0c0a66Vault",
+        "receiver": "/public/EVMVMBridgedToken_8bd75008361517df04aa3ea033f03ba33c0c0a66Receiver",
+        "balance": "/public/EVMVMBridgedToken_8bd75008361517df04aa3ea033f03ba33c0c0a66Vault"
+      },
+      "evmAddress": "0x8bd75008361517df04aa3ea033f03ba33c0c0a66",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "GangGang",
+      "name": "GangGang",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 8bd75008361517df04aa3ea033f03ba33c0c0a66",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x8bD75008361517Df04AA3ea033F03ba33C0C0A66/logo.png",
+      "tags": [
+        "Verified",
+        "Featured"
+      ],
+      "extensions": {
         "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -229,7 +254,7 @@
       "name": "Bridged USDC (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xF1815bd50389c46847f0Bda824eC8da914045D14/logo.png",
       "tags": [
         "Verified",
         "Featured",
@@ -283,18 +308,18 @@
       "name": "Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e/logo.png",
       "tags": [
         "Verified",
         "Featured",
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -322,17 +347,17 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
     }
   ],
-  "totalAmount": 12,
+  "totalAmount": 13,
   "filterType": "FEATURED",
-  "timestamp": "2025-05-13T09:46:02.725Z",
+  "timestamp": "2025-05-15T01:24:55.055Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -372,8 +397,8 @@
     }
   },
   "version": {
-    "major": 2,
-    "minor": 0,
+    "major": 1,
+    "minor": 1,
     "patch": 0
   }
 }
