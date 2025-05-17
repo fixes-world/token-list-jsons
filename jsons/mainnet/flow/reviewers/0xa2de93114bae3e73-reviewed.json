@@ -1020,6 +1020,7 @@
         "Featured"
       ],
       "extensions": {
+        "coingeckoId": "ganggang",
         "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1097,8 +1098,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "VKvUxMwu5r",
         "twitter": "aisportspro",
+        "discord": "VKvUxMwu5r",
         "website": "www.aisportspro.com"
       }
     },
@@ -1203,8 +1204,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "twitter": "https://x.com/flow_blockchain",
+        "coingeckoId": "celer-bridged-usdc-flow-evm",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1239,7 +1240,7 @@
   ],
   "totalAmount": 47,
   "filterType": "REVIEWED",
-  "timestamp": "2025-05-15T01:24:52.518Z",
+  "timestamp": "2025-05-17T01:25:49.237Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1280,7 +1281,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

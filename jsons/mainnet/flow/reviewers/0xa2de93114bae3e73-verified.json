@@ -1024,6 +1024,7 @@
         "Featured"
       ],
       "extensions": {
+        "coingeckoId": "ganggang",
         "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1075,8 +1076,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "aisportspro",
         "discord": "VKvUxMwu5r",
+        "twitter": "aisportspro",
         "website": "www.aisportspro.com"
       }
     },
@@ -1164,7 +1165,7 @@
   ],
   "totalAmount": 44,
   "filterType": "VERIFIED",
-  "timestamp": "2025-05-15T01:24:54.538Z",
+  "timestamp": "2025-05-17T01:25:50.689Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1205,7 +1206,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

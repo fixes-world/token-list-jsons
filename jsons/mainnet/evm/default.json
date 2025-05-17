@@ -458,6 +458,7 @@
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x8bD75008361517Df04AA3ea033F03ba33C0C0A66/logo.png",
       "tags": [],
       "extensions": {
+        "coingeckoId": "ganggang",
         "website": "https://meowcoins.cryptokitties.co/",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1974,7 +1975,7 @@
   ],
   "totalAmount": 79,
   "filterType": "ALL",
-  "timestamp": "2025-05-15T01:24:56.973Z",
+  "timestamp": "2025-05-17T01:25:53.403Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2015,7 +2016,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 17,
+    "minor": 18,
     "patch": 0
   }
 }
