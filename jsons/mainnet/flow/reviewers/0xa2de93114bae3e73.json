@@ -206,8 +206,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "alldayunlimited",
+        "twitter": "",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -233,8 +233,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "VKvUxMwu5r",
         "twitter": "aisportspro",
+        "discord": "VKvUxMwu5r",
         "website": "www.aisportspro.com"
       }
     },
@@ -258,8 +258,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/Ballerz__FC",
         "discord": "https://discord.com/invite/sDBp8YdH",
+        "twitter": "https://twitter.com/Ballerz__FC",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -286,8 +286,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "beavercoinflow",
         "discord": "",
+        "twitter": "beavercoinflow",
         "website": "beavercoin.io"
       }
     },
@@ -337,8 +337,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "coingeckoId": "avalanche-2",
+        "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -618,8 +618,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "twitter": "https://x.com/flow_blockchain",
         "coingeckoId": "celer-bridged-usdc-flow-evm",
+        "twitter": "https://x.com/flow_blockchain",
         "website": "https://github.com/circlefin/stablecoin-evm/blob/master/doc/bridged_USDC_standard.md",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1320,10 +1320,10 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "coingeckoId": "flow",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -1352,8 +1352,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1379,8 +1379,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1459,8 +1459,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
+        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1511,8 +1511,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
         "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "coingeckoId": "wrapped-bitcoin",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1588,8 +1588,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1693,8 +1693,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmSJGs6JeMK8fiNR6j4Vd7cbuESERZtWf4cXF9muBSHtoZ",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "bwendyverse.neocities.org"
       }
     },
@@ -1716,8 +1716,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "h6xXUCDqth",
         "twitter": "_damo420",
+        "discord": "h6xXUCDqth",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -2184,8 +2184,8 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/fixes-world",
         "twitter": "https://x.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
         "telegram": "https://t.me/fixes_world",
         "website": "https://linktr.ee/fixes.world"
       }
@@ -2271,8 +2271,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "twitter": "petjokicshorses",
+        "discord": "https://discord.com/invite/3p3ff9PHqW",
         "website": ""
       }
     },
@@ -2293,8 +2293,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeic24hbznfwsmknsci7kqmt6n2xzu4veui7lzke2bueidthbs5vmb4",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/PuffPalz",
         "discord": "https://discord.gg/gB4fvMVDMW",
+        "twitter": "https://x.com/PuffPalz",
         "website": "puffpalz.io"
       }
     },
@@ -2393,8 +2393,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -2483,7 +2483,7 @@
   ],
   "totalAmount": 105,
   "filterType": "ALL",
-  "timestamp": "2025-05-17T01:25:48.213Z",
+  "timestamp": "2025-05-29T01:36:32.179Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2525,6 +2525,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
