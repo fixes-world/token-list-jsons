@@ -1304,7 +1304,7 @@
       "extensions": {
         "discord": "https://discord.gg/tibles",
         "twitter": "https://twitter.com/sk8tibles",
-        "website": "https://sk8tibles.com"
+        "website": "https://sk8tibles.com/collection"
       },
       "flowIdentifier": "A.0a2fbb92a8ae5c6d.Sk8tibles.NFT"
     },
@@ -1536,7 +1536,7 @@
   ],
   "totalAmount": 68,
   "filterType": "VERIFIED",
-  "timestamp": "2025-05-29T01:37:04.596Z",
+  "timestamp": "2025-06-12T01:38:05.345Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1566,6 +1566,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   }
 }

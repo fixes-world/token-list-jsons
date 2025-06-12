@@ -1601,7 +1601,7 @@
       "extensions": {
         "twitter": "https://twitter.com/sk8tibles",
         "discord": "https://discord.gg/tibles",
-        "website": "https://sk8tibles.com"
+        "website": "https://sk8tibles.com/collection"
       }
     },
     {
@@ -1650,7 +1650,7 @@
   ],
   "totalAmount": 77,
   "filterType": "ALL",
-  "timestamp": "2025-05-29T01:36:55.604Z",
+  "timestamp": "2025-06-12T01:37:56.560Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1680,6 +1680,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
