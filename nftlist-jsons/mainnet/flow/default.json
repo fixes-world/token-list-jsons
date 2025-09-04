@@ -1578,8 +1578,8 @@
       "bannerURI": "https://i.tibles.com/m/seussibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/seussibles",
         "discord": "https://discord.gg/tibles",
+        "twitter": "https://twitter.com/seussibles",
         "website": "https://seussibles.com"
       }
     },
@@ -1669,7 +1669,7 @@
   ],
   "totalAmount": 78,
   "filterType": "ALL",
-  "timestamp": "2025-08-28T15:35:54.672Z",
+  "timestamp": "2025-09-04T01:36:39.865Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1698,7 +1698,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

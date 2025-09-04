@@ -1102,9 +1102,9 @@
         "Featured"
       ],
       "extensions": {
+        "twitter": "https://twitter.com/NFLAllDay",
         "instagram": "https://www.instagram.com/nflallday/",
         "discord": "https://discord.com/invite/5K6qyTzj2k",
-        "twitter": "https://twitter.com/NFLAllDay",
         "website": "https://nflallday.com/"
       }
     },
@@ -1674,7 +1674,7 @@
   ],
   "totalAmount": 78,
   "filterType": "ALL",
-  "timestamp": "2025-08-28T15:35:55.901Z",
+  "timestamp": "2025-09-04T01:36:41.229Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1703,7 +1703,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }

@@ -1029,9 +1029,9 @@
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
       "tags": [],
       "extensions": {
+        "twitter": "https://twitter.com/NFLAllDay",
         "instagram": "https://www.instagram.com/nflallday/",
         "discord": "https://discord.com/invite/5K6qyTzj2k",
-        "twitter": "https://twitter.com/NFLAllDay",
         "website": "https://nflallday.com/"
       },
       "flowIdentifier": "A.e4cf4bdc1751c65d.AllDay.NFT"
@@ -1096,8 +1096,8 @@
       "bannerURI": "https://driverz.world/DriverzNFT-logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/DriverzWorld",
         "instagram": "https://www.instagram.com/driverzworld",
+        "twitter": "https://twitter.com/DriverzWorld",
         "discord": "https://discord.gg/driverz",
         "website": "https://driverz.world/"
       },
@@ -1185,8 +1185,8 @@
       "tags": [],
       "extensions": {
         "discord": "https://discord.gg/driverz",
-        "instagram": "https://www.instagram.com/driverzworld",
         "twitter": "https://twitter.com/DriverzWorld/",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world"
       },
       "flowIdentifier": "A.a039bd7d55a96c0c.DriverzNFT.NFT"
@@ -1297,8 +1297,8 @@
       "bannerURI": "https://i.tibles.com/m/sk8tibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/tibles",
         "twitter": "https://twitter.com/sk8tibles",
+        "discord": "https://discord.gg/tibles",
         "website": "https://sk8tibles.com/collection"
       },
       "flowIdentifier": "A.0a2fbb92a8ae5c6d.Sk8tibles.NFT"
@@ -1319,9 +1319,9 @@
       "bannerURI": "https://nbatopshot.com/static/img/top-shot-logo-horizontal-white.svg",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/nbatopshot",
-        "discord": "https://discord.com/invite/nbatopshot",
         "twitter": "https://twitter.com/nbatopshot",
+        "discord": "https://discord.com/invite/nbatopshot",
+        "instagram": "https://www.instagram.com/nbatopshot",
         "website": "https://nbatopshot.com"
       },
       "flowIdentifier": "A.0b2a3299cc857e29.TopShot.NFT"
@@ -1343,8 +1343,8 @@
       "tags": [],
       "extensions": {
         "discord": "https://discord.gg/driverz",
-        "instagram": "https://www.instagram.com/driverzworld",
         "twitter": "https://twitter.com/DriverzWorld",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       },
       "flowIdentifier": "A.f887ece39166906e.Wheel.NFT"
@@ -1551,7 +1551,7 @@
   ],
   "totalAmount": 69,
   "filterType": "ALL",
-  "timestamp": "2025-08-28T15:35:58.068Z",
+  "timestamp": "2025-09-04T01:36:43.600Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1580,7 +1580,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
