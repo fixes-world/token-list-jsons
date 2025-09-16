@@ -21,8 +21,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "alldayunlimited",
         "twitter": "",
+        "discord": "alldayunlimited",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -45,8 +45,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidrywo4xhmfqtzjbqxplwjfwhuvifsfquc7q7zoysg6bdrxjbxa5e",
       "tags": [],
       "extensions": {
-        "twitter": "aisportspro",
         "discord": "VKvUxMwu5r",
+        "twitter": "aisportspro",
         "website": "www.aisportspro.com"
       }
     },
@@ -68,8 +68,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/Ballerz__FC",
         "discord": "https://discord.com/invite/sDBp8YdH",
+        "twitter": "https://twitter.com/Ballerz__FC",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -209,7 +209,7 @@
       "symbol": "Pawderick",
       "name": "Pawderick",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 10448481630fb6d20b597e5b3d7e42dcb1247c8a",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x10448481630fb6d20B597e5B3d7e42DCb1247C8A/logo.png",
       "tags": [],
       "extensions": {
@@ -232,7 +232,7 @@
       "symbol": "AV02",
       "name": "A//0",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 131c7f7c56cbfbea0c559b28800b5e4272472ae0",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -253,7 +253,7 @@
       "symbol": "ankrFLOWEVM",
       "name": "Ankr Staked FLOW EVM",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x1b97100eA1D7126C4d60027e231EA4CB25314bdb/logo.png",
       "tags": [],
       "extensions": {
@@ -276,7 +276,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 21faa90e0c1ca27c1896b96942b1459cce01cb46",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -297,7 +297,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 29f8a3010f4f410bb2bd19f245626a2b443394c3",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -318,7 +318,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2bd1de636c5f17d6ba5ff3c1387f6a333b861b03",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -339,7 +339,7 @@
       "symbol": "stgWETH",
       "name": "Bridged WETH (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
       "tags": [
         "bridged-coin"
@@ -364,7 +364,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 5656c4972827e93e921bcfe6d60148720fce8b55",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -385,7 +385,7 @@
       "symbol": "LUNA",
       "name": "Luna (Not that LUNA)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 5ec4e27da9358935c52c92b7bfcda78708da3c82",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://static.fixes.world/60MDY0M2Q4Nz1739976527974",
       "tags": [],
       "extensions": {
@@ -407,7 +407,7 @@
       "symbol": "stgUSDT",
       "name": "Bridged stgUSDT",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 674843c06ff83502ddb4d37c2e09c01cda38cbc8",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8/logo.png",
       "tags": [
         "stablecoin",
@@ -433,7 +433,7 @@
       "symbol": "PUMP",
       "name": "pump.flow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 68eb683a393c8a1c816255b4fc4b89d73c52ad4b",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/b34b8cfc-3668-4572-a434-e73e3aa82338.jpg",
       "tags": [],
       "extensions": {
@@ -455,7 +455,7 @@
       "symbol": "HotCocoa",
       "name": "HotCocoa",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x6A64E027E3F6A94AcBDCf39CF0cBb4BeaD5f5ecb/logo.png",
       "tags": [],
       "extensions": {
@@ -478,7 +478,7 @@
       "symbol": "Bartholomeow",
       "name": "Bartholomeow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 7296ebca325e835eb6c1b690484cf6fb4c396d2c",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x7296ebCa325e835EB6C1B690484CF6fB4c396d2C/logo.png",
       "tags": [],
       "extensions": {
@@ -501,7 +501,7 @@
       "symbol": "ZEN",
       "name": "ZEN",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 85f56e69fe7e6c81077220b28447a93453a5a8e3",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -522,7 +522,7 @@
       "symbol": "GangGang",
       "name": "GangGang",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 8bd75008361517df04aa3ea033f03ba33c0c0a66",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x8bD75008361517Df04AA3ea033F03ba33C0C0A66/logo.png",
       "tags": [],
       "extensions": {
@@ -545,7 +545,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 8c6387781fca4ac8613f02b5ca7cc4888dccbfe3",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -590,7 +590,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of b79626f1c88fca0122759335ab0715288564cb7d",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -611,7 +611,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of c54bc6c8d5c687800e4a39588a50db8d1025a971",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -632,7 +632,7 @@
       "symbol": "TRUMP",
       "name": "OFFICIAL TRUMP",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
       "tags": [],
       "extensions": {
@@ -654,7 +654,7 @@
       "symbol": "PEPE",
       "name": "PEPE",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d59d7c7f4d063a707a021c7c49c5cfb4faf94cb0",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -675,7 +675,7 @@
       "symbol": "BETA",
       "name": "BETA",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d8ad8ae8375aa31bff541e17dc4b4917014ebdaa",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "tags": [],
       "extensions": {
@@ -697,7 +697,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of ef7477f4409f9533619fd940e45fda564646b7f4",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -718,7 +718,7 @@
       "symbol": "Gwendolion",
       "name": "Gwendolion",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f45cbe30bd953590c9917799142edb05be3f293f",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xf45CBE30bD953590C9917799142Edb05Be3F293F/logo.png",
       "tags": [],
       "extensions": {
@@ -874,8 +874,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "https://twitter.com/HITonflow",
+        "discord": "",
         "website": ""
       }
     },
@@ -1178,8 +1178,8 @@
       "logoURI": "https://ipfs.io/ipfs/QmSJGs6JeMK8fiNR6j4Vd7cbuESERZtWf4cXF9muBSHtoZ",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": "bwendyverse.neocities.org"
       }
     },
@@ -1202,8 +1202,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "coingeckoId": "binancecoin",
+        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1227,8 +1227,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binance-usd",
         "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "coingeckoId": "binance-usd",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1253,8 +1253,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
+        "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1351,8 +1351,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "h6xXUCDqth",
         "twitter": "_damo420",
+        "discord": "h6xXUCDqth",
         "website": "toucans.ecdao.org/p/DAMO420"
       }
     },
@@ -1370,7 +1370,7 @@
       "symbol": "LUMAX",
       "name": "Lumos Maxima",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 200ba8c1e9af4e1836fdc07aca2d1e1721a065a7",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1391,7 +1391,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2980f2b075fb2051c872ec303cc1b05596972ad1",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1412,7 +1412,7 @@
       "symbol": "USDF",
       "name": "USD Flow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED/logo.png",
       "tags": [
         "bridged-coin",
@@ -1438,7 +1438,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 4255def4bf5b4f16d7756994f84e07b2b74a463e",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1459,7 +1459,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 442ae0f33d66f617af9106e797fc251b574aedb3",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1480,7 +1480,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 47efeb8dbf29d8bb8c858218f7b40752878f7590",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1501,7 +1501,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 4b07f2d19028a7fb7bf5e9258f9666a9673da331",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1522,7 +1522,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 6b2be18469df528221a72be08f0354b057608d96",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1543,7 +1543,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 75186a42db5a6c63095adb5cf5f1ea30cc57fda2",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1564,7 +1564,7 @@
       "symbol": "CLIPP",
       "name": "Clippy",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/8531bc49-9f9b-45cb-8c37-ff07b2597663.jpg",
       "tags": [],
       "extensions": {
@@ -1586,7 +1586,7 @@
       "symbol": "PS-V2",
       "name": "PSV2 FLOW_TRUMP",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 83900c7ffece2a47cac867f87252cdf52bd017a2",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1608,7 +1608,7 @@
       "symbol": "DUCAT",
       "name": "DUCAT",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 8b2f3a6e7ad5f971ff5d4e597a4ebc58b2d2758e",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1629,7 +1629,7 @@
       "symbol": "AVO",
       "name": "Avocado",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 995258cea49c25595cd94407fad9e99b81406a84",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/f7c8d943-74ff-4cd4-acee-3e5dfcad9636.jpeg",
       "tags": [],
       "extensions": {
@@ -1651,7 +1651,7 @@
       "symbol": "Catseye",
       "name": "Catseye",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x9b565507858812e8B5FfbFBDE9B200A3bc2e8F76/logo.png",
       "tags": [],
       "extensions": {
@@ -1674,7 +1674,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 9fd545a2ab116154949974eb32e8a166522da61b",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1695,7 +1695,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of a4bac0a22b689565dda7c9d5320333ac63531971",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1716,7 +1716,7 @@
       "symbol": "ANX",
       "name": "AnxietyCoin",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of a4c5346cdcddc7bd144a568931aa4ef03272d68f",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1737,7 +1737,7 @@
       "symbol": "FROTH",
       "name": "Froth",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/52318/standard/froth.png?1733077044",
       "tags": [],
       "extensions": {
@@ -1759,7 +1759,7 @@
       "symbol": "CTK",
       "name": "ClickToken",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of cb70ede31a0a1dee926464c0e51265fe3ca7ed52",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -1780,7 +1780,7 @@
       "symbol": "Purrzival",
       "name": "Purrzival",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of e8b7423b80f9af33480d365171c7ceda3586aa35",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xE8b7423b80f9aF33480D365171c7ceDa3586aa35/logo.png",
       "tags": [],
       "extensions": {
@@ -1803,7 +1803,7 @@
       "symbol": "stgUSDC",
       "name": "Bridged USDC (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xF1815bd50389c46847f0Bda824eC8da914045D14/logo.png",
       "tags": [
         "stablecoin",
@@ -1941,8 +1941,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/fixesWorld",
-        "github": "https://github.com/fixes-world",
         "telegram": "https://t.me/fixes_world",
+        "github": "https://github.com/fixes-world",
         "website": "https://linktr.ee/fixes.world"
       }
     },
@@ -2053,11 +2053,11 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
+        "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -2106,8 +2106,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -2152,8 +2152,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeic24hbznfwsmknsci7kqmt6n2xzu4veui7lzke2bueidthbs5vmb4",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/gB4fvMVDMW",
         "twitter": "https://x.com/PuffPalz",
+        "discord": "https://discord.gg/gB4fvMVDMW",
         "website": "puffpalz.io"
       }
     },
@@ -2177,9 +2177,9 @@
         "memecoin"
       ],
       "extensions": {
+        "telegram": "https://t.co/E8FzKLuMnH",
         "twitter": "https://twitter.com/SloppyStakesDAO",
         "discord": "https://discord.com/invite/GYV8JRR",
-        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -2205,8 +2205,8 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/r2keKxuKqX",
         "twitter": "https://twitter.com/incrementfi",
+        "discord": "https://discord.gg/r2keKxuKqX",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -2300,7 +2300,7 @@
       "symbol": "CTK",
       "name": "ClickToken",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of a7cf2260e501952c71189d04fad17c704dfb36e6",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -2321,7 +2321,7 @@
       "symbol": "PS-V2",
       "name": "PunchSwap V2",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of c0ef8e9bd315283b9fbfb9fc3fa4cdae019bcd82",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -2394,7 +2394,7 @@
   ],
   "totalAmount": 105,
   "filterType": "ALL",
-  "timestamp": "2025-05-29T01:36:30.259Z",
+  "timestamp": "2025-09-16T14:43:05.442Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2436,6 +2436,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

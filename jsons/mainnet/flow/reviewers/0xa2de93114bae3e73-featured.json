@@ -17,7 +17,7 @@
       "symbol": "Pawderick",
       "name": "Pawderick",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 10448481630fb6d20b597e5b3d7e42dcb1247c8a",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x10448481630fb6d20B597e5B3d7e42DCb1247C8A/logo.png",
       "tags": [
         "Verified",
@@ -43,7 +43,7 @@
       "symbol": "ankrFLOWEVM",
       "name": "Ankr Staked FLOW EVM",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x1b97100eA1D7126C4d60027e231EA4CB25314bdb/logo.png",
       "tags": [
         "Verified",
@@ -69,7 +69,7 @@
       "symbol": "USDF",
       "name": "USD Flow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED/logo.png",
       "tags": [
         "Verified",
@@ -97,7 +97,7 @@
       "symbol": "stgWETH",
       "name": "Bridged WETH (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
       "tags": [
         "Verified",
@@ -124,7 +124,7 @@
       "symbol": "HotCocoa",
       "name": "HotCocoa",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x6A64E027E3F6A94AcBDCf39CF0cBb4BeaD5f5ecb/logo.png",
       "tags": [
         "Verified",
@@ -150,7 +150,7 @@
       "symbol": "Bartholomeow",
       "name": "Bartholomeow",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 7296ebca325e835eb6c1b690484cf6fb4c396d2c",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x7296ebCa325e835EB6C1B690484CF6fB4c396d2C/logo.png",
       "tags": [
         "Verified",
@@ -176,7 +176,7 @@
       "symbol": "GangGang",
       "name": "GangGang",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 8bd75008361517df04aa3ea033f03ba33c0c0a66",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x8bD75008361517Df04AA3ea033F03ba33C0C0A66/logo.png",
       "tags": [
         "Verified",
@@ -202,7 +202,7 @@
       "symbol": "Catseye",
       "name": "Catseye",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x9b565507858812e8B5FfbFBDE9B200A3bc2e8F76/logo.png",
       "tags": [
         "Verified",
@@ -228,7 +228,7 @@
       "symbol": "Purrzival",
       "name": "Purrzival",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of e8b7423b80f9af33480d365171c7ceda3586aa35",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xE8b7423b80f9aF33480D365171c7ceDa3586aa35/logo.png",
       "tags": [
         "Verified",
@@ -254,7 +254,7 @@
       "symbol": "stgUSDC",
       "name": "Bridged USDC (Stargate)",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xF1815bd50389c46847f0Bda824eC8da914045D14/logo.png",
       "tags": [
         "Verified",
@@ -282,7 +282,7 @@
       "symbol": "Gwendolion",
       "name": "Gwendolion",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f45cbe30bd953590c9917799142edb05be3f293f",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xf45CBE30bD953590C9917799142Edb05Be3F293F/logo.png",
       "tags": [
         "Verified",
@@ -316,11 +316,11 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -358,7 +358,7 @@
   ],
   "totalAmount": 13,
   "filterType": "FEATURED",
-  "timestamp": "2025-05-29T01:36:34.889Z",
+  "timestamp": "2025-09-16T14:43:09.348Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -400,6 +400,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

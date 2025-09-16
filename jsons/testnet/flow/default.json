@@ -38,7 +38,7 @@
       "symbol": "USDC",
       "name": "USDC",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 3c9469d8c179c35c9b908ca46a8670a419628f0a",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "tags": [],
       "extensions": {
@@ -60,7 +60,7 @@
       "symbol": "USDT",
       "name": "USDT",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 5b67057fa946a4a664546e3df9d2d1b1ab222f36",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -81,7 +81,7 @@
       "symbol": "DOGE",
       "name": "doge",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of c4f1dfc005cb2285b8a9ede7c525b0eedf24f5db",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
       "extensions": {
@@ -356,11 +356,11 @@
         "utility-token"
       ],
       "extensions": {
+        "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "github": "https://github.com/onflow/flow-core-contracts",
         "coingeckoId": "flow",
-        "twitter": "https://twitter.com/flow_blockchain",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -433,7 +433,7 @@
   ],
   "totalAmount": 20,
   "filterType": "ALL",
-  "timestamp": "2025-05-13T01:28:08.966Z",
+  "timestamp": "2025-09-16T14:43:21.699Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -475,6 +475,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
