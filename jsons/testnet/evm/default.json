@@ -160,9 +160,9 @@
       "logoURI": "http://static.fixes.world/12SEVBRC5qcG1719414852854",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/btspoony",
-        "telegram": "https://t.me/bt_wood",
         "twitter": "https://x.com/btspoony",
+        "telegram": "https://t.me/bt_wood",
+        "github": "https://github.com/btspoony",
         "website": "https://btang.cn/"
       },
       "flowIdentifier": "A.625f49193dcdccfc.FixesFungibleToken.Vault",
@@ -211,11 +211,11 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "coingeckoId": "flow",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -243,11 +243,11 @@
         "utility-token"
       ],
       "extensions": {
+        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
         "github": "https://github.com/onflow/flow-core-contracts",
-        "coingeckoId": "flow",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -281,7 +281,7 @@
   ],
   "totalAmount": 11,
   "filterType": "ALL",
-  "timestamp": "2025-05-13T01:28:11.984Z",
+  "timestamp": "2025-09-18T01:36:50.072Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -322,7 +322,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

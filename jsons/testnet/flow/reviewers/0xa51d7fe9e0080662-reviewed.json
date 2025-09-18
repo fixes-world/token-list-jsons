@@ -27,9 +27,9 @@
       "extensions": {
         "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "twitter": "https://twitter.com/flow_blockchain",
         "coingeckoId": "flow",
         "github": "https://github.com/onflow/flow-core-contracts",
-        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -85,7 +85,7 @@
   ],
   "totalAmount": 3,
   "filterType": "REVIEWED",
-  "timestamp": "2025-05-13T01:28:10.335Z",
+  "timestamp": "2025-09-18T01:36:48.696Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -127,6 +127,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   }
 }
