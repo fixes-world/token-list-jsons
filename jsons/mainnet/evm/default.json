@@ -779,6 +779,30 @@
     },
     {
       "chainId": 747,
+      "address": "0xb7e09454b280aea845bb8c4ea85febd109c6f0f2",
+      "contractName": "BaitCoin",
+      "path": {
+        "vault": "/storage/baitCoinVault",
+        "receiver": "/public/baitCoinVault",
+        "balance": "/public/baitCoinVault"
+      },
+      "evmAddress": "0xb7e09454b280aea845bb8c4ea85febd109c6f0f2",
+      "flowAddress": "0xed2202de80195438",
+      "symbol": "BAIT",
+      "name": "BAIT Coin",
+      "description": "BAIT COIN - A 1:1 pegged FUSD token for the DerbyFish (https://derby.fish) ecosystem.",
+      "decimals": 18,
+      "logoURI": "https://derby.fish/bait-coin-logo.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/derby_fish",
+        "website": "https://derby.fish"
+      },
+      "flowIdentifier": "A.ed2202de80195438.BaitCoin.Vault",
+      "website": "https://evm.flowscan.io/token/0xb7e09454b280aea845bb8c4ea85febd109c6f0f2"
+    },
+    {
+      "chainId": 747,
       "address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
       "contractName": "EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb",
       "path": {
@@ -896,30 +920,6 @@
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb.Vault",
       "website": "https://evm.flowscan.io/token/0x6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb"
-    },
-    {
-      "chainId": 747,
-      "address": "0x995258cea49c25595cd94407fad9e99b81406a84",
-      "contractName": "EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Vault",
-        "receiver": "/public/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Receiver",
-        "balance": "/public/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Vault"
-      },
-      "evmAddress": "0x995258cea49c25595cd94407fad9e99b81406a84",
-      "flowAddress": "0x1e4aa0b87d10b141",
-      "symbol": "AVO",
-      "name": "Avocado",
-      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 995258cea49c25595cd94407fad9e99b81406a84",
-      "decimals": 18,
-      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/f7c8d943-74ff-4cd4-acee-3e5dfcad9636.jpeg",
-      "tags": [],
-      "extensions": {
-        "website": "https://port.flow.com",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84.Vault",
-      "website": "https://evm.flowscan.io/token/0x995258cea49c25595cd94407fad9e99b81406a84"
     },
     {
       "chainId": 747,
@@ -1103,38 +1103,12 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       },
       "flowIdentifier": "A.67daad91e3782c80.Vampire.Vault",
       "website": "https://evm.flowscan.io/token/0x4278b3080d062f4104216d2d5e6e11b367ecfc96"
-    },
-    {
-      "chainId": 747,
-      "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
-      "contractName": "ADUToken",
-      "path": {
-        "vault": "/storage/ADUTokenVault",
-        "receiver": "/public/ADUTokenReceiver",
-        "balance": "/public/ADUTokenMetadata"
-      },
-      "evmAddress": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
-      "flowAddress": "0xe452a2f5665728f5",
-      "symbol": "ADU",
-      "name": "All Day Unlimited",
-      "description": "All Day Unlimited community DAO.",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
-      "tags": [],
-      "extensions": {
-        "discord": "alldayunlimited",
-        "twitter": "",
-        "website": "https://toucans.ecdao.org/p/ADUToken",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.e452a2f5665728f5.ADUToken.Vault",
-      "website": "https://evm.flowscan.io/token/0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a"
     },
     {
       "chainId": 747,
@@ -1154,8 +1128,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.com/invite/sDBp8YdH",
         "twitter": "https://twitter.com/Ballerz__FC",
+        "discord": "https://discord.com/invite/sDBp8YdH",
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1301,6 +1275,30 @@
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2.Vault",
       "website": "https://evm.flowscan.io/token/0x83900c7ffece2a47cac867f87252cdf52bd017a2"
+    },
+    {
+      "chainId": 747,
+      "address": "0x995258cea49c25595cd94407fad9e99b81406a84",
+      "contractName": "EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Vault",
+        "receiver": "/public/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Receiver",
+        "balance": "/public/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Vault"
+      },
+      "evmAddress": "0x995258cea49c25595cd94407fad9e99b81406a84",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "AVO",
+      "name": "Avocado",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 995258cea49c25595cd94407fad9e99b81406a84",
+      "decimals": 18,
+      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/f7c8d943-74ff-4cd4-acee-3e5dfcad9636.jpeg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84.Vault",
+      "website": "https://evm.flowscan.io/token/0x995258cea49c25595cd94407fad9e99b81406a84"
     },
     {
       "chainId": 747,
@@ -1481,13 +1479,39 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.cbba4d41aef83fe3.UtahJazzLegendsClub.Vault",
       "website": "https://evm.flowscan.io/token/0xff827ae7ce750ef0037aea09f509f9755ae20275"
+    },
+    {
+      "chainId": 747,
+      "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
+      "contractName": "ADUToken",
+      "path": {
+        "vault": "/storage/ADUTokenVault",
+        "receiver": "/public/ADUTokenReceiver",
+        "balance": "/public/ADUTokenMetadata"
+      },
+      "evmAddress": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
+      "flowAddress": "0xe452a2f5665728f5",
+      "symbol": "ADU",
+      "name": "All Day Unlimited",
+      "description": "All Day Unlimited community DAO.",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "",
+        "discord": "alldayunlimited",
+        "website": "https://toucans.ecdao.org/p/ADUToken",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.e452a2f5665728f5.ADUToken.Vault",
+      "website": "https://evm.flowscan.io/token/0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a"
     },
     {
       "chainId": 747,
@@ -1507,8 +1531,8 @@
       "logoURI": "https://i.imgur.com/pIwQW2b.png",
       "tags": [],
       "extensions": {
-        "twitter": "beavercoinflow",
         "discord": "",
+        "twitter": "beavercoinflow",
         "website": "beavercoin.io"
       },
       "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
@@ -1768,31 +1792,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Vault",
-        "receiver": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Receiver",
-        "balance": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Balance"
-      },
-      "evmAddress": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
-      "flowAddress": "0xa9102e56a8b7a680",
-      "symbol": "TRUMP_2024",
-      "name": "Trump 2024",
-      "description": "2024.07.13 @Pennsylvania",
-      "decimals": 18,
-      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
-      "tags": [],
-      "extensions": {
-        "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
-        "website": "https://linktr.ee/fixes.world/",
-        "displaySource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
-      "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
-    },
-    {
-      "chainId": 747,
       "address": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e",
       "contractName": "FlowToken",
       "path": {
@@ -1811,8 +1810,8 @@
         "utility-token"
       ],
       "extensions": {
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "coingeckoId": "flow",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
@@ -1971,11 +1970,36 @@
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_a4bac0a22b689565dda7c9d5320333ac63531971.Vault",
       "website": "https://evm.flowscan.io/token/0xa4bac0a22b689565dda7c9d5320333ac63531971"
+    },
+    {
+      "chainId": 747,
+      "address": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Vault",
+        "receiver": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Receiver",
+        "balance": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Balance"
+      },
+      "evmAddress": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
+      "flowAddress": "0xa9102e56a8b7a680",
+      "symbol": "TRUMP_2024",
+      "name": "Trump 2024",
+      "description": "2024.07.13 @Pennsylvania",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
+        "website": "https://linktr.ee/fixes.world/",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 79,
+  "totalAmount": 80,
   "filterType": "ALL",
-  "timestamp": "2025-05-29T01:36:36.626Z",
+  "timestamp": "2025-10-02T01:36:51.469Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2016,7 +2040,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   }
 }
