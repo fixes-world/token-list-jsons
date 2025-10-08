@@ -919,7 +919,7 @@
       "contractName": "BaitCoin",
       "path": {
         "vault": "/storage/baitCoinVault",
-        "receiver": "/public/baitCoinVault",
+        "receiver": "/public/baitCoinReceiver",
         "balance": "/public/baitCoinVault"
       },
       "evmAddress": "0xb7e09454b280aea845bb8c4ea85febd109c6f0f2",
@@ -2077,7 +2077,7 @@
   ],
   "totalAmount": 80,
   "filterType": "REVIEWED",
-  "timestamp": "2025-10-02T01:36:54.139Z",
+  "timestamp": "2025-10-08T01:38:21.088Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2118,7 +2118,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 20,
+    "minor": 21,
     "patch": 0
   }
 }
