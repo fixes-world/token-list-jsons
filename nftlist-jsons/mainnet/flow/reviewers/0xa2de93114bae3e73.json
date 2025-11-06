@@ -1100,9 +1100,9 @@
         "Featured"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/5K6qyTzj2k",
         "twitter": "https://twitter.com/NFLAllDay",
         "instagram": "https://www.instagram.com/nflallday/",
+        "discord": "https://discord.com/invite/5K6qyTzj2k",
         "website": "https://nflallday.com/"
       }
     },
@@ -1184,8 +1184,8 @@
       "bannerURI": "https://ipfs.io/ipfs/Qmcin3QW2W1PcqNE6wn5Fnjvj12riPeKtV8oL1TxRLbcTV",
       "tags": [],
       "extensions": {
-        "mastodon": "https://me.dm/@The_Boneyard",
         "twitter": "https://twitter.com/TheBoneyardNFT",
+        "mastodon": "https://me.dm/@The_Boneyard",
         "website": "https://www.boneyard.cloud"
       }
     },
@@ -1287,8 +1287,8 @@
       "bannerURI": "https://metadata.flow.dimensionxnft.com/heroes/collection_banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/dimensionx",
         "twitter": "https://twitter.com/DimensionX_NFT",
+        "discord": "https://discord.gg/dimensionx",
         "website": "https://dimensionxnft.com"
       }
     },
@@ -1394,6 +1394,27 @@
       "extensions": {
         "twitter": "https://twitter.com/flowverse_",
         "website": "https://twitter.com/flowverse_"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xce9dd43888d99574",
+      "contractName": "FlunksSemesterZero",
+      "path": {
+        "storage": "/storage/FlunksSemesterZeroCollection",
+        "public": "/public/FlunksSemesterZeroCollection"
+      },
+      "evmAddress": "0xa9318e9e104283979b108bc80c86cd8ad11b5c4c",
+      "flowAddress": "0xce9dd43888d99574",
+      "name": "Flunks: Semester Zero",
+      "description": "Exclusive NFTs from Flunks: Semester Zero - rewarding slackers and overachievers who completed Chapter 5 challenges.",
+      "logoURI": "https://storage.googleapis.com/flunks_public/images/semesterzero.png",
+      "bannerURI": "https://storage.googleapis.com/flunks_public/images/banner.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/flunksnft",
+        "discord": "https://discord.gg/flunks",
+        "website": "https://flunks.io"
       }
     },
     {
@@ -1603,8 +1624,8 @@
       "bannerURI": "https://i.tibles.com/m/seussibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/tibles",
         "twitter": "https://twitter.com/seussibles",
+        "discord": "https://discord.gg/tibles",
         "website": "https://seussibles.com"
       }
     },
@@ -1643,8 +1664,8 @@
       "bannerURI": "https://i.tibles.com/m/sk8tibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/tibles",
         "twitter": "https://twitter.com/sk8tibles",
+        "discord": "https://discord.gg/tibles",
         "website": "https://sk8tibles.com/collection"
       }
     },
@@ -1692,9 +1713,9 @@
       }
     }
   ],
-  "totalAmount": 79,
+  "totalAmount": 80,
   "filterType": "ALL",
-  "timestamp": "2025-10-23T01:41:58.821Z",
+  "timestamp": "2025-11-06T01:46:44.843Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1723,7 +1744,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
