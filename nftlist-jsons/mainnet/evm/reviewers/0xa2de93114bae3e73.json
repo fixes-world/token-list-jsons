@@ -845,14 +845,14 @@
       "evmAddress": "0xa9318e9e104283979b108bc80c86cd8ad11b5c4c",
       "flowAddress": "0xce9dd43888d99574",
       "name": "Flunks: Semester Zero",
-      "description": "Exclusive NFTs from Flunks: Semester Zero - rewarding slackers and overachievers who completed Chapter 5 challenges.",
+      "description": "Flunks: Semester Zero is a standalone collection that rewards users for exploring flunks.net and participating in events, challenges and completing objectives.",
       "logoURI": "https://storage.googleapis.com/flunks_public/images/semesterzero.png",
       "bannerURI": "https://storage.googleapis.com/flunks_public/images/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/flunksnft",
+        "twitter": "https://x.com/flunks_nft",
         "discord": "https://discord.gg/flunks",
-        "website": "https://flunks.io"
+        "website": "https://flunks.net"
       },
       "flowIdentifier": "A.ce9dd43888d99574.FlunksSemesterZero.NFT"
     },
@@ -1578,7 +1578,7 @@
   ],
   "totalAmount": 70,
   "filterType": "ALL",
-  "timestamp": "2025-11-06T01:46:48.792Z",
+  "timestamp": "2025-11-07T01:45:58.356Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1607,7 +1607,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
