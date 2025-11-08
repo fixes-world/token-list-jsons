@@ -486,7 +486,7 @@
       "flowAddress": "0x807c3d470888cc48",
       "name": "Flunks",
       "description": "Flunks are cute but mischievous high-schoolers wreaking havoc #onFlow",
-      "logoURI": "https://storage.googleapis.com/flunks_public/images/flunks.png",
+      "logoURI": "https://storage.googleapis.com/flunks_public/images/F%20for%20flowty.png",
       "bannerURI": "https://storage.googleapis.com/flunks_public/website-assets/banner_2023.png",
       "tags": [],
       "extensions": {
@@ -1710,7 +1710,7 @@
   ],
   "totalAmount": 80,
   "filterType": "ALL",
-  "timestamp": "2025-11-07T01:45:51.510Z",
+  "timestamp": "2025-11-08T01:39:55.577Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1740,6 +1740,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
