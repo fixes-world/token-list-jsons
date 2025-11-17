@@ -1433,9 +1433,9 @@
       "bannerURI": "https://media-local.gigantik.io/fuchibola/banner.png",
       "tags": [],
       "extensions": {
+        "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
         "instagram": "",
-        "discord": "https://discord.gg/giglabs",
         "website": "https://Fuchibola.shops.gigantik.io/"
       },
       "flowIdentifier": "A.f3ee684cd0259fed.Fuchibola_NFT.NFT"
@@ -1456,10 +1456,10 @@
       "bannerURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Horizontal_B.png",
       "tags": [],
       "extensions": {
-        "facebook": "https://www.facebook.com/LaLigaGolazos/",
-        "discord": "https://discord.gg/LaLigaGolazos",
         "instagram": " https://instagram.com/laligaonflow",
         "twitter": "https://twitter.com/LaLigaGolazos",
+        "discord": "https://discord.gg/LaLigaGolazos",
+        "facebook": "https://www.facebook.com/LaLigaGolazos/",
         "website": "https://laligagolazos.com/"
       },
       "flowIdentifier": "A.87ca73a41bb50ad5.Golazos.NFT"
@@ -1524,9 +1524,9 @@
       "bannerURI": "https://flowverse.myfilebase.com/ipfs/QmaTj276rAUFoFiik84xCx1PYZnqZHcGp78vG6xqHLfoXo",
       "tags": [],
       "extensions": {
+        "discord": "https://discord.gg/flowverse",
         "instagram": "https://www.instagram.com/flowverseofficial",
         "twitter": "https://twitter.com/flowverse_",
-        "discord": "https://discord.gg/flowverse",
         "website": "https://twitter.com/flowverse_"
       },
       "flowIdentifier": "A.9212a87501a8a6a2.Ordinal.NFT"
@@ -1574,11 +1574,32 @@
         "website": "https://sk8tibles.com/collection"
       },
       "flowIdentifier": "A.0a2fbb92a8ae5c6d.Sk8tibles.NFT"
+    },
+    {
+      "chainId": 747,
+      "address": "0x16c77c6f30f39af6a17fc2c60c81c4f7b18f0c5c",
+      "contractName": "Testies",
+      "path": {
+        "storage": "/storage/TestiesCollection",
+        "public": "/public/TestiesCollection"
+      },
+      "evmAddress": "0x16c77c6f30f39af6a17fc2c60c81c4f7b18f0c5c",
+      "flowAddress": "0xce9dd43888d99574",
+      "name": "Testies NFT Collection",
+      "description": "Test collection for verifying NFT metadata display and level-up mechanics on Flowty and other marketplaces.",
+      "logoURI": "https://storage.googleapis.com/flunks_public/images/solo.png",
+      "bannerURI": "https://storage.googleapis.com/flunks_public/images/1-banner.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/flunks",
+        "website": "https://flunks.net/testies"
+      },
+      "flowIdentifier": "A.ce9dd43888d99574.Testies.NFT"
     }
   ],
-  "totalAmount": 70,
+  "totalAmount": 71,
   "filterType": "ALL",
-  "timestamp": "2025-11-07T01:45:58.356Z",
+  "timestamp": "2025-11-17T01:48:11.798Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1607,7 +1628,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }

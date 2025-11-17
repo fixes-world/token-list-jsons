@@ -1100,8 +1100,8 @@
         "Featured"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/NFLAllDay",
         "instagram": "https://www.instagram.com/nflallday/",
+        "twitter": "https://twitter.com/NFLAllDay",
         "discord": "https://discord.com/invite/5K6qyTzj2k",
         "website": "https://nflallday.com/"
       }
@@ -1664,8 +1664,8 @@
       "bannerURI": "https://i.tibles.com/m/sk8tibles-flow-collection-banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/sk8tibles",
         "discord": "https://discord.gg/tibles",
+        "twitter": "https://twitter.com/sk8tibles",
         "website": "https://sk8tibles.com/collection"
       }
     },
@@ -1711,11 +1711,31 @@
         "discord": "https://discord.gg/ah2jynWk",
         "website": "https://www.hoodlums.io/"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xce9dd43888d99574",
+      "contractName": "Testies",
+      "path": {
+        "storage": "/storage/TestiesCollection",
+        "public": "/public/TestiesCollection"
+      },
+      "evmAddress": "0x16c77c6f30f39af6a17fc2c60c81c4f7b18f0c5c",
+      "flowAddress": "0xce9dd43888d99574",
+      "name": "Testies NFT Collection",
+      "description": "Test collection for verifying NFT metadata display and level-up mechanics on Flowty and other marketplaces.",
+      "logoURI": "https://storage.googleapis.com/flunks_public/images/solo.png",
+      "bannerURI": "https://storage.googleapis.com/flunks_public/images/1-banner.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/flunks",
+        "website": "https://flunks.net/testies"
+      }
     }
   ],
-  "totalAmount": 80,
+  "totalAmount": 81,
   "filterType": "ALL",
-  "timestamp": "2025-11-08T01:39:57.552Z",
+  "timestamp": "2025-11-17T01:48:08.043Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1744,7 +1764,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }
