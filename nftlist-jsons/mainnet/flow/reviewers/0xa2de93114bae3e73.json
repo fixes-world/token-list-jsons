@@ -1724,7 +1724,7 @@
       "flowAddress": "0xce9dd43888d99574",
       "name": "Testies NFT Collection",
       "description": "Test collection for verifying NFT metadata display and level-up mechanics on Flowty and other marketplaces.",
-      "logoURI": "https://storage.googleapis.com/flunks_public/images/solo.png",
+      "logoURI": "https://storage.googleapis.com/flunks_public/images/1-evolve.png",
       "bannerURI": "https://storage.googleapis.com/flunks_public/images/1-banner.png",
       "tags": [],
       "extensions": {
@@ -1735,7 +1735,7 @@
   ],
   "totalAmount": 81,
   "filterType": "ALL",
-  "timestamp": "2025-11-17T01:48:08.043Z",
+  "timestamp": "2025-11-18T01:45:55.668Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1764,7 +1764,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
