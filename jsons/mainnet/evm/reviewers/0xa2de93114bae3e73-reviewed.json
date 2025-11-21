@@ -2004,6 +2004,29 @@
     },
     {
       "chainId": 747,
+      "address": "0x717dae2baf7656be9a9b01dee31d571a9d4c9579",
+      "contractName": "EVMVMBridgedToken_717dae2baf7656be9a9b01dee31d571a9d4c9579",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_717dae2baf7656be9a9b01dee31d571a9d4c9579Vault",
+        "receiver": "/public/EVMVMBridgedToken_717dae2baf7656be9a9b01dee31d571a9d4c9579Receiver",
+        "balance": "/public/EVMVMBridgedToken_717dae2baf7656be9a9b01dee31d571a9d4c9579Vault"
+      },
+      "evmAddress": "0x717dae2baf7656be9a9b01dee31d571a9d4c9579",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 717dae2baf7656be9a9b01dee31d571a9d4c9579",
+      "decimals": 8,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_717dae2baf7656be9a9b01dee31d571a9d4c9579.Vault",
+      "website": "https://evm.flowscan.io/token/0x717dae2baf7656be9a9b01dee31d571a9d4c9579"
+    },
+    {
+      "chainId": 747,
       "address": "0x7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
       "contractName": "EVMVMBridgedToken_7eb4e122c9bbb5cfa3078067a570afe90758d8cc",
       "path": {
@@ -2075,9 +2098,9 @@
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     }
   ],
-  "totalAmount": 80,
+  "totalAmount": 81,
   "filterType": "REVIEWED",
-  "timestamp": "2025-10-23T01:41:43.207Z",
+  "timestamp": "2025-11-21T01:45:35.923Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2118,7 +2141,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 22,
+    "minor": 23,
     "patch": 0
   }
 }
