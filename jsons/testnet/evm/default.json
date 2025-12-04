@@ -326,11 +326,11 @@
         "utility-token"
       ],
       "extensions": {
-        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "coingeckoId": "flow",
         "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "coingeckoId": "flow",
+        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -473,11 +473,11 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/flow_blockchain",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
         "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "documentation": "https://developers.flow.com/build/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://flow.com",
         "displaySource": "0xa51d7fe9e0080662",
         "pathSource": "0xa51d7fe9e0080662"
@@ -512,7 +512,7 @@
   ],
   "totalAmount": 21,
   "filterType": "ALL",
-  "timestamp": "2025-10-29T01:48:19.983Z",
+  "timestamp": "2025-12-04T01:50:28.742Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -553,7 +553,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
