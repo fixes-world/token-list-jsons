@@ -581,9 +581,9 @@
       "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
       "tags": [],
       "extensions": {
-        "telegram": "https://t.me/fixes_world",
         "github": "https://github.com/fixes-world",
         "twitter": "https://x.com/fixesWorld",
+        "telegram": "https://t.me/fixes_world",
         "website": "https://linktr.ee/fixes.world"
       },
       "flowIdentifier": "A.b9cd93d3bb31b497.FixesFungibleToken.Vault",
@@ -609,11 +609,11 @@
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
-        "twitter": "https://twitter.com/flow_blockchain",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -691,9 +691,9 @@
         "memecoin"
       ],
       "extensions": {
-        "telegram": "https://t.co/E8FzKLuMnH",
-        "discord": "https://discord.com/invite/GYV8JRR",
         "twitter": "https://twitter.com/SloppyStakesDAO",
+        "discord": "https://discord.com/invite/GYV8JRR",
+        "telegram": "https://t.co/E8FzKLuMnH",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1103,8 +1103,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       },
       "flowIdentifier": "A.67daad91e3782c80.Vampire.Vault",
@@ -1318,8 +1318,8 @@
       "logoURI": "https://static.fixes.world/12SEVBRC5qcG1720669462541",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/btspoony",
         "twitter": "https://x.com/btspoony",
+        "github": "https://github.com/btspoony",
         "website": "https://x.com/btspoony",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1423,8 +1423,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
         "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1479,8 +1479,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "wGjBcsGjcG",
         "twitter": "UtahJazzLegends",
+        "discord": "wGjBcsGjcG",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1810,10 +1810,10 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
-        "coingeckoId": "flow",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "coingeckoId": "flow",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -2022,7 +2022,7 @@
   ],
   "totalAmount": 81,
   "filterType": "ALL",
-  "timestamp": "2025-11-21T01:45:32.530Z",
+  "timestamp": "2025-12-05T01:50:26.394Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2063,7 +2063,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 23,
+    "minor": 24,
     "patch": 0
   }
 }

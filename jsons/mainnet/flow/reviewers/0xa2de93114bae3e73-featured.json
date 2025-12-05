@@ -316,11 +316,11 @@
         "utility-token"
       ],
       "extensions": {
-        "github": "https://github.com/onflow/flow-core-contracts",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "discord": "https://discord.com/invite/J6fFnh2xx6",
-        "coingeckoId": "flow",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
+        "coingeckoId": "flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -348,8 +348,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
         "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -358,7 +358,7 @@
   ],
   "totalAmount": 13,
   "filterType": "FEATURED",
-  "timestamp": "2025-10-23T01:41:38.555Z",
+  "timestamp": "2025-12-05T01:50:22.193Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -400,6 +400,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
