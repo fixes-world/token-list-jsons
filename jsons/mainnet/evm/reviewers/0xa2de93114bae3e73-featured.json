@@ -2017,10 +2017,11 @@
       "name": "Wrapped BTC",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 717dae2baf7656be9a9b01dee31d571a9d4c9579",
       "decimals": 8,
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x717dae2baf7656be9a9b01dee31d571a9d4c9579/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://port.flow.com"
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_717dae2baf7656be9a9b01dee31d571a9d4c9579.Vault",
       "website": "https://evm.flowscan.io/token/0x717dae2baf7656be9a9b01dee31d571a9d4c9579"
@@ -2100,7 +2101,7 @@
   ],
   "totalAmount": 81,
   "filterType": "FEATURED",
-  "timestamp": "2025-12-05T01:50:54.275Z",
+  "timestamp": "2025-12-12T01:53:07.809Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2141,7 +2142,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 24,
+    "minor": 25,
     "patch": 0
   }
 }
