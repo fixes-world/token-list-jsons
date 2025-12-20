@@ -1233,31 +1233,6 @@
     {
       "chainId": 747,
       "address": "0x231cc0dbbcffc4b7",
-      "contractName": "ceBUSD",
-      "path": {
-        "vault": "/storage/ceBUSDVault",
-        "receiver": "/public/ceBUSDVault",
-        "balance": "/public/ceBUSDReceiver"
-      },
-      "flowAddress": "0x231cc0dbbcffc4b7",
-      "symbol": "ceBUSD",
-      "name": "Binance USD (Celer)",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceBUSD/logo.png",
-      "tags": [
-        "wrapped-celer"
-      ],
-      "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
-        "coingeckoId": "binance-usd",
-        "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceDAI",
       "path": {
         "vault": "/storage/ceDAIVault",
@@ -1675,6 +1650,28 @@
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 995258cea49c25595cd94407fad9e99b81406a84",
       "decimals": 8,
       "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/f7c8d943-74ff-4cd4-acee-3e5dfcad9636.jpeg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750Vault",
+        "receiver": "/public/EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750Receiver",
+        "balance": "/public/EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750Vault"
+      },
+      "evmAddress": "0x99af3eea856556646c98c8b9b2548fe815240750",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "PYUSD0",
+      "name": "PYUSD0",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 99af3eea856556646c98c8b9b2548fe815240750",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x99aF3EeA856556646C98c8B9b2548Fe815240750/logo.svg",
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com",
@@ -2276,6 +2273,31 @@
     },
     {
       "chainId": 747,
+      "address": "0x231cc0dbbcffc4b7",
+      "contractName": "ceBUSD",
+      "path": {
+        "vault": "/storage/ceBUSDVault",
+        "receiver": "/public/ceBUSDVault",
+        "balance": "/public/ceBUSDReceiver"
+      },
+      "flowAddress": "0x231cc0dbbcffc4b7",
+      "symbol": "ceBUSD",
+      "name": "Binance USD (Celer)",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceBUSD/logo.png",
+      "tags": [
+        "wrapped-celer"
+      ],
+      "extensions": {
+        "coingeckoId": "binance-usd",
+        "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "website": "https://cbridge.celer.network/",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
       "contractName": "EVMVMBridgedToken_a7cf2260e501952c71189d04fad17c704dfb36e6",
       "path": {
@@ -2403,10 +2425,10 @@
       ],
       "extensions": {
         "github": "https://github.com/onflow/flow-core-contracts",
-        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "coingeckoId": "flow",
         "discord": "https://discord.com/invite/J6fFnh2xx6",
         "twitter": "https://twitter.com/flow_blockchain",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "coingeckoId": "flow",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -2436,9 +2458,9 @@
       }
     }
   ],
-  "totalAmount": 107,
+  "totalAmount": 108,
   "filterType": "ALL",
-  "timestamp": "2025-12-12T01:52:39.365Z",
+  "timestamp": "2025-12-20T01:46:39.438Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2479,7 +2501,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

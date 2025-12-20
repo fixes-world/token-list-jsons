@@ -1531,8 +1531,8 @@
       "logoURI": "https://i.imgur.com/pIwQW2b.png",
       "tags": [],
       "extensions": {
-        "twitter": "beavercoinflow",
         "discord": "",
+        "twitter": "beavercoinflow",
         "website": "beavercoin.io"
       },
       "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
@@ -1556,8 +1556,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1667,6 +1667,30 @@
       },
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_75186a42db5a6c63095adb5cf5f1ea30cc57fda2.Vault",
       "website": "https://evm.flowscan.io/token/0x75186a42db5a6c63095adb5cf5f1ea30cc57fda2"
+    },
+    {
+      "chainId": 747,
+      "address": "0x99af3eea856556646c98c8b9b2548fe815240750",
+      "contractName": "EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750Vault",
+        "receiver": "/public/EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750Receiver",
+        "balance": "/public/EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750Vault"
+      },
+      "evmAddress": "0x99af3eea856556646c98c8b9b2548fe815240750",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "PYUSD0",
+      "name": "PYUSD0",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 99af3eea856556646c98c8b9b2548fe815240750",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x99aF3EeA856556646C98c8B9b2548Fe815240750/logo.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_99af3eea856556646c98c8b9b2548fe815240750.Vault",
+      "website": "https://evm.flowscan.io/token/0x99af3eea856556646c98c8b9b2548fe815240750"
     },
     {
       "chainId": 747,
@@ -1850,34 +1874,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
-      "contractName": "TeleportedTetherToken",
-      "path": {
-        "vault": "/storage/teleportedTetherTokenVault",
-        "receiver": "/public/teleportedTetherTokenReceiver",
-        "balance": "/public/teleportedTetherTokenBalance"
-      },
-      "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
-      "flowAddress": "0xcfdd90d4a00f7b5b",
-      "symbol": "tUSDT",
-      "name": "Teleported Tether Token",
-      "description": "",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
-      "tags": [
-        "teleported-token",
-        "stablecoin"
-      ],
-      "extensions": {
-        "website": "https://blocto.app/",
-        "displaySource": "0xa2de93114bae3e73",
-        "pathSource": "0xa2de93114bae3e73"
-      },
-      "flowIdentifier": "A.cfdd90d4a00f7b5b.TeleportedTetherToken.Vault",
-      "website": "https://evm.flowscan.io/token/0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
-    },
-    {
-      "chainId": 747,
       "address": "0x7854ed61f74595bdd232e953764d6c9a626b8e9a",
       "contractName": "DAMO420",
       "path": {
@@ -1894,8 +1890,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "h6xXUCDqth",
         "twitter": "_damo420",
+        "discord": "h6xXUCDqth",
         "website": "toucans.ecdao.org/p/DAMO420"
       },
       "flowIdentifier": "A.3399d7c6c609b7e5.DAMO420.Vault",
@@ -2019,11 +2015,39 @@
       },
       "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
       "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
+    },
+    {
+      "chainId": 747,
+      "address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "contractName": "TeleportedTetherToken",
+      "path": {
+        "vault": "/storage/teleportedTetherTokenVault",
+        "receiver": "/public/teleportedTetherTokenReceiver",
+        "balance": "/public/teleportedTetherTokenBalance"
+      },
+      "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "flowAddress": "0xcfdd90d4a00f7b5b",
+      "symbol": "tUSDT",
+      "name": "Teleported Tether Token",
+      "description": "",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
+      "tags": [
+        "teleported-token",
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://blocto.app/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      },
+      "flowIdentifier": "A.cfdd90d4a00f7b5b.TeleportedTetherToken.Vault",
+      "website": "https://evm.flowscan.io/token/0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
     }
   ],
-  "totalAmount": 81,
+  "totalAmount": 82,
   "filterType": "ALL",
-  "timestamp": "2025-12-12T01:52:46.369Z",
+  "timestamp": "2025-12-20T01:46:47.972Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2064,7 +2088,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 25,
+    "minor": 26,
     "patch": 0
   }
 }
