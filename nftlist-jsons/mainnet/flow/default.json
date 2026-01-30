@@ -19,8 +19,8 @@
       "bannerURI": "https://bafybeiaaf7bfbppep5ahb2m75xlmxyj76hxo3oh5dcl4prxeskruwpe6c4.ipfs.nftstorage.link/",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/aera_football/",
         "discord": "https://discord.gg/aera",
+        "instagram": "https://www.instagram.com/aera_football/",
         "twitter": "https://twitter.com/aera_football",
         "website": "http://aera.onefootbal.com"
       }
@@ -83,8 +83,8 @@
       "tags": [],
       "extensions": {
         "instagram": "",
-        "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
+        "discord": "https://discord.gg/giglabs",
         "website": "https://Bobblz.shops.gigantik.io/"
       }
     },
@@ -104,8 +104,8 @@
       "bannerURI": "https://media-local.gigantik.io/bwayx/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "",
         "twitter": "https://x.com/gigantik_",
+        "instagram": "",
         "discord": "https://discord.gg/giglabs",
         "website": "https://BWAYX.shops.gigantik.io/"
       }
@@ -118,6 +118,7 @@
         "storage": "/storage/Canes_Vault_NFTCollection",
         "public": "/public/Canes_Vault_NFTCollection"
       },
+      "evmAddress": "0xa9b1c1bb8d73a2568ebae97f83eb827d0bae6f00",
       "flowAddress": "0x329feb3ab062d289",
       "name": "Canes_Vault shop",
       "description": "This is a Canes_Vault shop",
@@ -125,8 +126,8 @@
       "bannerURI": "https://media-local.gigantik.io/canes_vault/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "",
         "twitter": "https://x.com/gigantik_",
+        "instagram": "",
         "discord": "https://discord.gg/giglabs",
         "website": "https://Canes_Vault.shops.gigantik.io/"
       }
@@ -191,8 +192,8 @@
       "bannerURI": "https://pbs.twimg.com/profile_banners/1448245049666510848/1652452073/1500x500",
       "tags": [],
       "extensions": {
-        "Discord": "https://discord.gg/95P274mayM",
         "Twitter": "https://twitter.com/findonflow",
+        "Discord": "https://discord.gg/95P274mayM",
         "website": "http://find.xyz/neoCharity"
       }
     },
@@ -230,9 +231,9 @@
       "bannerURI": "https://media-local.gigantik.io/dgd/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "",
         "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
+        "instagram": "",
         "website": "https://DGD.shops.gigantik.io/"
       }
     },
@@ -315,8 +316,8 @@
       "bannerURI": "https://i.imgur.com/ETeVZZU.jpg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/emeraldcity",
         "twitter": "https://twitter.com/emerald_dao",
+        "discord": "https://discord.gg/emeraldcity",
         "website": "https://floats.city"
       }
     },
@@ -336,10 +337,10 @@
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/flovatar",
-        "discord": "https://discord.gg/flovatar",
         "tiktok": "https://www.tiktok.com/@flovatar",
         "instagram": "https://instagram.com/flovatar_nft",
+        "twitter": "https://x.com/flovatar",
+        "discord": "https://discord.gg/flovatar",
         "website": "https://flovatar.com"
       }
     },
@@ -361,8 +362,8 @@
       "extensions": {
         "instagram": "https://instagram.com/flovatar_nft",
         "twitter": "https://x.com/flovatar",
-        "tiktok": "https://www.tiktok.com/@flovatar",
         "discord": "https://discord.gg/flovatar",
+        "tiktok": "https://www.tiktok.com/@flovatar",
         "website": "https://flovatar.com"
       }
     },
@@ -382,10 +383,10 @@
       "bannerURI": "https://ipfs.io/ipfs/QmTBnCqNwgE8AiHPs9YxuVb8HSKWA2RvY5Q4NYm1tvW6wq",
       "tags": [],
       "extensions": {
-        "github": "https://github.com/onflow/crescendo-rewards-sc",
-        "twitter": "https://twitter.com/flow_blockchain",
-        "instagram": "https://www.instagram.com/flowblockchain",
         "discord": "https://discord.com/invite/flowblockchain",
+        "github": "https://github.com/onflow/crescendo-rewards-sc",
+        "instagram": "https://www.instagram.com/flowblockchain",
+        "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://rewards.flow.com"
       }
     },
@@ -404,9 +405,9 @@
       "bannerURI": "https://flowverse-mystery-pass.s3.filebase.com/mainnet/bannerImage.jpg",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/flowverse_",
-        "instagram": "https://www.instagram.com/flowverseofficial",
         "discord": "https://discord.gg/flowverse",
+        "instagram": "https://www.instagram.com/flowverseofficial",
+        "twitter": "https://twitter.com/flowverse_",
         "website": "https://nft.flowverse.co/flowverse-mystery-pass"
       }
     },
@@ -446,8 +447,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/flowverse_",
-        "discord": "https://discord.gg/flowverse",
         "instagram": "https://www.instagram.com/flowverseofficial",
+        "discord": "https://discord.gg/flowverse",
         "website": "https://nft.flowverse.co/treasures"
       }
     },
@@ -487,10 +488,10 @@
       "bannerURI": "https://i.imgur.com/4DOuqFf.jpeg",
       "tags": [],
       "extensions": {
+        "x": "https://twitter.com/fixesWorld",
+        "github": "https://github.com/fixes-world",
         "linktree": "https://linktr.ee/fixes.world",
         "twitter": "https://twitter.com/fixesWorld",
-        "github": "https://github.com/fixes-world",
-        "x": "https://twitter.com/fixesWorld",
         "website": "https://fixes.world/"
       }
     },
@@ -510,9 +511,9 @@
       "bannerURI": "https://media-local.gigantik.io/fuchibola/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "",
-        "discord": "https://discord.gg/giglabs",
         "twitter": "https://x.com/gigantik_",
+        "discord": "https://discord.gg/giglabs",
+        "instagram": "",
         "website": "https://Fuchibola.shops.gigantik.io/"
       }
     },
@@ -554,8 +555,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/DriverzWorld",
-        "discord": "https://discord.gg/driverz",
         "instagram": "https://www.instagram.com/driverzworld",
+        "discord": "https://discord.gg/driverz",
         "website": "https://driverz.world/"
       }
     },
@@ -615,8 +616,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/magnetiq_xyz",
-        "discord": "https://discord.com/invite/Magnetiq",
         "instagram": "https://www.instagram.com/magnetiq_xyz",
+        "discord": "https://discord.com/invite/Magnetiq",
         "website": "https://www.magnetiq.xyz/"
       }
     },
@@ -657,10 +658,10 @@
       "bannerURI": "https://app.playmfl.com/img/collections/clubs/banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/pEDTR4wSPr",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
-        "twitter": "https://twitter.com/playMFL",
         "medium": "https://medium.com/playmfl",
+        "twitter": "https://twitter.com/playMFL",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
+        "discord": "https://discord.gg/pEDTR4wSPr",
         "website": "https://playmfl.com"
       }
     },
@@ -680,10 +681,10 @@
       "bannerURI": "https://app.playmfl.com/img/collections/players/banner.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/pEDTR4wSPr",
+        "medium": "https://medium.com/playmfl",
         "twitter": "https://twitter.com/playMFL",
         "linkedin": "https://www.linkedin.com/company/playmfl",
-        "medium": "https://medium.com/playmfl",
+        "discord": "https://discord.gg/pEDTR4wSPr",
         "website": "https://playmfl.com"
       }
     },
@@ -763,9 +764,9 @@
       "bannerURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_BANNER.png",
       "tags": [],
       "extensions": {
+        "instagram": "https://www.instagram.com/nflallday/",
         "discord": "https://discord.com/invite/5K6qyTzj2k",
         "twitter": "https://twitter.com/NFLAllDay",
-        "instagram": "https://www.instagram.com/nflallday/",
         "website": "https://nflallday.com/"
       }
     },
@@ -827,8 +828,8 @@
       "bannerURI": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/nDxrtnxN",
         "twitter": "https://x.com/PuffPalz",
+        "discord": "https://discord.gg/nDxrtnxN",
         "website": "https://puffpalz.io"
       }
     },
@@ -848,9 +849,9 @@
       "bannerURI": "https://media-local.gigantik.io/raceday/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "https://instagram.com/racedaynft/",
         "discord": "https://discord.gg/jkmrMY5TGB",
         "twitter": "https://x.com/RaceDayNFT",
+        "instagram": "https://instagram.com/racedaynft/",
         "website": "https://racedaynft.com/"
       }
     },
@@ -870,9 +871,9 @@
       "bannerURI": "https://ipfs.io/ipfs/QmVoTikzygffMaPcacyTjF8mQ71Eg3zsMF4p4fbsAtGQmQ",
       "tags": [],
       "extensions": {
-        "instagram": "https://www.instagram.com/thedoodles",
         "twitter": "https://twitter.com/doodles",
         "discord": "https://discord.gg/doodles",
+        "instagram": "https://www.instagram.com/thedoodles",
         "website": "https://doodles.app"
       }
     },
@@ -913,9 +914,9 @@
       "bannerURI": "https://storage.googleapis.com/flunks_public/images/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/FlunksNFT",
+        "discord": "https://discord.gg/flunks",
         "website": "https://flunks.net",
-        "discord": "https://discord.gg/flunks"
+        "twitter": "https://twitter.com/FlunksNFT"
       }
     },
     {
@@ -934,10 +935,10 @@
       "bannerURI": "https://images.sportvatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "tiktok": "https://www.tiktok.com/@sportvatar",
-        "instagram": "https://instagram.com/sportvatar",
         "twitter": "https://x.com/sportvatar",
+        "tiktok": "https://www.tiktok.com/@sportvatar",
         "discord": "https://discord.gg/sportvatar",
+        "instagram": "https://instagram.com/sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -958,9 +959,9 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/sportvatar",
-        "instagram": "https://instagram.com/sportvatar",
-        "tiktok": "https://www.tiktok.com/@sportvatar",
         "discord": "https://discord.gg/sportvatar",
+        "tiktok": "https://www.tiktok.com/@sportvatar",
+        "instagram": "https://instagram.com/sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -981,8 +982,8 @@
       "tags": [],
       "extensions": {
         "instagram": "https://www.instagram.com/nbatopshot",
-        "twitter": "https://twitter.com/nbatopshot",
         "discord": "https://discord.com/invite/nbatopshot",
+        "twitter": "https://twitter.com/nbatopshot",
         "website": "https://nbatopshot.com"
       }
     },
@@ -1067,12 +1068,12 @@
       "bannerURI": "https://play.zeedz.io/background-zeedz.jpg",
       "tags": [],
       "extensions": {
-        "discord": "http://discord.com/invite/zeedz",
+        "linkedin": "https://www.linkedin.com/company/zeedz",
         "youtube": "https://www.youtube.com/c/zeedz_official",
         "twitter": "https://twitter.com/zeedz_official",
-        "linkedin": "https://www.linkedin.com/company/zeedz",
-        "instagram": "https://www.instagram.com/zeedz_official/",
         "medium": "https://blog.zeedz.io/",
+        "discord": "http://discord.com/invite/zeedz",
+        "instagram": "https://www.instagram.com/zeedz_official/",
         "website": "https://play.zeedz.io"
       }
     },
@@ -1750,7 +1751,7 @@
   ],
   "totalAmount": 82,
   "filterType": "ALL",
-  "timestamp": "2025-11-22T01:42:04.668Z",
+  "timestamp": "2026-01-30T02:22:14.463Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1779,7 +1780,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 0
+    "minor": 0,
+    "patch": 1
   }
 }
