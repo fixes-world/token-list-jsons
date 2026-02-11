@@ -311,7 +311,7 @@
       "name": "BETA",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d8ad8ae8375aa31bff541e17dc4b4917014ebdaa",
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/9MWLZ47.png",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xd8Ad8AE8375aa31BFF541e17dC4b4917014EbDAa/logo.png",
       "tags": [],
       "extensions": {
         "website": "https://topshotbeta.com/",
@@ -1224,8 +1224,8 @@
         "memecoin"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/HITonflow",
         "discord": "",
+        "twitter": "https://twitter.com/HITonflow",
         "website": ""
       },
       "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
@@ -1251,8 +1251,8 @@
         "Verified"
       ],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": "mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       },
@@ -1471,7 +1471,7 @@
       "name": "Avocado",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 995258cea49c25595cd94407fad9e99b81406a84",
       "decimals": 18,
-      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/f7c8d943-74ff-4cd4-acee-3e5dfcad9636.jpeg",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0x995258Cea49C25595CD94407FaD9E99B81406A84/logo.png",
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com",
@@ -1962,7 +1962,7 @@
       "name": "OFFICIAL TRUMP",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xD3378b419feae4e3A4Bb4f3349DBa43a1B511760/logo.png",
       "tags": [
         "Verified"
       ],
@@ -2020,8 +2020,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "tags": [],
       "extensions": {
-        "discord": "h6xXUCDqth",
         "twitter": "_damo420",
+        "discord": "h6xXUCDqth",
         "website": "toucans.ecdao.org/p/DAMO420"
       },
       "flowIdentifier": "A.3399d7c6c609b7e5.DAMO420.Vault",
@@ -2149,7 +2149,7 @@
   ],
   "totalAmount": 83,
   "filterType": "REVIEWED",
-  "timestamp": "2025-12-23T01:53:47.219Z",
+  "timestamp": "2026-02-11T02:37:43.963Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2190,7 +2190,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 27,
+    "minor": 28,
     "patch": 0
   }
 }

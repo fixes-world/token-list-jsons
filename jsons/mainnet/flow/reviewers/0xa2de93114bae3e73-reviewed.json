@@ -271,8 +271,8 @@
         "Verified"
       ],
       "extensions": {
-        "twitter": "",
         "discord": "alldayunlimited",
+        "twitter": "",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -602,7 +602,7 @@
       "name": "OFFICIAL TRUMP",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
       "decimals": 8,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
+      "logoURI": "https://raw.githubusercontent.com/onflow/assets/main/tokens/registry/0xD3378b419feae4e3A4Bb4f3349DBa43a1B511760/logo.png",
       "tags": [
         "Verified"
       ],
@@ -760,8 +760,8 @@
         "memecoin"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/GYV8JRR",
         "telegram": "https://t.co/E8FzKLuMnH",
+        "discord": "https://discord.com/invite/GYV8JRR",
         "twitter": "https://twitter.com/SloppyStakesDAO",
         "website": "http://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
@@ -1240,7 +1240,7 @@
   ],
   "totalAmount": 47,
   "filterType": "REVIEWED",
-  "timestamp": "2025-12-05T01:50:18.171Z",
+  "timestamp": "2026-02-11T02:37:34.905Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -1282,6 +1282,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   }
 }
