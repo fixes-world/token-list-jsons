@@ -1110,8 +1110,8 @@
       "evmAddress": "0x213979bb8a9a86966999b3aa797c1fcf3b967ae2",
       "flowAddress": "0x6b00ff876c299c61",
       "symbol": "MOET",
-      "name": "FlowCreditMarket USD",
-      "description": "A mocked version of FlowCreditMarket stablecoin",
+      "name": "FlowALP USD",
+      "description": "A Mean Of Exchange Token / FlowALP stablecoin",
       "decimals": 18,
       "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
       "tags": [],
@@ -2149,7 +2149,7 @@
   ],
   "totalAmount": 83,
   "filterType": "VERIFIED",
-  "timestamp": "2026-02-11T02:37:47.344Z",
+  "timestamp": "2026-02-19T02:29:03.066Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
   "keywords": [
     "Flow",
@@ -2190,7 +2190,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   }
 }
