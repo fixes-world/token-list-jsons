@@ -82,9 +82,9 @@
       "bannerURI": "https://media-local.gigantik.io/bobblz/banner.png",
       "tags": [],
       "extensions": {
-        "instagram": "",
-        "twitter": "https://x.com/gigantik_",
         "discord": "https://discord.gg/giglabs",
+        "twitter": "https://x.com/gigantik_",
+        "instagram": "",
         "website": "https://Bobblz.shops.gigantik.io/"
       }
     },
@@ -104,9 +104,9 @@
       "bannerURI": "https://media-local.gigantik.io/bwayx/banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://x.com/gigantik_",
         "instagram": "",
         "discord": "https://discord.gg/giglabs",
+        "twitter": "https://x.com/gigantik_",
         "website": "https://BWAYX.shops.gigantik.io/"
       }
     },
@@ -337,9 +337,9 @@
       "bannerURI": "https://images.flovatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
-        "tiktok": "https://www.tiktok.com/@flovatar",
-        "instagram": "https://instagram.com/flovatar_nft",
         "twitter": "https://x.com/flovatar",
+        "instagram": "https://instagram.com/flovatar_nft",
+        "tiktok": "https://www.tiktok.com/@flovatar",
         "discord": "https://discord.gg/flovatar",
         "website": "https://flovatar.com"
       }
@@ -398,6 +398,7 @@
         "storage": "/storage/FlowversePassCollection",
         "public": "/public/FlowversePassCollection"
       },
+      "evmAddress": "0x711a17cec8f94a8493d1470d174efe2ef5f356c5",
       "flowAddress": "0x9212a87501a8a6a2",
       "name": "Flowverse Mystery Pass",
       "description": "The Flowverse Mystery Pass is a utility-focused membership pass that aims to level up Flowverse from a web2 information provider to a web3 brand",
@@ -405,9 +406,9 @@
       "bannerURI": "https://flowverse-mystery-pass.s3.filebase.com/mainnet/bannerImage.jpg",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/flowverse",
-        "instagram": "https://www.instagram.com/flowverseofficial",
         "twitter": "https://twitter.com/flowverse_",
+        "instagram": "https://www.instagram.com/flowverseofficial",
+        "discord": "https://discord.gg/flowverse",
         "website": "https://nft.flowverse.co/flowverse-mystery-pass"
       }
     },
@@ -533,8 +534,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmdU1j5nqeQBmVWZZDhz23z6mMPwMp5i2Ka2sBpMhYggPT",
       "tags": [],
       "extensions": {
-        "discord": "http://discord.gg/zJRNqKuDQH",
         "twitter": "https://mobile.twitter.com/the_goobz_nft",
+        "discord": "http://discord.gg/zJRNqKuDQH",
         "website": "https://partymansion.io/"
       }
     },
@@ -555,8 +556,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://twitter.com/DriverzWorld",
-        "instagram": "https://www.instagram.com/driverzworld",
         "discord": "https://discord.gg/driverz",
+        "instagram": "https://www.instagram.com/driverzworld",
         "website": "https://driverz.world/"
       }
     },
@@ -615,9 +616,9 @@
       "bannerURI": "https://magnetiq-static.s3.amazonaws.com/media/public/MAGNETIQ_banner.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/magnetiq_xyz",
-        "instagram": "https://www.instagram.com/magnetiq_xyz",
         "discord": "https://discord.com/invite/Magnetiq",
+        "instagram": "https://www.instagram.com/magnetiq_xyz",
+        "twitter": "https://twitter.com/magnetiq_xyz",
         "website": "https://www.magnetiq.xyz/"
       }
     },
@@ -658,10 +659,10 @@
       "bannerURI": "https://app.playmfl.com/img/collections/clubs/banner.png",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/playmfl",
-        "twitter": "https://twitter.com/playMFL",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "twitter": "https://twitter.com/playMFL",
+        "medium": "https://medium.com/playmfl",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -681,10 +682,10 @@
       "bannerURI": "https://app.playmfl.com/img/collections/players/banner.png",
       "tags": [],
       "extensions": {
-        "medium": "https://medium.com/playmfl",
-        "twitter": "https://twitter.com/playMFL",
-        "linkedin": "https://www.linkedin.com/company/playmfl",
         "discord": "https://discord.gg/pEDTR4wSPr",
+        "twitter": "https://twitter.com/playMFL",
+        "medium": "https://medium.com/playmfl",
+        "linkedin": "https://www.linkedin.com/company/playmfl",
         "website": "https://playmfl.com"
       }
     },
@@ -786,8 +787,8 @@
       "bannerURI": "https://ipfs.io/ipfs/QmVyXgw67QVAU98765yfQAB1meZhnSnYVoL6mz6UpzSw7W",
       "tags": [],
       "extensions": {
-        "twitter": "https://mobile.twitter.com/the_goobz_nft",
         "discord": "http://discord.gg/zJRNqKuDQH",
+        "twitter": "https://mobile.twitter.com/the_goobz_nft",
         "website": "https://partymansion.io/"
       }
     },
@@ -936,8 +937,8 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/sportvatar",
-        "tiktok": "https://www.tiktok.com/@sportvatar",
         "discord": "https://discord.gg/sportvatar",
+        "tiktok": "https://www.tiktok.com/@sportvatar",
         "instagram": "https://instagram.com/sportvatar",
         "website": "https://sportvatar.com"
       }
@@ -958,10 +959,10 @@
       "bannerURI": "https://images.sportvatar.com/logo-horizontal.svg",
       "tags": [],
       "extensions": {
+        "instagram": "https://instagram.com/sportvatar",
         "twitter": "https://x.com/sportvatar",
         "discord": "https://discord.gg/sportvatar",
         "tiktok": "https://www.tiktok.com/@sportvatar",
-        "instagram": "https://instagram.com/sportvatar",
         "website": "https://sportvatar.com"
       }
     },
@@ -1751,7 +1752,7 @@
   ],
   "totalAmount": 82,
   "filterType": "ALL",
-  "timestamp": "2026-01-30T02:22:14.463Z",
+  "timestamp": "2026-03-24T02:26:00.684Z",
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -1781,6 +1782,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
